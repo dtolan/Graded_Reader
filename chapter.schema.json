@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StoryTime chapter",
+  "description": "stories/<lang>/<book-id>/<level>/chapter-NN.json. One chapter at one level; readable and playable on its own.",
+  "type": "object",
+  "required": ["schema_version", "book_id", "level", "number", "title", "recap", "paragraphs", "word_count", "vocabulary", "questions"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": 1 },
+    "book_id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "level": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1"] },
+    "number": { "type": "integer", "minimum": 1, "maximum": 15 },
+    "title": { "type": "string", "minLength": 1 },
+    "recap": {
+      "type": "string",
+      "minLength": 1,
+      "description": "One or two sentences at this level placing the chapter in the story, so it can be read alone"
+    },
+    "paragraphs": {
+      "type": "array",
+      "minItems": 5,
+      "description": "Chapter text, one short paragraph per item. The app queues these one at a time into text-to-speech.",
+      "items": { "type": "string", "minLength": 1, "maxLength": 1500 }
+    },
+    "word_count": { "type": "integer", "minimum": 1, "description": "Words across paragraphs; the app divides by speech rate to estimate listening time" },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["term", "pos", "gloss_en"],
+        "additionalProperties": false,
+        "properties": {
+          "term": { "type": "string" },
+          "pos": { "type": "string" },
+          "gloss_en": { "type": "string" }
+        }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["question", "answer"],
+        "additionalProperties": false,
+        "properties": { "question": { "type": "string" }, "answer": { "type": "string" } }
+      }
+    },
+    "generated": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": { "model": { "type": "string" }, "date": { "type": "string" } }
+    }
+  }
+}

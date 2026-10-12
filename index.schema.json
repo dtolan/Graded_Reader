@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StoryTime catalog",
+  "description": "stories/index.json (public). A private catalog uses the same shape, served separately behind authentication.",
+  "type": "object",
+  "required": ["schema_version", "language", "books"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": 1 },
+    "language": { "type": "string", "enum": ["fr"] },
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "topic", "summary", "visibility", "status", "levels", "chapter_count", "path"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "title": { "type": "string" },
+          "topic": {
+            "type": "object",
+            "required": ["type", "name"],
+            "additionalProperties": false,
+            "properties": {
+              "type": { "type": "string", "enum": ["person", "event", "place"] },
+              "name": { "type": "string" },
+              "period": { "type": "string" },
+              "region": { "type": "string" }
+            }
+          },
+          "summary": { "type": "string" },
+          "visibility": { "type": "string", "enum": ["public", "private"] },
+          "status": { "type": "string", "enum": ["draft", "reviewed"] },
+          "levels": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1"] } },
+          "chapter_count": { "type": "integer", "minimum": 10, "maximum": 15 },
+          "path": { "type": "string", "description": "Path to book.json relative to stories/, e.g. fr/jeanne-darc/book.json" },
+          "updated": { "type": "string" }
+        }
+      }
+    }
+  }
+}

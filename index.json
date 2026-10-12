@@ -1,20 +1,5 @@
 {
-  "version": 1,
+  "schema_version": 1,
   "language": "fr",
-  "stories": [
-    {
-      "id": "jeanne-darc-b1",
-      "title": "Jeanne d'Arc, la jeune paysanne devenue chef de guerre",
-      "level": "B1",
-      "topic": {
-        "type": "person",
-        "name": "Jeanne d'Arc",
-        "period": "1412-1431",
-        "region": "Lorraine / Orléanais"
-      },
-      "summary": "Jeanne d'Arc est née dans un village de l'est de la France. Pendant la guerre de Cent Ans, elle a aidé le futur roi Charles VII, puis elle a été condamnée et brûlée à Rouen à l'âge d'environ dix-neuf ans.",
-      "status": "draft",
-      "path": "fr/jeanne-darc-b1.json"
-    }
-  ]
+  "books": []
 }
