@@ -1,0 +1,209 @@
+{
+  "id": "jeanne-darc-b1",
+  "language": "fr",
+  "level": "B1",
+  "title": "Jeanne d'Arc, la jeune paysanne devenue chef de guerre",
+  "topic": {
+    "type": "person",
+    "name": "Jeanne d'Arc",
+    "period": "1412-1431",
+    "region": "Lorraine / Orléanais"
+  },
+  "summary": "Jeanne d'Arc est née dans un village de l'est de la France. Pendant la guerre de Cent Ans, elle a aidé le futur roi Charles VII, puis elle a été condamnée et brûlée à Rouen à l'âge d'environ dix-neuf ans.",
+  "sections": [
+    {
+      "heading": "Une enfant de Domrémy",
+      "text": "Jeanne naît vers 1412 à Domrémy, un village de l'est de la France, dans la région de la Lorraine. Ses parents, Jacques d'Arc et Isabelle Romée, sont des paysans. Jeanne ne sait ni lire ni écrire. À cette époque, la France est en guerre contre l'Angleterre : c'est la guerre de Cent Ans. Le pays est aussi divisé, et le dauphin Charles n'est pas encore couronné roi."
+    },
+    {
+      "heading": "Les voix et le départ",
+      "text": "Plus tard, Jeanne racontera à ses juges qu'elle entendait des voix depuis l'âge de treize ans environ. Selon elle, c'étaient celles de saint Michel, de sainte Catherine et de sainte Marguerite. Elle disait que ces voix lui demandaient d'aller en France pour aider le dauphin. Elle va d'abord à Vaucouleurs, chez le capitaine Robert de Baudricourt. Il refuse de l'aider, mais en février 1429, il accepte de lui donner une petite escorte. Jeanne voyage alors jusqu'à Chinon, habillée en homme. En mars 1429, elle rencontre Charles. Des théologiens l'interrogent ensuite à Poitiers."
+    },
+    {
+      "heading": "Orléans et Reims",
+      "text": "Depuis octobre 1428, les Anglais assiègent la ville d'Orléans. Jeanne arrive dans la ville le 29 avril 1429, avec une armée de secours. Le 8 mai, les Anglais quittent la ville : le siège est terminé. Le 18 juin, les Français gagnent aussi la bataille de Patay. Ensuite, Jeanne accompagne Charles à Reims. Le 17 juillet 1429, il y est sacré roi sous le nom de Charles VII, et Jeanne est présente à la cérémonie."
+    },
+    {
+      "heading": "Prisonnière, puis condamnée",
+      "text": "En septembre 1429, Jeanne attaque Paris, mais l'attaque échoue et elle est blessée. Le 23 mai 1430, les Bourguignons, qui sont alliés des Anglais, la capturent à Compiègne. Ils la vendent ensuite aux Anglais. Son procès a lieu à Rouen. Il est dirigé par Pierre Cauchon, un évêque qui soutient les Anglais. Les juges condamnent Jeanne, et on la brûle sur la place du Vieux-Marché, à Rouen, le 30 mai 1431. Elle avait environ dix-neuf ans."
+    },
+    {
+      "heading": "Une mémoire qui continue",
+      "text": "Vingt-cinq ans plus tard, en 1456, un nouveau procès annule la condamnation de Jeanne. L'Église la proclame sainte en 1920. Aujourd'hui, elle reste un grand symbole de l'histoire de France, et on peut visiter les lieux de sa vie, de Domrémy à Orléans et à Rouen."
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "un paysan / une paysanne",
+      "pos": "nom",
+      "gloss_en": "peasant, farmer"
+    },
+    {
+      "term": "la guerre de Cent Ans",
+      "pos": "nom",
+      "gloss_en": "the Hundred Years' War"
+    },
+    {
+      "term": "le dauphin",
+      "pos": "nom",
+      "gloss_en": "the dauphin (heir to the French throne)"
+    },
+    {
+      "term": "une voix",
+      "pos": "nom",
+      "gloss_en": "a voice"
+    },
+    {
+      "term": "un juge",
+      "pos": "nom",
+      "gloss_en": "judge"
+    },
+    {
+      "term": "une escorte",
+      "pos": "nom",
+      "gloss_en": "escort, group of armed companions"
+    },
+    {
+      "term": "assiéger",
+      "pos": "verbe",
+      "gloss_en": "to besiege"
+    },
+    {
+      "term": "le siège",
+      "pos": "nom",
+      "gloss_en": "siege"
+    },
+    {
+      "term": "sacré(e)",
+      "pos": "adjectif / participe",
+      "gloss_en": "crowned and anointed (as king)"
+    },
+    {
+      "term": "échouer",
+      "pos": "verbe",
+      "gloss_en": "to fail"
+    },
+    {
+      "term": "capturer",
+      "pos": "verbe",
+      "gloss_en": "to capture"
+    },
+    {
+      "term": "un procès",
+      "pos": "nom",
+      "gloss_en": "trial"
+    },
+    {
+      "term": "brûler",
+      "pos": "verbe",
+      "gloss_en": "to burn"
+    },
+    {
+      "term": "annuler",
+      "pos": "verbe",
+      "gloss_en": "to cancel, to overturn"
+    }
+  ],
+  "key_facts": [
+    {
+      "year": "vers 1412",
+      "claim": "Jeanne d'Arc est née vers 1412 à Domrémy, village de l'est de la France (aujourd'hui dans les Vosges, en Lorraine)."
+    },
+    {
+      "claim": "Ses parents s'appelaient Jacques d'Arc et Isabelle Romée et étaient des paysans."
+    },
+    {
+      "claim": "Jeanne ne savait ni lire ni écrire."
+    },
+    {
+      "year": "1337-1453",
+      "claim": "La France était en guerre contre l'Angleterre (guerre de Cent Ans) et divisée ; Charles, le dauphin, n'était pas encore couronné."
+    },
+    {
+      "claim": "Selon son propre témoignage devant ses juges, Jeanne a entendu des voix (saint Michel, sainte Catherine, sainte Marguerite) à partir d'environ treize ans."
+    },
+    {
+      "year": "1428-1429",
+      "claim": "Elle est allée à Vaucouleurs voir Robert de Baudricourt, qui a d'abord refusé puis lui a donné une escorte en février 1429."
+    },
+    {
+      "year": "1429",
+      "claim": "Elle a voyagé jusqu'à Chinon habillée en homme et y a rencontré Charles en mars 1429."
+    },
+    {
+      "year": "1429",
+      "claim": "Des théologiens l'ont interrogée à Poitiers."
+    },
+    {
+      "year": "1428",
+      "claim": "Les Anglais ont commencé le siège d'Orléans en octobre 1428."
+    },
+    {
+      "year": "1429",
+      "claim": "Jeanne est arrivée à Orléans le 29 avril 1429 ; le siège a été levé le 8 mai 1429."
+    },
+    {
+      "year": "1429",
+      "claim": "Les Français ont gagné la bataille de Patay le 18 juin 1429."
+    },
+    {
+      "year": "1429",
+      "claim": "Charles VII a été sacré à Reims le 17 juillet 1429, en présence de Jeanne."
+    },
+    {
+      "year": "1429",
+      "claim": "L'attaque contre Paris en septembre 1429 a échoué et Jeanne a été blessée."
+    },
+    {
+      "year": "1430",
+      "claim": "Jeanne a été capturée par les Bourguignons à Compiègne le 23 mai 1430, puis remise aux Anglais."
+    },
+    {
+      "year": "1431",
+      "claim": "Son procès a eu lieu à Rouen sous la direction de Pierre Cauchon, évêque favorable aux Anglais."
+    },
+    {
+      "year": "1431",
+      "claim": "Jeanne a été brûlée à Rouen, place du Vieux-Marché, le 30 mai 1431, à environ 19 ans."
+    },
+    {
+      "year": "1456",
+      "claim": "Un procès de réhabilitation a annulé la condamnation de Jeanne en 1456."
+    },
+    {
+      "year": "1920",
+      "claim": "Jeanne d'Arc a été canonisée en 1920."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Où Jeanne est-elle née et quel était le métier de ses parents ?",
+      "answer": "Elle est née à Domrémy, en Lorraine. Ses parents étaient paysans."
+    },
+    {
+      "question": "Que racontait Jeanne à propos de ses voix ?",
+      "answer": "Elle disait qu'elle entendait saint Michel, sainte Catherine et sainte Marguerite, et qu'elles lui demandaient d'aider le dauphin."
+    },
+    {
+      "question": "Que s'est-il passé à Orléans en 1429 ?",
+      "answer": "Jeanne est arrivée le 29 avril avec une armée de secours, et le 8 mai les Anglais ont quitté la ville : le siège était terminé."
+    },
+    {
+      "question": "Où et quand Charles VII a-t-il été sacré roi ?",
+      "answer": "À Reims, le 17 juillet 1429."
+    },
+    {
+      "question": "Comment Jeanne est-elle morte ?",
+      "answer": "Elle a été condamnée à Rouen et brûlée le 30 mai 1431, sur la place du Vieux-Marché."
+    },
+    {
+      "question": "Que s'est-il passé en 1456 et en 1920 ?",
+      "answer": "En 1456, un nouveau procès a annulé la condamnation de Jeanne. En 1920, l'Église l'a proclamée sainte."
+    }
+  ],
+  "status": "draft",
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-12"
+  }
+}
