@@ -1,5 +1,25 @@
 {
   "schema_version": 1,
   "language": "fr",
-  "books": []
+  "books": [
+    {
+      "id": "jeanne-d-arc",
+      "title": "Jeanne d'Arc, la Pucelle",
+      "topic": {
+        "type": "person",
+        "name": "Jeanne d'Arc",
+        "period": "1412-1431",
+        "region": "Lorraine, Orléanais, Normandie"
+      },
+      "summary": "De son village de Domrémy au bûcher de Rouen, découvrez la vie de la jeune paysanne lorraine qui a changé le cours de la guerre de Cent Ans. Une histoire vraie de foi, de courage, de trahison et de mémoire.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "A1"
+      ],
+      "chapter_count": 10,
+      "path": "fr/jeanne-d-arc/book.json",
+      "updated": "2026-10-13"
+    }
+  ]
 }

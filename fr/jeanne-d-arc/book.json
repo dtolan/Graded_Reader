@@ -1,0 +1,448 @@
+{
+  "schema_version": 1,
+  "id": "jeanne-d-arc",
+  "language": "fr",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Jeanne d'Arc, la Pucelle",
+  "topic": {
+    "type": "person",
+    "name": "Jeanne d'Arc",
+    "period": "1412-1431",
+    "region": "Lorraine, Orléanais, Normandie"
+  },
+  "summary": "De son village de Domrémy au bûcher de Rouen, découvrez la vie de la jeune paysanne lorraine qui a changé le cours de la guerre de Cent Ans. Une histoire vraie de foi, de courage, de trahison et de mémoire.",
+  "levels": [
+    "A1"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Une enfant de Domrémy",
+      "period": "c. 1412-1428",
+      "summary": "Jeanne grandit dans un village de la vallée de la Meuse, loyal au dauphin, pendant que la guerre de Cent Ans déchire le royaume. Vers l'âge de treize ans, elle affirme avoir entendu des voix pour la première fois.",
+      "key_facts": [
+        {
+          "year": "c. 1412",
+          "claim": "Jeanne was born in Domrémy, a village on the Meuse on the eastern edge of the kingdom of France; the date of 6 January 1412 is traditional but not certain."
+        },
+        {
+          "claim": "Her father was Jacques d'Arc, a farmer who held a position of some local standing, and her mother was Isabelle Romée; the surname 'Romée' is usually linked to a pilgrimage to Rome."
+        },
+        {
+          "claim": "At her trial Jeanne said she learned the Pater, the Ave Maria and the Credo from her mother, and that at home she did household tasks such as sewing and spinning. She could not read or write."
+        },
+        {
+          "year": "1337",
+          "claim": "The Hundred Years' War between the kings of France and England had begun in 1337 and was still going on when Jeanne was born."
+        },
+        {
+          "year": "1415",
+          "claim": "The English king Henry V crushed the French army at Agincourt in 1415."
+        },
+        {
+          "year": "1420",
+          "claim": "By the Treaty of Troyes in 1420, the mad king Charles VI of France accepted Henry V as his heir, which cut out his own son Charles, the dauphin."
+        },
+        {
+          "year": "1422",
+          "claim": "Both Henry V and Charles VI died in 1422. The English proclaimed the infant Henry VI king of France and England, while the dauphin Charles was not crowned and was mocked by his enemies as 'the king of Bourges'."
+        },
+        {
+          "claim": "The Burgundians, led by Duke Philip the Good, were allies of the English; the Armagnac party supported the dauphin. Domrémy was generally on the dauphin's side."
+        },
+        {
+          "year": "c. 1425",
+          "claim": "At her trial Jeanne said she was about thirteen when she first heard a voice, in her father's garden around midday, and that it was accompanied by a light. She later identified the voices as those of Saint Michael, Saint Catherine and Saint Margaret."
+        },
+        {
+          "year": "1428",
+          "claim": "In 1428 Burgundian-allied soldiers raided Domrémy; according to testimonies the villagers, including Jeanne's family, took refuge for a time in nearby Neufchâteau."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Vaucouleurs : la route du roi",
+      "period": "May 1428 - February 1429",
+      "summary": "Convinced that her voices are sending her to the dauphin, Jeanne goes to Vaucouleurs to ask the local captain for an escort. After a first refusal she wins support and sets off for Chinon.",
+      "key_facts": [
+        {
+          "year": "1428",
+          "claim": "Vaucouleurs was a fortified town faithful to the dauphin, commanded by the captain Robert de Baudricourt."
+        },
+        {
+          "year": "May 1428",
+          "claim": "Jeanne went to Vaucouleurs accompanied by her relative Durand Laxart and asked Baudricourt to send her to the dauphin. According to later testimonies he rejected her request harshly and sent her home."
+        },
+        {
+          "year": "12 Oct 1428",
+          "claim": "The English began the siege of Orléans, the key city on the Loire, in October 1428."
+        },
+        {
+          "year": "Jan 1429",
+          "claim": "Jeanne returned to Vaucouleurs in January 1429 and stayed there some weeks, gaining the support of local people."
+        },
+        {
+          "year": "12 Feb 1429",
+          "claim": "On 12 February 1429 the French were defeated near Orléans in the Battle of the Herrings. According to witnesses, Jeanne announced the setback in Vaucouleurs before the news arrived, which helped convince Baudricourt; the story comes from later testimonies."
+        },
+        {
+          "year": "Feb 1429",
+          "claim": "Two men-at-arms, Jean de Metz and Bertrand de Poulengy, agreed to escort her, and Jeanne cut her hair and wore men's clothing for the dangerous journey."
+        },
+        {
+          "year": "c. 23 Feb 1429",
+          "claim": "Jeanne left Vaucouleurs around 23 February 1429 with a small escort. Baudricourt is said to have given her a sword."
+        },
+        {
+          "claim": "The journey of roughly eleven days crossed regions held by the Burgundians and the English, and the party often travelled by night and had to cross rivers in winter."
+        },
+        {
+          "claim": "Jeanne's father is said to have been angry at her departure; she later said at her trial that she had disobeyed her parents but that they had forgiven her."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Chinon et Poitiers",
+      "period": "March - April 1429",
+      "summary": "Jeanne reaches the dauphin's court at Chinon and is received by Charles. Churchmen at Poitiers examine her at length before she is allowed to join an army heading for Orléans.",
+      "key_facts": [
+        {
+          "year": "Mar 1429",
+          "claim": "Jeanne reached Chinon in early March 1429, where the dauphin Charles was staying. She stopped on the way at the church of Sainte-Catherine-de-Fierbois."
+        },
+        {
+          "claim": "Charles received her after a delay of about two days. A well-known tradition says she recognised him among his courtiers; the story comes from later accounts and cannot be fully verified."
+        },
+        {
+          "claim": "Jeanne said she had been sent by God to relieve Orléans and to lead Charles to be crowned at Reims."
+        },
+        {
+          "claim": "Charles had her examined by theologians and churchmen at Poitiers, which lasted about three weeks. They found nothing contrary to the faith and advised the king to make use of her."
+        },
+        {
+          "claim": "Yolande of Aragon, Charles's mother-in-law, was an influential figure at court who is often associated with the preparations for the relief of Orléans."
+        },
+        {
+          "year": "22 Mar 1429",
+          "claim": "On 22 March 1429 Jeanne dictated a letter to the English commanders, headed 'Jhesus Maria', asking them to leave France."
+        },
+        {
+          "year": "Apr 1429",
+          "claim": "At Tours Jeanne was fitted with a suit of white armour and had a banner made with Christ and the words 'Jhesus Maria'. She later preferred her banner to her sword."
+        },
+        {
+          "claim": "Jeanne asked for a sword that she said would be found behind the altar of the church of Sainte-Catherine-de-Fierbois; it was reportedly found there."
+        },
+        {
+          "claim": "She was given a household, including a squire, Jean d'Aulon, and was placed with an army escorting supplies to the besieged city."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "La délivrance d'Orléans",
+      "period": "April - May 1429",
+      "summary": "Jeanne enters Orléans and, within days, helps the French to storm the English forts around the city. On 8 May the siege is lifted, and her fame spreads across the kingdom.",
+      "key_facts": [
+        {
+          "year": "Oct 1428",
+          "claim": "The English siege had started under the Earl of Salisbury, who was killed by a cannonball in the first weeks; the Earl of Suffolk and John Talbot continued the siege with a ring of forts."
+        },
+        {
+          "year": "29 Apr 1429",
+          "claim": "Jeanne entered Orléans on the evening of 29 April 1429, welcomed by the population. She met Jean, Bastard of Orléans (later Count of Dunois), the main French commander in the city."
+        },
+        {
+          "claim": "She sent messages to the English asking them again to leave; the English leaders refused and insulted her."
+        },
+        {
+          "year": "4 May 1429",
+          "claim": "The French took the fort of Saint-Loup on 4 May 1429, the first of the English positions to fall during her stay."
+        },
+        {
+          "year": "6 May 1429",
+          "claim": "On 6 May the French captured the position of Les Augustins on the south bank of the Loire."
+        },
+        {
+          "year": "7 May 1429",
+          "claim": "On 7 May the French attacked Les Tourelles, the English stronghold at the southern end of the bridge. Jeanne was wounded by an arrow above the breast but returned to the fight, and the fortress fell that evening."
+        },
+        {
+          "year": "8 May 1429",
+          "claim": "On 8 May 1429 the English abandoned their remaining forts and left the siege, ending the siege after about seven months."
+        },
+        {
+          "claim": "Jeanne became known as 'la Pucelle d'Orléans' (the Maid of Orléans). The city has celebrated the anniversary of the liberation on 8 May ever since."
+        },
+        {
+          "claim": "Military leaders such as Dunois took part in the decisions; historians debate how much Jeanne directed strategy and how much she inspired the troops."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "La campagne de la Loire",
+      "period": "June 1429",
+      "summary": "Following the relief of Orléans, Jeanne and the Duke of Alençon clear the English from the Loire towns. The French victory at Patay opens the road to Reims.",
+      "key_facts": [
+        {
+          "year": "May 1429",
+          "claim": "After Orléans, Jeanne went to see Charles at Tours, urging him to go to Reims for his coronation without delay."
+        },
+        {
+          "year": "Jun 1429",
+          "claim": "The Duke of Alençon was named nominal commander of the army, with Jeanne at his side, to recapture the towns along the Loire."
+        },
+        {
+          "year": "12 Jun 1429",
+          "claim": "The French captured Jargeau on 12 June 1429; the Earl of Suffolk was taken prisoner there."
+        },
+        {
+          "year": "15 Jun 1429",
+          "claim": "The French captured the bridge at Meung-sur-Loire around 15 June."
+        },
+        {
+          "year": "17 Jun 1429",
+          "claim": "The French took Beaugency on 17 June 1429, after the English garrison negotiated its departure."
+        },
+        {
+          "year": "18 Jun 1429",
+          "claim": "On 18 June 1429 the French cavalry caught an English army in the open near Patay and destroyed it. Talbot was taken prisoner."
+        },
+        {
+          "claim": "The commander Sir John Fastolf withdrew from Patay with part of the English force; he was later blamed for his conduct by the English."
+        },
+        {
+          "claim": "Patay is often considered the first major French field victory over the English in many years and restored French confidence."
+        },
+        {
+          "claim": "After Patay, Charles, still hesitant, agreed to set out for Reims with an army, through territory controlled by the Burgundians and English."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Le sacre de Reims",
+      "period": "June - July 1429",
+      "summary": "The army escorts Charles through enemy territory to Reims, with towns opening their gates one after another. On 17 July 1429, Charles is crowned, and Jeanne stands beside him.",
+      "key_facts": [
+        {
+          "year": "29 Jun 1429",
+          "claim": "The royal army left Gien at the end of June 1429 for Reims, about 300 km away through Burgundian-held Champagne."
+        },
+        {
+          "year": "Jul 1429",
+          "claim": "Auxerre agreed to supply food without opening its gates to the army, while other towns submitted to Charles."
+        },
+        {
+          "year": "Jul 1429",
+          "claim": "Troyes, which the Treaty of 1420 had sealed, resisted for several days. It surrendered around 9-10 July, after Jeanne's preparations for an assault and negotiations."
+        },
+        {
+          "year": "Jul 1429",
+          "claim": "Châlons-en-Champagne also opened its gates to the king."
+        },
+        {
+          "year": "16 Jul 1429",
+          "claim": "Charles entered Reims on 16 July 1429."
+        },
+        {
+          "year": "17 Jul 1429",
+          "claim": "Charles VII was crowned in Reims cathedral on 17 July 1429 by Regnault de Chartres, Archbishop of Reims. Jeanne stood near the altar with her banner."
+        },
+        {
+          "claim": "At her trial Jeanne said that her banner had been present at the ordeal, so it should also be at the honour."
+        },
+        {
+          "claim": "After the coronation Jeanne is said to have felt her mission was largely accomplished; at her trial she spoke of wishing to go home, but she stayed with the army."
+        },
+        {
+          "claim": "On the day of the coronation Jeanne dictated a letter inviting Duke Philip of Burgundy to make peace with the king."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Paris et les revers",
+      "period": "August 1429 - April 1430",
+      "summary": "After Reims, the king prefers negotiation with Burgundy, while Jeanne wants to press on. The attack on Paris fails and she is wounded; her last campaigns of the year bring mixed results.",
+      "key_facts": [
+        {
+          "year": "Aug 1429",
+          "claim": "After the coronation the French court negotiated with Duke Philip of Burgundy and agreed to a short truce; Jeanne wanted to continue the war to take Paris."
+        },
+        {
+          "year": "8 Sep 1429",
+          "claim": "The French attacked Paris on 8 September 1429, the feast of the Nativity of the Virgin, near the Porte Saint-Honoré. The city was held by Burgundians and the English."
+        },
+        {
+          "claim": "Jeanne was wounded in the thigh by a crossbow bolt during the assault and remained near the moat for some time until she was brought away."
+        },
+        {
+          "year": "9 Sep 1429",
+          "claim": "On the next day the king ordered the retreat, and the army withdrew to the Loire; Jeanne's armour was offered at the abbey of Saint-Denis."
+        },
+        {
+          "year": "Nov 1429",
+          "claim": "Jeanne took part in the capture of Saint-Pierre-le-Moûtier in November 1429."
+        },
+        {
+          "year": "Nov-Dec 1429",
+          "claim": "The siege of La Charité-sur-Loire in late 1429 failed, and the army withdrew after about a month."
+        },
+        {
+          "year": "Dec 1429",
+          "claim": "In December 1429 Charles VII granted nobility to Jeanne and her family by letters patent."
+        },
+        {
+          "year": "Spring 1430",
+          "claim": "In spring 1430 Jeanne left the court without the king's explicit approval to help towns facing the Burgundians and English, including Compiègne."
+        },
+        {
+          "claim": "At Melun, in the spring of 1430, Jeanne said that her voices told her she would be captured before midsummer; she later said she did not know the hour."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Compiègne et la captivité",
+      "period": "May - December 1430",
+      "summary": "Jeanne is captured outside Compiègne by Burgundian forces and handed from one lord to another. She tries to escape from a tower, and in the end the English buy her.",
+      "key_facts": [
+        {
+          "year": "23 May 1430",
+          "claim": "On 23 May 1430 Jeanne made a sortie from Compiègne, which was besieged by the Burgundians, and was captured outside the walls."
+        },
+        {
+          "claim": "She was taken by men serving the Bastard of Wandomme, a vassal of Jean de Luxembourg, who was a Burgundian commander."
+        },
+        {
+          "claim": "King Charles VII made no known effort to ransom her or to negotiate her release."
+        },
+        {
+          "year": "1430",
+          "claim": "Jean de Luxembourg held Jeanne in several castles, including Beaulieu-les-Fontaines and then Beaurevoir, where women of his family treated her kindly."
+        },
+        {
+          "year": "1430",
+          "claim": "At Beaurevoir, Jeanne jumped from the top of a tower, hurt but survived. She said at her trial that she did it because she did not want to fall into English hands and wanted to help Compiègne."
+        },
+        {
+          "claim": "The University of Paris and Pierre Cauchon, Bishop of Beauvais, pressed for Jeanne to be handed over for a church trial, since she had been captured in his diocese."
+        },
+        {
+          "year": "Nov 1430",
+          "claim": "Jean de Luxembourg agreed to hand over Jeanne to the English for a price of 10,000 livres tournois, which the English raised through taxes in Normandy."
+        },
+        {
+          "year": "Dec 1430",
+          "claim": "Jeanne was brought to Rouen, the English headquarters in Normandy, and held in the castle."
+        },
+        {
+          "claim": "Compiègne itself did not fall in the siege."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Le procès de Rouen",
+      "period": "January - May 1431",
+      "summary": "At Rouen, a church court led by Bishop Cauchon questions Jeanne for weeks about her voices, her clothing and her obedience to the Church. Under pressure she signs an abjuration, then resumes male dress and is condemned as a relapsed heretic.",
+      "key_facts": [
+        {
+          "year": "9 Jan 1431",
+          "claim": "Bishop Pierre Cauchon opened the trial in Rouen on 9 January 1431; the court was made up mostly of clergy loyal to the English and Burgundian side, many from the University of Paris."
+        },
+        {
+          "claim": "Although she was a church prisoner, Jeanne was held in a secular castle under English guard, not in an ecclesiastical prison, which violated normal procedure."
+        },
+        {
+          "year": "21 Feb 1431",
+          "claim": "The public interrogations began on 21 February 1431 and continued over many sessions. Jeanne was asked about her voices, her male clothing, and her relation with the Church."
+        },
+        {
+          "claim": "Asked whether she knew she was in God's grace, Jeanne is recorded as answering that if she was not, may God put her there, and if she was, may God keep her there."
+        },
+        {
+          "year": "Mar 1431",
+          "claim": "The vice-inquisitor Jean Le Maistre joined the proceedings in March 1431, and the court drew up a set of articles (later reduced to twelve) summarising the charges."
+        },
+        {
+          "claim": "Jeanne had no lawyer to defend her and was asked to submit to the judgement of the Church; she said she would submit to God and to the pope, but refused to deny her voices."
+        },
+        {
+          "year": "24 May 1431",
+          "claim": "On 24 May 1431, in the cemetery of the abbey of Saint-Ouen in Rouen, Jeanne was threatened with execution and signed a short abjuration; historians still debate precisely what she understood and which text she signed."
+        },
+        {
+          "claim": "As part of the agreement she was sentenced to life imprisonment, and was told to wear women's clothing."
+        },
+        {
+          "year": "May 1431",
+          "claim": "A few days later Jeanne was again wearing men's clothing, which the court took as a relapse. Witnesses later gave different explanations for the change, including that her clothes had been taken away and that she had been mistreated."
+        },
+        {
+          "year": "29 May 1431",
+          "claim": "On 29 May 1431 the judges declared her a relapsed heretic and handed her over to the secular authorities."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Le bûcher et la mémoire",
+      "period": "30 May 1431 - 1920",
+      "summary": "Jeanne is burned alive in Rouen's market square at about nineteen years old. Twenty-five years later, a new trial annuls her condemnation, and in 1920 the Church makes her a saint.",
+      "key_facts": [
+        {
+          "year": "30 May 1431",
+          "claim": "Jeanne was burned at the stake on 30 May 1431 in the Vieux-Marché square in Rouen, aged about nineteen."
+        },
+        {
+          "claim": "The friars Martin Ladvenu and Isambart de la Pierre accompanied her, and witnesses later said she asked for a cross and called on the name of Jesus at the end."
+        },
+        {
+          "claim": "Her ashes were thrown into the Seine, according to the accounts of the time, to prevent relics from being kept."
+        },
+        {
+          "year": "1449-1450",
+          "claim": "The French recaptured Rouen in 1449, and in 1450 Charles VII ordered an inquiry into the conduct of the trial."
+        },
+        {
+          "year": "1455",
+          "claim": "With the authorisation of Pope Callixtus III, a rehabilitation process began in 1455, in which Jeanne's mother Isabelle Romée took part and dozens of witnesses were heard."
+        },
+        {
+          "year": "7 Jul 1456",
+          "claim": "On 7 July 1456 the court in Rouen declared the 1431 verdict null and void."
+        },
+        {
+          "year": "1453",
+          "claim": "The Hundred Years' War ended in practice in 1453 after the French victory at Castillon, with only Calais remaining in English hands."
+        },
+        {
+          "year": "1909",
+          "claim": "Jeanne was beatified in 1909 by Pope Pius X."
+        },
+        {
+          "year": "16 May 1920",
+          "claim": "Pope Benedict XV canonised Jeanne d'Arc on 16 May 1920."
+        },
+        {
+          "year": "1920",
+          "claim": "In 1920 the French parliament established a national festival in honour of Jeanne d'Arc, held on the second Sunday of May."
+        },
+        {
+          "year": "1922",
+          "claim": "In 1922 Pius XI named Saint Joan of Arc a secondary patron of France."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-13"
+  }
+}
