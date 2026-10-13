@@ -3,7 +3,7 @@
   "title": "StoryTime chapter",
   "description": "stories/<lang>/<book-id>/<level>/chapter-NN.json. One chapter at one level; readable and playable on its own.",
   "type": "object",
-  "required": ["schema_version", "book_id", "level", "number", "title", "recap", "paragraphs", "word_count", "vocabulary", "questions"],
+  "required": ["schema_version", "book_id", "level", "number", "title", "recap", "overview_en", "paragraphs", "word_count", "vocabulary", "questions"],
   "additionalProperties": false,
   "properties": {
     "schema_version": { "const": 1 },
@@ -15,6 +15,11 @@
       "type": "string",
       "minLength": 1,
       "description": "One or two sentences at this level placing the chapter in the story, so it can be read alone"
+    },
+    "overview_en": {
+      "type": "string",
+      "minLength": 1,
+      "description": "English overview of what happens in the chapter (2-4 sentences), shown before the text to aid comprehension. Not read aloud. Must stay within the chapter's key_facts and not reveal more than the chapter itself says."
     },
     "paragraphs": {
       "type": "array",
