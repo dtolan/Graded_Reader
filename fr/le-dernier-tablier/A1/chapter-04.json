@@ -4,47 +4,57 @@
   "level": "A1",
   "number": 4,
   "title": "Quenelle ou pas quenelle",
-  "recap": "Camille est de retour à Lyon pour aider son grand-père Marcel, dont le bouchon est en danger. Au marché, elle a vu son amie Nadia. Elle a aussi découvert que Marcel ne paie plus son fournisseur depuis des semaines.",
-  "overview_en": "It is Monday, and the bouchon is closed. Camille and Marcel cook together and argue about the quenelle recipe: Marcel wants tradition, Camille wants a lighter dish. Odette, the old neighbour, reveals that Marcel's late wife once changed the original recipe. Marcel softens and lets Camille try a new version for the next service.",
+  "recap": "Camille est de retour à Lyon pour aider son grand-père Marcel. Il tient le bouchon « Chez Marcel » à la Croix-Rousse. Au marché, Camille a vu que Marcel ne paie plus son fournisseur. Aujourd'hui, c'est lundi et le bouchon est fermé.",
+  "overview_en": "It is Monday and the bouchon is closed. Camille and her grandfather Marcel cook together, but they quarrel about the quenelle recipe: he wants tradition, she wants a lighter dish. Odette then reveals that Marcel's own wife changed the original recipe long ago. Marcel softens and lets Camille try a new version for the next service.",
   "paragraphs": [
-    "Le lundi, le bouchon est fermé. Il n'y a pas de clients. La rue est calme. Dans la cuisine de « Chez Marcel », il fait chaud et il sent bon le beurre. Camille met son tablier. Elle regarde la vieille cuisine. Les casseroles sont très vieilles. Le grand four est noir. Les murs sont jaunes. Rien ne change ici. Camille sourit un peu. Elle est fatiguée, mais elle est contente d'être là. À Paris, tout va vite. Ici, le temps est lent.",
-    "Marcel entre dans la cuisine. Il a soixante-dix-huit ans. Il est grand et un peu fatigué. Il a son vieux tablier bleu. Il regarde Camille et dit : « Bonjour, petite. Aujourd'hui, on fait des quenelles. » Camille répond : « D'accord, grand-père. » Marcel pose un gros poisson sur la table. C'est un brochet. Il est long et gris. Marcel dit : « Voilà. Le vrai brochet. Pas de poisson congelé chez moi. » Camille regarde le poisson et dit : « Il est beau. »",
-    "Marcel explique la recette. Sa voix est dure, mais il aime parler de cuisine. « La quenelle de brochet, c'est une spécialité de Lyon. On prend du brochet, de la farine, du beurre et des œufs. On fait une pâte très légère. Puis on fait pocher les quenelles dans l'eau chaude. On ne les fait pas frire. » Camille écoute. Elle connaît cette recette. Elle la connaît depuis l'enfance. Mais elle ne dit rien. Elle prend le beurre et le met dans un bol.",
-    "Camille regarde le beurre. Il y a beaucoup de beurre. Elle dit : « Grand-père, il y a trop de beurre. » Marcel la regarde. Ses yeux sont noirs. « Trop de beurre ? Chez moi, il n'y a jamais trop de beurre ! » Camille répond : « Les gens mangent plus léger aujourd'hui. À Paris, les clients veulent des plats légers. » Marcel pose son couteau sur la table. « Nous ne sommes pas à Paris. Ici, on est à Lyon. Et ici, on mange bien. »",
-    "Camille respire. Elle essaie de rester calme. Elle dit : « Je veux seulement essayer. Un peu moins de beurre, un peu moins de crème. Juste un petit changement. » Marcel secoue la tête. « Non. La recette est la recette. Elle ne change pas. » Camille serre les lèvres. Elle est fière, comme son grand-père. Elle dit : « À Paris, je suis cuisinière. Je sais ce que je fais. » Marcel répond : « Ici, tu es ma petite-fille. Et tu fais comme je dis. »",
-    "Ils travaillent en silence un moment. Marcel enlève les arêtes du brochet. Ses mains sont lentes, mais sûres. Camille coupe le poisson en petits morceaux. Elle le mixe avec la farine, les œufs et le beurre. La pâte est blanche et douce. Elle sent bon. La cuisine est pleine de bruit : le couteau, la casserole, l'eau qui chauffe. Camille pense à son enfance. Petite, elle regardait son grand-père cuisiner. Elle restait là, assise sur une chaise, pendant des heures.",
-    "Marcel prépare la sauce. C'est la sauce Nantua. Il prend des écrevisses rouges dans un grand bol. Il dit : « Cette sauce vient de la ville de Nantua. Nantua est dans l'Ain, pas très loin d'ici. C'est une ville connue pour ses écrevisses. » Il coupe les écrevisses et les cuit dans le beurre. La cuisine sent la mer et la crème. Camille aime cette odeur. Elle dit : « La sauce est belle. Mais elle est très lourde, grand-père. » Marcel soupire.",
-    "Camille continue : « Ici, la cuisine lyonnaise est riche. Il y a du beurre, de la crème, du porc, des abats. Pourquoi ? » Marcel hausse les épaules. « Parce que les gens de Lyon travaillaient dur. Les ouvriers avaient faim. Ils avaient besoin de plats forts. » Camille dit : « Oui, c'est vrai. Mais aujourd'hui, les gens ne travaillent plus comme ça. » Marcel crie : « Ça suffit ! Tu parles comme un journal ! Je cuisine comme ça depuis cinquante ans ! »",
-    "À ce moment, on frappe à la porte de la cuisine. Toc, toc, toc. Une petite dame entre. C'est Odette Giraud. Elle a quatre-vingt-deux ans. Elle habite au-dessus du bouchon. Elle a des cheveux blancs et des yeux très vifs. Elle porte un panier. « Bonjour, mes enfants ! J'entends des cris depuis mon salon. Qu'est-ce qui se passe ? » Marcel dit : « Rien. » Camille dit : « Nous parlons de quenelles. » Odette sourit. Elle adore les histoires.",
-    "Odette pose son panier sur la table et s'assoit sur une chaise. Elle regarde la pâte, puis elle regarde Marcel. « Alors, Marcel. Tu dis encore que la recette ne change pas ? » Marcel croise les bras. « Oui. C'est la recette de ma mère. Elle ne change pas. » Odette rit. Son rire est petit et sec. « Mon pauvre Marcel. Tu as la mémoire courte. Moi, je me rappelle très bien. » Camille regarde Odette. Marcel devient un peu rouge.",
-    "Odette dit : « Ta mère faisait des quenelles très lourdes. Il y avait trois fois plus de beurre. Elles étaient dures comme des pierres ! » Marcel proteste : « Ce n'est pas vrai ! » Odette continue, calme : « Si, c'est vrai. Et un jour, ta femme est arrivée dans cette cuisine. Elle s'appelait Lucie. Tu te souviens ? » Marcel ne dit rien. Il regarde la table. Camille retient son souffle. Elle ne sait pas cette histoire. Sa grand-mère est morte quand elle était petite.",
-    "Odette parle doucement : « Lucie a goûté les quenelles de ta mère. Elle a dit : trop lourd. Alors elle a changé la recette. Elle a mis moins de beurre. Elle a ajouté plus d'œufs. Elle a battu la pâte plus longtemps. Les quenelles sont devenues légères comme des nuages. Tout le quartier venait les manger. » Elle regarde Marcel avec tendresse. « La recette de « Chez Marcel », ce n'est pas celle de ta mère. C'est celle de Lucie. »",
-    "Le silence est long dans la cuisine. On entend seulement l'eau qui chauffe. Marcel s'assoit lentement. Il regarde ses mains. Ses yeux sont brillants. Camille ne bouge pas. Elle n'ose pas parler. Elle pense à sa grand-mère. Elle a une photo d'elle dans sa chambre : une femme souriante, avec un tablier blanc. Marcel dit enfin, très bas : « Je l'avais oublié. Elle changeait toujours un peu les recettes. Et moi, je disais non, et je mangeais quand même. »",
-    "Odette rit encore, mais avec douceur. « Lucie disait toujours : une recette est vivante, Marcel. Elle change avec les gens. » Marcel sourit un peu. C'est un petit sourire triste. Il dit : « Oui. Elle disait ça. » Camille s'approche de lui. Elle pose sa main sur son bras. Elle ne dit rien. Elle sent que son grand-père est ému. Il est dur et têtu, mais son cœur est tendre. Elle aime son grand-père, plus que jamais.",
-    "Marcel se lève. Il prend un verre d'eau et le boit lentement. Puis il regarde Camille. « Bon. Tu veux faire ta version de la quenelle ? » Camille ouvre de grands yeux. « Oui ! Tu es d'accord ? » Marcel lève un doigt. « Une seule version. Pour un seul service. Je goûte avant. Si ce n'est pas bon, on revient à la recette de Lucie. » Camille sourit. « D'accord, grand-père. C'est parfait. Merci. » Marcel grogne, mais ses yeux sourient.",
-    "Camille se met au travail. Elle prend un peu moins de beurre et elle ajoute du lait. Elle bat la pâte longtemps. Elle ajoute des herbes fraîches du marché. Elles viennent de chez Nadia : du persil et de la ciboulette. Elle forme les quenelles avec deux grandes cuillères. Elle les met doucement dans l'eau chaude. Elles tournent, elles gonflent. Odette regarde tout, avec le menton dans la main. Elle dit : « Elle a la main de Lucie, cette petite. »",
-    "Camille prépare la sauce. Elle garde les écrevisses, mais elle met moins de crème. Elle ajoute un peu de vin blanc et du citron. La sauce est rose et brillante. Elle sent très bon. Elle met les quenelles dans un plat, avec la sauce, et elle met le plat au four. Dans le four chaud, les quenelles gonflent. C'est ainsi que l'on fait la quenelle de Lyon : on la cuit au four dans la sauce, et elle devient haute et dorée.",
-    "Après vingt minutes, Camille sort le plat. Les quenelles sont hautes, dorées et légères. La sauce fait de petites bulles. Marcel s'approche. Il sent le plat, les yeux fermés. Il prend une fourchette et goûte. Il ne dit rien. Il goûte encore. Camille attend, le cœur rapide. Odette goûte aussi. « Mmm, dit-elle. C'est léger, mais ça a du goût. » Marcel pose sa fourchette. Il regarde Camille un long moment. Il dit, doucement : « C'est bon, petite. C'est très bon. »",
-    "Camille respire enfin. Elle a envie de pleurer, mais elle rit. « Merci, grand-père. » Marcel dit : « Attends. Ce n'est pas fini. Un bon repas finit toujours avec un dessert. » Il va à l'armoire et sort une tarte rose. C'est une tarte aux pralines roses. Les petites amandes roses brillent sur la crème. « C'est le dessert classique de Lyon, dit-il. Les pralines sont des amandes enrobées de sucre rose. Mange. » Ils mangent ensemble, tous les trois, dans la cuisine.",
-    "Odette finit sa part de tarte et se lève. Elle prend son panier et dit : « Bon, j'ai bien travaillé aujourd'hui. Je vous laisse, mes enfants. » Elle sourit à Marcel. « Tu vois ? Lucie serait contente. » Marcel ne répond pas, mais il hoche la tête. Odette sort. On entend ses petits pas dans l'escalier. Camille et Marcel restent seuls. La cuisine est calme. L'odeur du beurre, du poisson et du sucre rose flotte encore dans l'air.",
-    "Camille range les casseroles. Marcel essuie la table. Il dit : « Pour le service de jeudi, on essaie ta quenelle. Mais on ne dit rien aux clients. On voit s'ils aiment. » Camille dit : « D'accord. » Elle regarde son grand-père. Il a l'air fatigué, et elle pense au fournisseur et aux factures. Elle veut lui parler, mais pas maintenant. Il sourit enfin. C'est un vrai sourire, pour la première fois depuis son retour. Camille pense : « Peut-être que tout va bien se passer. »"
+    "C'est lundi matin, en novembre. Le bouchon est fermé aujourd'hui. Un bouchon est un petit restaurant de Lyon. On y mange une cuisine simple et riche. Dans la cuisine, Camille met son tablier. Il est vieux et un peu trop grand. Il est à son grand-père. Dehors, il fait froid et gris. Dans la cuisine, il fait chaud. Il y a une bonne odeur de beurre et d'oignon. Camille respire. Elle est chez elle, et elle a un peu peur.",
+    "Marcel entre dans la cuisine. Il a sa veste blanche et son grand couteau. Il regarde Camille sans sourire. « Tu dors bien ? » demande-t-il. « Oui, un peu, grand-père. » « Bien. Aujourd'hui, on prépare les quenelles. » Camille hoche la tête. Elle pense à la facture du fournisseur. Elle veut parler de l'argent, mais pas maintenant. Marcel n'aime pas les questions. Il est dur, mais il est aussi très généreux. Camille le sait depuis toujours.",
+    "Marcel pose un gros poisson sur la table. « C'est un brochet, dit-il. C'est un poisson de rivière. » Camille connaît bien ce poisson. Elle prend le couteau et elle enlève les arêtes. Marcel la regarde travailler. Il ne dit rien pendant un moment. Puis il dit : « Tes mains n'oublient pas. » Camille sourit un peu. C'est un petit compliment, mais de la part de Marcel, c'est beaucoup. Elle est contente et un peu fière.",
+    "Ensuite, Marcel sort le beurre, la farine et les œufs. La quenelle de brochet est une boule de poisson très légère. On la cuit dans l'eau chaude, on ne la fait pas frire. Après, on la met dans une sauce et on la passe au four. Elle gonfle et devient dorée. Marcel dit tout cela comme une vieille prière. Il connaît chaque geste par cœur. Camille écoute, mais elle a déjà une idée dans la tête.",
+    "« Grand-père, dit Camille, regarde la quantité de beurre. » Marcel lève les yeux. « Quoi, le beurre ? » « Il y en a beaucoup trop. » Marcel pose sa cuillère. « C'est la recette de la maison, dit-il. On ne change rien. » Camille respire un grand coup. « À Paris, les clients veulent manger plus léger. » « Ici, nous ne sommes pas à Paris », répond Marcel. Sa voix est dure. La dispute commence.",
+    "Camille prend un petit bol de crème. « Je peux faire une quenelle plus légère, dit-elle. Moins de beurre, moins de crème. Ce n'est pas un crime. » Marcel secoue la tête. « La cuisine lyonnaise est riche, dit-il. Elle vient des ouvriers. Ils travaillent dur. Ils ont faim. Ils mangent du porc, du beurre, de la crème. » Camille connaît cette histoire. Mais elle pense que les clients de maintenant sont différents. Elle ne veut pas se taire.",
+    "« Les clients changent, grand-père, dit Camille. Regarde la salle. Le soir, la salle est presque vide. » Marcel devient rouge. « Ne parle pas de ça ! » Il crie. Il frappe la table avec sa main. Un bol tombe, mais il ne casse pas. Camille ne dit plus rien. Elle a mal au ventre. Elle voit que Marcel a peur, lui aussi. Mais il est trop fier pour le dire. Un long silence tombe dans la cuisine.",
+    "Camille continue le travail. Elle mixe le poisson, puis elle ajoute les œufs. Marcel prépare la sauce à côté d'elle. Ils ne se parlent pas. On entend seulement le bruit de l'eau et des couteaux. Camille est en colère, mais elle aime ce moment. Elle travaille avec son grand-père, comme avant. Quand elle est petite, elle est assise sur une chaise près de lui. Elle regarde ses mains. Aujourd'hui, ses mains sont plus vieilles.",
+    "Marcel prépare la sauce Nantua. Il met des écrevisses dans une grande casserole. Une écrevisse est un petit animal de rivière avec des pinces. La sauce porte le nom de Nantua, une petite ville dans l'Ain. Cette ville est connue pour ses écrevisses. La sauce devient rose et très parfumée. Camille sent l'odeur et son cœur se serre. C'est l'odeur de son enfance. Elle ne veut pas le montrer à Marcel.",
+    "Soudain, on frappe à la porte de la cuisine. C'est Odette Giraud. Elle a quatre-vingt-deux ans et elle habite au-dessus du bouchon. Elle porte un gilet violet et un petit panier. « Je sens la sauce Nantua depuis mon escalier ! » dit-elle. Elle entre sans attendre. Odette est curieuse, et elle aime les histoires. Elle regarde la table, le poisson, la crème. Puis elle regarde Marcel et Camille. « Vous vous disputez ? » demande-t-elle.",
+    "« Non, dit Marcel. On travaille. » Odette rit. « Marcel, tu mens très mal ! Je t'entends crier depuis ma cuisine. » Elle pose son panier et s'assoit sur une chaise. Camille ne peut pas s'empêcher de sourire. Odette est comme une tante pour elle. Elle connaît tout le monde dans le quartier. Elle sait tout sur le bouchon. Elle demande : « Alors, quel est le problème ? » Camille répond : « Les quenelles. Grand-père ne veut rien changer. »",
+    "Odette croise les bras. « Ah, la fameuse recette ! dit-elle. Marcel, tu sais qu'elle n'est pas de ton père ? » Marcel fronce les sourcils. « Si, elle est de mon père. » « Non, mon petit. La quenelle de ton père est très lourde, avec beaucoup de pain et de graisse. Je m'en souviens bien. Elle reste sur l'estomac pendant deux jours ! » Camille ouvre de grands yeux. Marcel ne dit rien. Il tient sa cuillère en l'air.",
+    "« Qui change la recette ? » demande Camille. Odette sourit. Elle prend son temps, comme toujours. « C'est ta grand-mère, Camille. C'est Jeanne. » Marcel baisse les yeux. Odette continue : « Elle trouve la quenelle de ton arrière-grand-père trop lourde. Alors, un jour, elle change tout. Elle met plus de poisson et moins de pain. Elle fait aussi la pâte plus légère. Et elle ajoute un peu de crème dans la sauce. »",
+    "Camille regarde son grand-père. « C'est vrai, grand-père ? » Marcel ne répond pas tout de suite. Il pose la cuillère sur la table. Il regarde ses mains. Il dit enfin : « Oui. C'est vrai. Jeanne change la recette il y a plus de quarante ans. Mon père n'est pas content, au début. Il crie, comme moi. Mais après, les clients adorent. » Sa voix est plus douce. Il a l'air fatigué, et très vieux.",
+    "« Alors cette recette, dit Camille doucement, elle n'est pas morte. Elle change avec les gens. » Marcel la regarde longtemps. Odette ne dit rien, elle attend. Elle sait que c'est un moment important. Dans la cuisine, la sauce chauffe sur le feu et fait un petit bruit. Marcel passe la main sur son visage. « Jeanne est très intelligente. Plus que moi. » Il parle doucement. Odette rit. « Elle est plus intelligente que tout le monde, Marcel. »",
+    "Marcel prend un tabouret et s'assoit. Il a l'air triste, mais il sourit un peu. « Jeanne cuisine beaucoup. Elle fait aussi la tarte aux pralines roses. C'est un dessert de Lyon. On y met des amandes couvertes de sucre rose. Les clients l'adorent encore. » Camille voit des larmes dans ses yeux. Elle s'approche de lui. Elle pose une main sur son épaule. Il ne la repousse pas. Il ne dit rien, mais il est content.",
+    "« Bon, dit Marcel après un moment. Tu veux faire une quenelle plus légère ? » Camille ouvre la bouche, puis elle la ferme. Elle ne croit pas ce qu'elle entend. « Oui, grand-père. Je veux essayer. » Marcel se lève. « D'accord. Tu as le droit d'essayer. Mais un seul plat, pour le service de jeudi. Si les clients n'aiment pas, on revient à l'ancienne recette. » Camille hoche la tête. Elle dit : « Marché conclu. »",
+    "Camille se met au travail tout de suite. Elle prend moins de beurre et elle ajoute plus de poisson. Elle change aussi la sauce. Elle garde les écrevisses, mais elle met moins de crème. Marcel la regarde faire, les bras croisés. Il goûte la pâte avec le bout du doigt. Il fait une petite grimace. Il dit : « C'est trop mou. » Camille ajoute un peu de farine. Elle écoute son grand-père, et il l'écoute aussi. Ils travaillent enfin ensemble.",
+    "Camille fait cuire les quenelles dans l'eau chaude. Elles sont petites et rondes comme des nuages. Ensuite, elle les met dans un plat avec la sauce rose. Elle passe le plat au four. Après quinze minutes, les quenelles gonflent et deviennent dorées. L'odeur remplit toute la cuisine. Odette ferme les yeux. Elle dit : « Ça sent bon. Ça sent comme chez Jeanne. » Camille sourit et regarde Marcel. Il ne dit rien, mais ses yeux brillent.",
+    "Camille pose le plat sur la table. Marcel prend une fourchette. Il goûte lentement, les yeux fermés. Camille attend, le cœur rapide. Odette goûte aussi. « Hum, fait-elle. C'est léger comme une plume ! » Marcel ouvre les yeux. « C'est bon, dit-il. Ce n'est pas la recette de mon père. Ce n'est pas tout à fait celle de Jeanne. Mais c'est bon. » Camille pousse un grand soupir. Elle est très heureuse. Elle sent que les choses changent un peu.",
+    "Le soir tombe sur la Croix-Rousse. Camille et Marcel mangent ensemble dans la salle vide. Odette part avec une part de quenelle dans son panier. Marcel est calme. Camille pense encore à la facture du fournisseur. Elle veut en parler demain. Mais soudain, quelqu'un frappe à la vitre du bouchon. Un homme en manteau noir regarde le menu sur la porte. Il prend des notes dans un petit carnet. Camille et Marcel se regardent."
   ],
-  "word_count": 1612,
+  "word_count": 1528,
   "vocabulary": [
+    {
+      "term": "bouchon",
+      "pos": "nom masculin",
+      "gloss_en": "small traditional Lyon restaurant"
+    },
+    {
+      "term": "tablier",
+      "pos": "nom masculin",
+      "gloss_en": "apron"
+    },
     {
       "term": "brochet",
       "pos": "nom masculin",
-      "gloss_en": "pike (fish)"
+      "gloss_en": "pike (river fish)"
     },
     {
-      "term": "quenelles",
+      "term": "arêtes",
       "pos": "nom féminin pluriel",
-      "gloss_en": "light fish dumplings, a Lyon speciality"
+      "gloss_en": "fish bones"
     },
     {
-      "term": "pocher",
-      "pos": "verbe",
-      "gloss_en": "to poach (cook gently in hot water)"
+      "term": "quenelle",
+      "pos": "nom féminin",
+      "gloss_en": "light fish dumpling, a Lyon speciality"
     },
     {
       "term": "écrevisses",
@@ -57,79 +67,69 @@
       "gloss_en": "light"
     },
     {
-      "term": "beurre",
-      "pos": "nom masculin",
-      "gloss_en": "butter"
+      "term": "gonflent",
+      "pos": "verbe (gonfler)",
+      "gloss_en": "puff up"
     },
     {
-      "term": "crème",
-      "pos": "nom féminin",
-      "gloss_en": "cream"
-    },
-    {
-      "term": "tablier",
-      "pos": "nom masculin",
-      "gloss_en": "apron"
-    },
-    {
-      "term": "têtu",
-      "pos": "adjectif",
-      "gloss_en": "stubborn"
-    },
-    {
-      "term": "goûter",
+      "term": "se disputer",
       "pos": "verbe",
-      "gloss_en": "to taste"
+      "gloss_en": "to quarrel"
     },
     {
-      "term": "pralines roses",
-      "pos": "nom féminin pluriel",
-      "gloss_en": "pink sugar-coated almonds"
-    },
-    {
-      "term": "voisine",
-      "pos": "nom féminin",
-      "gloss_en": "female neighbour"
-    },
-    {
-      "term": "gonfler",
-      "pos": "verbe",
-      "gloss_en": "to puff up, to swell"
-    },
-    {
-      "term": "recette",
+      "term": "la recette",
       "pos": "nom féminin",
       "gloss_en": "recipe"
+    },
+    {
+      "term": "la facture",
+      "pos": "nom féminin",
+      "gloss_en": "bill, invoice"
+    },
+    {
+      "term": "fier",
+      "pos": "adjectif",
+      "gloss_en": "proud"
+    },
+    {
+      "term": "la dispute",
+      "pos": "nom féminin",
+      "gloss_en": "quarrel"
+    },
+    {
+      "term": "marché conclu",
+      "pos": "expression",
+      "gloss_en": "it's a deal"
     }
   ],
   "questions": [
     {
-      "question": "Pourquoi le bouchon est-il calme le lundi ?",
-      "answer": "Parce que le bouchon est fermé aux clients le lundi."
+      "question": "Pourquoi le bouchon est-il fermé aujourd'hui ?",
+      "answer": "Parce que c'est lundi."
     },
     {
-      "question": "Quel poisson Marcel utilise-t-il pour les quenelles ?",
-      "answer": "Il utilise du brochet."
+      "question": "Pourquoi Camille veut-elle changer la recette ?",
+      "answer": "Elle trouve qu'il y a trop de beurre et elle veut un plat plus léger."
     },
     {
-      "question": "Pourquoi Camille dit-elle qu'il y a trop de beurre ?",
-      "answer": "Parce que les gens veulent manger plus léger aujourd'hui."
+      "question": "Qui a changé la recette il y a quarante ans ?",
+      "answer": "C'est Jeanne, la grand-mère de Camille."
     },
     {
-      "question": "Que révèle Odette sur la recette ?",
-      "answer": "Lucie, la femme de Marcel, a changé la recette de la mère de Marcel."
+      "question": "Comment s'appelle la sauce des quenelles ?",
+      "answer": "Elle s'appelle la sauce Nantua."
     },
     {
-      "question": "Que dit Marcel quand il goûte la quenelle de Camille ?",
-      "answer": "Il dit : « C'est bon, petite. C'est très bon. »"
+      "question": "Quand Camille peut-elle essayer sa nouvelle quenelle ?",
+      "answer": "Pour le service de jeudi."
     },
     {
-      "question": "Quand Camille peut-elle essayer sa quenelle devant les clients ?",
-      "answer": "Elle peut l'essayer au service de jeudi."
+      "question": "Qui regarde le menu à la fin du chapitre ?",
+      "answer": "Un homme en manteau noir qui prend des notes."
     }
   ],
   "generated": {
     "model": "claude-sonnet-5-5",
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   }
 }
