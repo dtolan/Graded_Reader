@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "id": "le-dernier-tablier",
+  "language": "fr",
+  "genre": "fiction",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Le dernier tablier",
+  "topic": {
+    "type": "theme",
+    "name": "La cuisine lyonnaise : les bouchons, le marché de la Croix-Rousse et la fête des Lumières",
+    "region": "Lyon"
+  },
+  "summary": "Camille revient à Lyon pour aider son grand-père, qui tient un petit bouchon de la Croix-Rousse menacé de fermeture. Entre le marché du boulevard, les recettes de famille et les préparatifs de la fête des Lumières, elle va devoir choisir ce qu'elle veut vraiment transmettre.",
+  "levels": [
+    "A1",
+    "B1"
+  ],
+  "characters": [
+    {
+      "name": "Camille Vernay",
+      "description": "29, a young cook who left Lyon for a restaurant job in Paris; practical, proud, a little burnt out. She wants to prove herself but secretly misses her family's kitchen."
+    },
+    {
+      "name": "Marcel Vernay",
+      "description": "78, Camille's grandfather, owner of the bouchon 'Chez Marcel' on the Croix-Rousse slopes. Gruff, generous, stubborn; he refuses to change anything and hides his health and money worries."
+    },
+    {
+      "name": "Nadia Benali",
+      "description": "34, a vendor at the Croix-Rousse market who sells vegetables and herbs from small farms in the Monts du Lyonnais. Warm, funny, quick to challenge Camille; a friend from childhood."
+    },
+    {
+      "name": "Julien Maréchal",
+      "description": "41, a restaurant critic and property agent's cousin turned food blogger, who writes for a Lyon food guide. Polite and sharp-tongued, he holds the fate of the bouchon's label in his hands."
+    },
+    {
+      "name": "Odette Giraud",
+      "description": "82, Marcel's neighbor and old friend, a retired canut's daughter who lives above the bouchon and remembers its history. Sharp, nosy, loves storytelling."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Le train de Paris",
+      "period": "Friday evening, early November, Lyon Part-Dieu and the Croix-Rousse",
+      "summary": "Camille arrives from Paris after her grandfather's worrying phone call and climbs up to the Croix-Rousse. Chez Marcel is half empty, the paint is peeling, and Marcel pretends everything is fine; Odette quietly tells her he has received a letter from the landlord. Camille finds the letter on the counter: the lease will not be renewed after the new year.",
+      "key_facts": [
+        {
+          "claim": "Lyon has two main train stations: Part-Dieu and Perrache; Paris–Lyon is about two hours by TGV from Gare de Lyon."
+        },
+        {
+          "claim": "The Croix-Rousse is a hill north of the Presqu'île, historically known as 'la colline qui travaille' because of the silk workers (canuts)."
+        },
+        {
+          "claim": "A bouchon is a traditional Lyon restaurant serving local cuisine in a convivial setting, often with checked tablecloths and a short menu."
+        },
+        {
+          "claim": "Lyon is often called the gastronomic capital of France; Paul Bocuse and the 'mères lyonnaises' helped build this reputation."
+        },
+        {
+          "claim": "The Croix-Rousse is reached from the centre by metro line C, a rack-railway line unusual for its cog system."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Les mères lyonnaises",
+      "period": "Saturday morning, the bouchon's kitchen",
+      "summary": "Camille inspects the kitchen and finds old notebooks of recipes, some by her late grandmother. Odette tells her about the 'mères lyonnaises' who cooked for wealthy families and then opened restaurants, and why bouchons were once humble places for silk workers and traveling merchants. Camille realizes the bouchon's survival depends on an official label audit in three weeks.",
+      "key_facts": [
+        {
+          "claim": "The 'mères lyonnaises' were women cooks, such as Eugénie Brazier and La Mère Brazier, who turned family cooking into restaurant fame in the early 20th century."
+        },
+        {
+          "claim": "Eugénie Brazier was the first chef to obtain three Michelin stars twice, in 1933, for two restaurants."
+        },
+        {
+          "claim": "Typical bouchon dishes include quenelles de brochet, tablier de sapeur, andouillette, salade lyonnaise, cervelle de canut and saucisson brioché."
+        },
+        {
+          "claim": "The 'Bouchon Lyonnais' label is a quality label created to protect authentic bouchons from imitations."
+        },
+        {
+          "claim": "'Tablier de sapeur' is breaded and fried tripe, traditionally served with sauce gribiche."
+        },
+        {
+          "claim": "Cervelle de canut is a fresh cheese spread with herbs, shallots, garlic, oil and vinegar, not actual brains."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Le marché du boulevard",
+      "period": "Sunday morning, Croix-Rousse market",
+      "summary": "Camille goes to the Croix-Rousse market with Marcel's list and meets Nadia, her childhood friend, who sells vegetables from small farms. They bargain, taste, and argue about whether Camille should modernise the menu. At the end Camille discovers Marcel has not paid his supplier for weeks.",
+      "key_facts": [
+        {
+          "claim": "The Croix-Rousse market takes place along the Boulevard de la Croix-Rousse and is open every morning except Monday."
+        },
+        {
+          "claim": "The market is known as one of Lyon's most popular open-air food markets, with producers selling vegetables, cheeses, charcuterie and flowers."
+        },
+        {
+          "claim": "Saint-Marcellin and Saint-Félicien are cheeses from the Rhône-Alpes region often found at Lyon markets."
+        },
+        {
+          "claim": "Lyon sits between the Rhône and Saône rivers, near the Monts du Lyonnais, a rural area supplying produce."
+        },
+        {
+          "claim": "Cardon gratiné, a thistle-like vegetable dish, is a traditional Lyon winter specialty."
+        },
+        {
+          "claim": "Lyon's famous Halles Paul Bocuse market is in the Part-Dieu district, a different place from the Croix-Rousse market."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Quenelle ou pas quenelle",
+      "period": "Monday, kitchen and dining room",
+      "summary": "Closed to customers on Monday, Camille and Marcel cook together and quarrel over the quenelle recipe: Marcel insists on tradition while Camille wants to lighten it. Odette reveals that the original recipe was changed by Marcel's own wife decades ago. Marcel softens and agrees to let Camille try a new version for the next service.",
+      "key_facts": [
+        {
+          "claim": "Quenelles de brochet are light dumplings made from pike, flour, butter and eggs, usually served in a sauce Nantua made with crayfish."
+        },
+        {
+          "claim": "The quenelle is a Lyon speciality, poached rather than fried, and baked in sauce until puffed."
+        },
+        {
+          "claim": "Sauce Nantua is named after the town of Nantua in the Ain department, known for its crayfish."
+        },
+        {
+          "claim": "Praline tarts, tarte aux pralines roses, are a classic Lyon dessert made with pink sugar-coated almonds."
+        },
+        {
+          "claim": "Traditional Lyon cooking relies heavily on butter, cream, pork and offal, reflecting the city's working-class history."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Les traboules",
+      "period": "Tuesday afternoon, Vieux Lyon and the Croix-Rousse slopes",
+      "summary": "Odette leads Camille through the traboules, hidden passageways, to deliver a basket to an old friend, telling the story of the canuts and the Resistance. In the shadows Camille meets Julien, the food critic, who is investigating bouchons. He is polite but warns that Chez Marcel is on his list of places that may lose their label.",
+      "key_facts": [
+        {
+          "claim": "Traboules are covered passages through buildings that let people cross between streets; Lyon has hundreds, in Vieux Lyon and the Croix-Rousse."
+        },
+        {
+          "claim": "The canuts were silk workers; the Croix-Rousse buildings have very high ceilings to fit the Jacquard looms."
+        },
+        {
+          "claim": "The Jacquard loom was invented by Joseph Marie Jacquard, born in Lyon in 1752."
+        },
+        {
+          "claim": "Traboules were used by members of the Resistance during the Second World War to avoid German patrols."
+        },
+        {
+          "claim": "Vieux Lyon is a UNESCO World Heritage site, inscribed in 1998 for the historic site of Lyon."
+        },
+        {
+          "claim": "The Révolte des canuts took place in 1831 and 1834 over working conditions and pay."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Ce que dit le critique",
+      "period": "Wednesday evening, the bouchon",
+      "summary": "Julien comes to dinner incognito but Camille recognizes him. The service is chaotic, a sauce nearly burns, yet Marcel's salade lyonnaise and Camille's lightened quenelle impress him. At the end he gives a cryptic remark: the label audit will check not only the food but the story behind it.",
+      "key_facts": [
+        {
+          "claim": "Salade lyonnaise traditionally combines frisée lettuce, lardons, croutons and a poached egg with a vinaigrette."
+        },
+        {
+          "claim": "The Beaujolais region, just north of Lyon, supplies the light red wines traditionally served in bouchons, often in a 46 cl bottle called a 'pot'."
+        },
+        {
+          "claim": "Lyon's pot lyonnais is a thick-bottomed 46 cl bottle used for serving wine."
+        },
+        {
+          "claim": "The Beaujolais Nouveau is released on the third Thursday of November."
+        },
+        {
+          "claim": "Rosette de Lyon is a dry-cured pork sausage, a classic starter in bouchons."
+        },
+        {
+          "claim": "Gratin dauphinois is not Lyonnais but from the Dauphiné; Lyon bouchons more typically serve potatoes sautéed or with cervelas."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Un pot de Beaujolais",
+      "period": "Thursday, third Thursday of November",
+      "summary": "On Beaujolais Nouveau day, the bouchon fills with cheerful regulars, and Camille sees how much the place means to the neighborhood. Marcel collapses briefly from tiredness, and Camille must run the full service alone with Nadia's help. A neighbor suggests the bouchon could join the Fête des Lumières celebrations to raise its profile.",
+      "key_facts": [
+        {
+          "claim": "Beaujolais Nouveau is released at midnight on the third Thursday of November, with the slogan 'Le Beaujolais nouveau est arrivé !'."
+        },
+        {
+          "claim": "Beaujolais wines are made from the Gamay grape."
+        },
+        {
+          "claim": "The Fête des Lumières takes place around 8 December in Lyon and lasts about four days."
+        },
+        {
+          "claim": "The Fête des Lumières originates from 1643, when Lyon's inhabitants promised to honour the Virgin Mary if the city was spared the plague."
+        },
+        {
+          "claim": "In 1852 the inauguration of a statue of the Virgin Mary on Fourvière hill was delayed by bad weather, and residents placed candles in their windows."
+        },
+        {
+          "claim": "The Basilique Notre-Dame de Fourvière overlooks the city and is a symbol of Lyon."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Les lumignons",
+      "period": "Early December, Croix-Rousse and Place des Terreaux",
+      "summary": "As December 8 nears, Camille organises a small street stall of soups and pogne with Nadia and Odette to attract visitors. Julien reveals that the audit date has been moved to the evening of the Fête, and that the landlord has a buyer. The plan falls apart when the supplier cancels delivery at the worst moment.",
+      "key_facts": [
+        {
+          "claim": "During the Fête des Lumières, Lyon residents place small candles, called 'lumignons', on their window sills on the evening of 8 December."
+        },
+        {
+          "claim": "The Place des Terreaux hosts large light projections on the facade of the Hôtel de Ville during the festival."
+        },
+        {
+          "claim": "Millions of visitors come to Lyon for the Fête des Lumières, with artists creating light installations across the city."
+        },
+        {
+          "claim": "The pogne de Romans is a brioche-like specialty from the Drôme region, often found in Lyon bakeries."
+        },
+        {
+          "claim": "Lyon's bugnes are fried dough fritters traditionally eaten around Mardi Gras."
+        },
+        {
+          "claim": "The Praline Rose appears in the brioche aux pralines, a Lyon baker's specialty, sold in many boulangeries."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Soir de fête",
+      "period": "8 December, evening, the bouchon and the streets of Lyon",
+      "summary": "On the night of the festival, crowds fill the streets while the auditors arrive at the bouchon. With the supplier problem solved by Nadia and Odette's neighbors, Camille serves a menu based on her grandmother's notebooks, Marcel returns to the kitchen, and candles glow in every window. Julien and the auditors sit down to taste a meal that tells the story of the family.",
+      "key_facts": [
+        {
+          "claim": "On 8 December, tens of thousands of candles are lit in windows across Lyon, and the streets are crowded with pedestrians."
+        },
+        {
+          "claim": "The city's traffic is heavily restricted during the Fête des Lumières and visitors move on foot or by metro."
+        },
+        {
+          "claim": "Lyon's Saint-Jean cathedral lies in Vieux Lyon, while Fourvière looks over the city from the west bank of the Saône."
+        },
+        {
+          "claim": "Many Lyon restaurants offer a 'menu' with a starter, a main course and a cheese or dessert."
+        },
+        {
+          "claim": "The cheese course in Lyon often features fresh cervelle de canut or Saint-Marcellin."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Le tablier se transmet",
+      "period": "Sunday after the festival, Croix-Rousse",
+      "summary": "The label is confirmed and the community's support convinces the landlord to renew the lease on better terms. Marcel hands Camille his old apron, and she decides to stay and run the bouchon with him, keeping the old recipes while adding her own touch. The story closes at the market with Nadia, as Camille buys vegetables for the next service.",
+      "key_facts": [
+        {
+          "claim": "A bouchon often passes from generation to generation in the same family, with recipes kept in handwritten notebooks."
+        },
+        {
+          "claim": "The Croix-Rousse market is a weekly ritual where chefs and residents shop for seasonal produce."
+        },
+        {
+          "claim": "In Lyon, winter produce includes cardons, chestnuts, leeks, celeriac and Jerusalem artichokes."
+        },
+        {
+          "claim": "The tarte à la praline is often served at the end of a meal in Lyon, with its pink colour recognisable at pâtisseries."
+        },
+        {
+          "claim": "The apron, 'le tablier', is a symbol of cooking trades in France, and the name 'tablier de sapeur' plays on it."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-14"
+  }
+}

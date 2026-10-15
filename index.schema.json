@@ -12,17 +12,18 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "title", "topic", "summary", "visibility", "status", "levels", "chapter_count", "path"],
+        "required": ["id", "title", "genre", "topic", "summary", "visibility", "status", "levels", "chapter_count", "path"],
         "additionalProperties": false,
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
           "title": { "type": "string" },
+          "genre": { "type": "string", "enum": ["history", "fiction", "scifi"] },
           "topic": {
             "type": "object",
             "required": ["type", "name"],
             "additionalProperties": false,
             "properties": {
-              "type": { "type": "string", "enum": ["person", "event", "place"] },
+              "type": { "type": "string", "enum": ["person", "event", "place", "theme"] },
               "name": { "type": "string" },
               "period": { "type": "string" },
               "region": { "type": "string" }

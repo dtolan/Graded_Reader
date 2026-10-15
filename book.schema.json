@@ -3,12 +3,17 @@
   "title": "StoryTime book",
   "description": "stories/<lang>/<book-id>/book.json. Level-independent: the factual backbone shared by every level.",
   "type": "object",
-  "required": ["schema_version", "id", "language", "visibility", "status", "title", "topic", "summary", "levels", "chapters"],
+  "required": ["schema_version", "id", "language", "genre", "visibility", "status", "title", "topic", "summary", "levels", "chapters"],
   "additionalProperties": false,
   "properties": {
     "schema_version": { "const": 1 },
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
     "language": { "type": "string", "enum": ["fr"] },
+    "genre": {
+      "type": "string",
+      "enum": ["history", "fiction", "scifi"],
+      "description": "history is true and checked against key_facts. fiction and scifi are invented stories set in real France; their key_facts are true real-world details (places, food, customs, activities), not plot."
+    },
     "visibility": { "type": "string", "enum": ["public", "private"] },
     "status": {
       "type": "string",
@@ -21,13 +26,23 @@
       "required": ["type", "name"],
       "additionalProperties": false,
       "properties": {
-        "type": { "type": "string", "enum": ["person", "event", "place"] },
+        "type": { "type": "string", "enum": ["person", "event", "place", "theme"] },
         "name": { "type": "string", "minLength": 1 },
         "period": { "type": "string", "description": "e.g. '1412-1431'" },
         "region": { "type": "string" }
       }
     },
     "summary": { "type": "string", "minLength": 1, "description": "Short French blurb for the catalog" },
+    "characters": {
+      "type": "array",
+      "description": "Fiction and scifi only: the invented cast, kept consistent across chapters and levels",
+      "items": {
+        "type": "object",
+        "required": ["name", "description"],
+        "additionalProperties": false,
+        "properties": { "name": { "type": "string" }, "description": { "type": "string" } }
+      }
+    },
     "levels": {
       "type": "array",
       "description": "CEFR levels for which chapter files exist",
