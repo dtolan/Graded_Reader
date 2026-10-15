@@ -3,44 +3,115 @@
   "title": "StoryTime book",
   "description": "stories/<lang>/<book-id>/book.json. Level-independent: the factual backbone shared by every level.",
   "type": "object",
-  "required": ["schema_version", "id", "language", "genre", "visibility", "status", "title", "topic", "summary", "levels", "chapters"],
+  "required": [
+    "schema_version",
+    "id",
+    "language",
+    "genre",
+    "visibility",
+    "status",
+    "title",
+    "topic",
+    "summary",
+    "levels",
+    "chapters"
+  ],
   "additionalProperties": false,
   "properties": {
-    "schema_version": { "const": 1 },
-    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "language": { "type": "string", "enum": ["fr"] },
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "fr"
+      ]
+    },
     "genre": {
       "type": "string",
-      "enum": ["history", "fiction", "scifi"],
+      "enum": [
+        "history",
+        "fiction",
+        "scifi"
+      ],
       "description": "history is true and checked against key_facts. fiction and scifi are invented stories set in real France; their key_facts are true real-world details (places, food, customs, activities), not plot."
     },
-    "visibility": { "type": "string", "enum": ["public", "private"] },
+    "visibility": {
+      "type": "string",
+      "enum": [
+        "public",
+        "private"
+      ]
+    },
     "status": {
       "type": "string",
-      "enum": ["draft", "reviewed"],
+      "enum": [
+        "draft",
+        "reviewed"
+      ],
       "description": "Stays draft until a human has checked every key_facts entry"
     },
-    "title": { "type": "string", "minLength": 1 },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
     "topic": {
       "type": "object",
-      "required": ["type", "name"],
+      "required": [
+        "type",
+        "name"
+      ],
       "additionalProperties": false,
       "properties": {
-        "type": { "type": "string", "enum": ["person", "event", "place", "theme"] },
-        "name": { "type": "string", "minLength": 1 },
-        "period": { "type": "string", "description": "e.g. '1412-1431'" },
-        "region": { "type": "string" }
+        "type": {
+          "type": "string",
+          "enum": [
+            "person",
+            "event",
+            "place",
+            "theme"
+          ]
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "period": {
+          "type": "string",
+          "description": "e.g. '1412-1431'"
+        },
+        "region": {
+          "type": "string"
+        }
       }
     },
-    "summary": { "type": "string", "minLength": 1, "description": "Short French blurb for the catalog" },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short French blurb for the catalog"
+    },
     "characters": {
       "type": "array",
       "description": "Fiction and scifi only: the invented cast, kept consistent across chapters and levels",
       "items": {
         "type": "object",
-        "required": ["name", "description"],
+        "required": [
+          "name",
+          "description"
+        ],
         "additionalProperties": false,
-        "properties": { "name": { "type": "string" }, "description": { "type": "string" } }
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
       }
     },
     "levels": {
@@ -48,7 +119,9 @@
       "description": "CEFR levels for which chapter files exist",
       "minItems": 1,
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/level" }
+      "items": {
+        "$ref": "#/$defs/level"
+      }
     },
     "chapters": {
       "type": "array",
@@ -57,38 +130,101 @@
       "maxItems": 15,
       "items": {
         "type": "object",
-        "required": ["number", "title", "summary", "key_facts"],
+        "required": [
+          "number",
+          "title",
+          "summary",
+          "key_facts"
+        ],
         "additionalProperties": false,
         "properties": {
-          "number": { "type": "integer", "minimum": 1, "maximum": 15 },
-          "title": { "type": "string", "minLength": 1 },
-          "period": { "type": "string" },
-          "summary": { "type": "string", "minLength": 1, "description": "What this chapter covers; also the continuity summary passed to the next chapter" },
+          "number": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 15
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "period": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string",
+            "minLength": 1,
+            "description": "What this chapter covers; also the continuity summary passed to the next chapter"
+          },
           "key_facts": {
             "type": "array",
             "minItems": 1,
             "description": "Verifiable claims this chapter may make. Generated levels must not go beyond these.",
             "items": {
               "type": "object",
-              "required": ["claim"],
+              "required": [
+                "claim"
+              ],
               "additionalProperties": false,
               "properties": {
-                "year": { "type": "string" },
-                "claim": { "type": "string", "minLength": 1 }
+                "year": {
+                  "type": "string"
+                },
+                "claim": {
+                  "type": "string",
+                  "minLength": 1
+                }
               }
             }
           }
         }
       }
     },
-    "generated": { "$ref": "#/$defs/generated" }
+    "generated": {
+      "$ref": "#/$defs/generated"
+    },
+    "review": {
+      "type": "object",
+      "description": "Set by tools/review_book.py approve when a human has signed the book off",
+      "required": [
+        "by",
+        "date"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "by": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    }
   },
   "$defs": {
-    "level": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1"] },
+    "level": {
+      "type": "string",
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
     "generated": {
       "type": "object",
       "additionalProperties": false,
-      "properties": { "model": { "type": "string" }, "date": { "type": "string" } }
+      "properties": {
+        "model": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        }
+      }
     }
   }
 }
