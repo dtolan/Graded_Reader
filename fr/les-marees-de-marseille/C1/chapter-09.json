@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "book_id": "les-marees-de-marseille",
+  "level": "C1",
+  "number": 9,
+  "title": "Le chant sous la Bonne Mère",
+  "recap": "À la veille de la Saint-Pierre, Inès et Marius ont rallié les anciens pêcheurs à la jeune équipe, tandis que Théo et la Dr Benali découvraient un défaut dans les turbines d'Aquapolis. Ce soir, la procession de pointus doit attirer l'attention de tout Marseille, mais la mer est de plus en plus agitée.",
+  "overview_en": "During the Saint-Pierre festival, the sea's song swells into a deafening roar and a surge threatens the quayside. Inès pilots her water-bus through the fleet of pointus to the central buoy to cut the energy network by hand, guided by her grandfather Marius's voice on the radio. Théo dives to free a tangled cable, and the song stops abruptly, leaving the whole port in silence.",
+  "paragraphs": [
+    "Le samedi soir, le Vieux-Port ressemblait à un immense théâtre en plein air. Depuis le coucher du soleil, les passerelles suspendues brillaient de lanternes, et les jardins marins accrochés aux quais exhalaient une odeur de sel, de fenouil et de braises. Des milliers de Marseillais s'étaient massés sur les quais pour la fête de la Saint-Pierre. On riait, on grignotait des navettes, ces petits biscuits parfumés à la fleur d'oranger, on se bousculait gentiment pour mieux voir l'eau.",
+    "Inès, elle, ne riait pas. Debout dans la timonerie de son bateau-bus, les mains posées sur la barre, elle fixait la surface noire du bassin. La mer n'était pas calme. Elle respirait de façon irrégulière, comme une bête endormie qui fait un mauvais rêve. Sous la coque, très bas, une vibration montait par à-coups, et Inès la sentait remonter dans ses poignets, jusque dans ses dents.",
+    "« Tu l'entends aussi, hein ? » murmura-t-elle dans la radio. La voix de Marius grésilla aussitôt, rieuse et inquiète à la fois. « Ma petite, je ne l'entends pas, je le sens dans mes vieux os. Et mes os ne se trompent jamais, ils me l'ont prouvé le jour de la grande tempête. Reste prête. Dès que les pointus entreront dans la passe, tout va se jouer. »",
+    "Sur la colline, au-dessus des toits, Notre-Dame-de-la-Garde veillait comme chaque soir. La statue dorée de la Vierge à l'Enfant, haute d'environ onze mètres au sommet du clocher, captait les derniers reflets du couchant et semblait flotter au-dessus de la ville. Inès avait grandi sous ce regard, au Panier, et, enfant, elle croyait que la Bonne Mère comptait chaque bateau qui entrait au port.",
+    "Marius lui avait souvent raconté que, dans la basilique, les murs disparaissaient sous les ex-voto : des maquettes de bateaux, des plaques de remerciement, accrochées là par des marins que la mer avait épargnés. « Chaque petit navire en bois, c'est un homme qui a eu peur et qui est rentré, disait-il. Ce soir, ma fille, on va peut-être en ajouter un ou deux. » Inès avait souri, sans trop y croire.",
+    "À vingt-deux heures, un cri joyeux parcourut la foule. Les pointus apparaissaient à l'entrée du bassin, un à un, tous feux allumés, leurs coques peintes de bleu, de jaune et de rouge. Il y en avait au moins une trentaine, menés par le vieux bateau de Marius, que pilotait pour l'occasion son vieil ami Honoré, quatre-vingts ans et une casquette plus ancienne que lui. Les applaudissements fusèrent, et les tambours du quai commencèrent à battre.",
+    "Pendant quelques minutes, tout fut presque parfait. La procession glissait lentement, les marins chantaient un cantique à moitié oublié, les enfants agitaient des drapeaux. Inès se surprit à sourire. Elle pensa que Lemoine, quelque part dans son bureau vitré d'Aquapolis, devait voir ces images sur ses écrans et comprendre enfin que le port n'appartenait pas qu'à ses turbines.",
+    "Puis le chant commença. Ce fut d'abord un souffle grave, presque musical, qui sembla sortir de l'eau elle-même. Quelques personnes se tournèrent, intriguées. Le son monta, s'épaissit, se fendit en deux notes qui se frottaient l'une contre l'autre, aiguës et douloureuses. Les tambours se turent. Un enfant se boucha les oreilles en pleurant, et un chien se mit à hurler sur la passerelle voisine.",
+    "« Inès ! » cria la voix de Théo dans la radio, presque noyée par un grésillement strident. « Les capteurs de la docteur Benali explosent ! L'onde grossit sous la bouée centrale. Elle dit qu'une vague de plusieurs mètres peut balayer le quai Rive-Neuve dans dix minutes, peut-être moins. Aquapolis ne répond à aucun appel. Lemoine a coupé son téléphone ! » Inès serra les mâchoires.",
+    "Elle regarda la bouée centrale, au milieu du bassin, avec sa petite lumière verte qui clignotait nerveusement. Tout le réseau de récupération d'énergie des marées passait par ce coffre d'acier, et c'était là, derrière un capot scellé, que se trouvait la commande manuelle de coupure. Une commande que personne n'avait touchée depuis des années, et que le règlement réservait aux ingénieurs d'Aquapolis.",
+    "« Je vais y aller, dit-elle, plus pour elle-même que pour les autres. » Dans la radio, Marius resta silencieux une seconde, puis répondit d'une voix étonnamment douce : « Je sais, ma petite. Tu es comme ta grand-mère : quand tu as décidé, le mistral lui-même n'y peut rien. Alors écoute-moi bien. Je connais ce bassin mieux que mes poches. Je te guiderai. »",
+    "Inès largua les amarres d'un geste brusque. Les passagers de la dernière rotation, une dizaine de curieux restés à bord, s'agrippèrent aux barres. « Mesdames et messieurs, annonça-t-elle d'un ton sec qu'elle ne se connaissait pas, nous changeons de programme. Asseyez-vous et tenez-vous bien. » Personne ne protesta. Une vieille dame serra son sac contre elle et se mit à réciter un Je vous salue Marie.",
+    "Le bateau-bus s'écarta du quai en vibrant. Devant lui, la procession occupait presque toute la largeur du bassin, un véritable labyrinthe de coques, de rames et de lanternes. Inès réduisit la vitesse, puis comprit qu'elle n'avait pas le temps de ralentir. « Marius, dit-elle, je ne vois pas de passage. » « Tu en vois un, répondit-il, mais tu ne sais pas encore où regarder. »",
+    "« Cap à droite, vers le pointu vert, celui d'Honoré. Je lui dis de pousser. » Dans la radio, la voix du vieux pêcheur s'adressait à tout le monde à la fois : « Les gars, ouvrez-moi la route ! Les anciens à bâbord, les jeunes à tribord, comme on a répété ! » Les pointus s'écartèrent lentement, rame contre rame, comme les pétales d'une grande fleur qui s'ouvre.",
+    "Le chant était maintenant assourdissant. Il entrait dans la timonerie par les vitres, par le plancher, par la peau. Les verres tremblaient sur les étagères, les lanternes des passerelles vacillaient, et au loin, une fenêtre éclata. Inès ne distinguait plus ses propres pensées. Elle ne gardait qu'une seule voix dans l'oreille, celle de son grand-père, qui lui répétait calmement : « Un peu à gauche, ma belle. Là. Maintenant tout droit. »",
+    "Marius parlait comme il avait toujours parlé aux enfants du quartier, avec des images. « Imagine que tu entres dans la calanque de Sormiou à marée basse, disait-il. Il y a des cailloux, mais tu as la tête sur les épaules. Tu glisses. Tu ne forces pas. » Et Inès glissait. Le bateau-bus passait entre les coques à quelques centimètres seulement, frôlant parfois un aviron, une corde, une main tendue.",
+    "Sur le quai, la foule avait compris que quelque chose d'anormal se produisait. Les gens reculaient vers les ruelles, les passerelles se vidaient. Au loin, sur la Corniche Kennedy, des phares de voitures dessinaient une ligne lumineuse le long de la mer. Et plus loin encore, vers le large, la silhouette du château d'If se découpait sur un ciel étrangement clair, comme si la nuit retenait son souffle.",
+    "La première onde arriva alors. Inès la vit d'abord comme une ride sombre qui avançait sans bruit sous les reflets des lanternes. Puis la ride gonfla. Le bateau-bus se souleva, retomba lourdement, et une gerbe d'eau claqua contre les vitres. Quelqu'un cria derrière elle. Inès s'accrocha à la barre et poussa les moteurs, sans quitter la bouée des yeux.",
+    "« Encore trente mètres, dit Marius. Ne regarde pas l'eau, regarde la lumière verte. » La lumière verte clignotait, minuscule, obstinée. Inès avança, dérapa, corrigea, serra les dents. Derrière elle, les pointus avaient refermé le passage et formé un grand cercle protecteur autour de la bouée, rame levée, comme si trente vieux marins tenaient ensemble un filet invisible.",
+    "Elle accosta enfin contre le flanc d'acier de la bouée, dans un choc qui fit trembler toute la navette. Elle sauta sur la plateforme glissante, trempée jusqu'aux genoux, une lampe frontale entre les dents. Le capot scellé portait une étiquette rouge : accès réservé. Inès sortit la clé à molette de sa ceinture et frappa. Une fois. Deux fois. Le plomb céda enfin.",
+    "Sous le capot, un grand levier jaune, enfoncé dans une rainure, portait le mot COUPURE. Inès tira de toutes ses forces. Rien ne bougea. Elle tira encore, les bras en feu, les pieds glissant sur l'acier. Le levier avança d'un doigt, puis se bloqua. Dans l'oreillette, elle entendit Théo crier : « Il y a un câble pris dans la turbine ! Quelque chose le tient sous l'eau ! »",
+    "« Je plonge ! » ajouta-t-il, aussi calmement qu'on annonce un petit bain d'été. Inès se pencha au bord de la plateforme et le vit. Une silhouette noire, lampe au poing, glissait sous la surface agitée. Théo avait sauté depuis un pointu, avec sa combinaison d'apprenti et un couteau de plongée fixé à la jambe. Il disparut dans l'eau sombre en quelques secondes.",
+    "Les secondes qui suivirent furent les plus longues de la vie d'Inès. Le chant montait toujours, désormais si violent qu'elle sentait le métal bourdonner sous ses semelles. Marius, dans l'oreillette, ne disait plus rien. Elle entendait seulement sa respiration, lente, régulière, comme celle d'un pêcheur qui attend que le fil tire. « Tiens bon, murmura-t-elle. Tiens bon, Théo. »",
+    "Alors le jeune homme émergea, haletant, un bras levé. « Un filet de pêche ! cria-t-il. Un vieux filet fantôme, enroulé autour du câble et de l'hélice ! J'ai coupé ! Mais il reste un nœud ! » Il replongea. Inès appuya de tout son poids sur le levier jaune. Il craqua, glissa de quelques centimètres et, soudain, se rabattit avec un claquement sec.",
+    "Il y eut un grand bruit métallique, comme une porte de cathédrale qui se referme. Les lumières de la bouée s'éteignirent. Puis, d'un coup, le chant s'arrêta. Il n'y eut pas de décrescendo, pas d'écho : une coupure nette, comme si on avait tranché un fil de soie. Le silence tomba sur le port comme un manteau, si épais qu'Inès entendit son propre cœur battre.",
+    "Plus personne ne bougea. Sur le quai, des milliers de visages levés vers la mer attendaient, bouche entrouverte. Les pointus flottaient immobiles, leurs lanternes dessinant de petits cercles d'or sur l'eau redevenue presque lisse. On entendait seulement le clapotis contre les coques, le cri lointain d'une mouette, et, tout au fond, le souffle apaisé de la mer qui retrouvait son rythme.",
+    "Théo remonta sur la plateforme, trempé, souriant, un morceau de filet noir entre les mains. « Un cadeau de la mer, dit-il en toussant. Je crois qu'on a trouvé le coupable. » Inès éclata d'un rire nerveux, puis le prit dans ses bras sans réfléchir. Elle sentait ses mains trembler, et elle ne savait pas si c'était elles ou celles du garçon.",
+    "Dans l'oreillette, la voix de Marius revint, un peu cassée. « Alors, ma petite, tu l'as entendu, ce silence ? Moi, je n'en avais pas entendu un pareil depuis la guerre des filets, quand j'étais gosse. » Il y eut un petit rire mouillé. « Regarde là-haut. » Inès leva les yeux vers la colline : la Bonne Mère brillait toujours, d'or et de calme, et à ses pieds s'allumaient, une à une, les fenêtres de la basilique.",
+    "Puis une rumeur monta des quais, d'abord hésitante, puis plus grande : des applaudissements, des cris, des noms. Les tambours reprirent, timides, avant de se perdre dans un tonnerre de voix. Inès, trempée et épuisée, s'assit sur le rebord de la bouée, Théo à côté d'elle. Au loin, une lumière blanche venait de s'allumer dans les bureaux d'Aquapolis, et quelqu'un, derrière une vitre, les regardait.\""
+  ],
+  "word_count": 1849,
+  "vocabulary": [
+    {
+      "term": "timonerie",
+      "pos": "nom féminin",
+      "gloss_en": "wheelhouse"
+    },
+    {
+      "term": "exhalaient",
+      "pos": "verbe (imparfait)",
+      "gloss_en": "gave off, breathed out (a smell)"
+    },
+    {
+      "term": "massés",
+      "pos": "participe passé",
+      "gloss_en": "crowded together"
+    },
+    {
+      "term": "ex-voto",
+      "pos": "nom masculin",
+      "gloss_en": "votive offering (thanks plaque or ship model)"
+    },
+    {
+      "term": "grésilla",
+      "pos": "verbe (passé simple)",
+      "gloss_en": "crackled (of a radio)"
+    },
+    {
+      "term": "larguer les amarres",
+      "pos": "locution verbale",
+      "gloss_en": "to cast off the mooring lines"
+    },
+    {
+      "term": "bâbord",
+      "pos": "nom masculin",
+      "gloss_en": "port side"
+    },
+    {
+      "term": "tribord",
+      "pos": "nom masculin",
+      "gloss_en": "starboard side"
+    },
+    {
+      "term": "frôlant",
+      "pos": "participe présent",
+      "gloss_en": "brushing against, grazing"
+    },
+    {
+      "term": "gerbe d'eau",
+      "pos": "nom féminin",
+      "gloss_en": "spray, burst of water"
+    },
+    {
+      "term": "assourdissant",
+      "pos": "adjectif",
+      "gloss_en": "deafening"
+    },
+    {
+      "term": "plomb",
+      "pos": "nom masculin",
+      "gloss_en": "lead seal"
+    },
+    {
+      "term": "haletant",
+      "pos": "adjectif",
+      "gloss_en": "panting, out of breath"
+    },
+    {
+      "term": "clapotis",
+      "pos": "nom masculin",
+      "gloss_en": "lapping of small waves"
+    },
+    {
+      "term": "trancher",
+      "pos": "verbe",
+      "gloss_en": "to cut cleanly"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Qui guide Inès par radio pendant sa traversée du bassin ?",
+      "answer": "Son grand-père, Marius, la guide par radio."
+    },
+    {
+      "question": "Que font les pointus pour aider Inès à passer ?",
+      "answer": "Ils s'écartent pour lui ouvrir la route, puis forment un cercle protecteur autour de la bouée."
+    },
+    {
+      "question": "Pourquoi Inès doit-elle aller jusqu'à la bouée centrale ?",
+      "answer": "Elle doit couper à la main le réseau de récupération d'énergie des marées."
+    },
+    {
+      "question": "Qu'est-ce qui bloquait la turbine, d'après Théo ?",
+      "answer": "Un vieux filet de pêche abandonné, enroulé autour du câble et de l'hélice."
+    },
+    {
+      "question": "Que se passe-t-il quand Inès abaisse le levier jaune ?",
+      "answer": "Le chant s'arrête brusquement et un grand silence tombe sur le port."
+    },
+    {
+      "question": "Qui observe Inès et Théo à la fin du chapitre ?",
+      "answer": "Quelqu'un, derrière une vitre des bureaux d'Aquapolis."
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "id": "les-marees-de-marseille",
+  "language": "fr",
+  "genre": "scifi",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Les Marées de Marseille",
+  "topic": {
+    "type": "place",
+    "name": "Marseille, le Vieux-Port et les calanques en 2150",
+    "region": "Provence"
+  },
+  "summary": "En 2150, Marseille est une cité de passerelles et de jardins marins, mais la mer se met à chanter d'une étrange façon. Une jeune pilote de bateau-bus et un vieux pêcheur remontent le fil d'un mystère qui va des quais du Vieux-Port jusqu'au fond des calanques.",
+  "levels": [
+    "A1",
+    "B1",
+    "C1"
+  ],
+  "characters": [
+    {
+      "name": "Inès Barbaroux",
+      "description": "28, pilote de navette fluviale-maritime (le « bateau-bus » du Vieux-Port) in 2150. Curieuse, têtue, née au Panier. Elle veut comprendre pourquoi la mer se met à émettre un son étrange avant que sa ville ne soit en danger."
+    },
+    {
+      "name": "Marius Fabre",
+      "description": "74, ancien pêcheur du Vieux-Port, grand-père d'Inès. Bavard, malicieux, gardien des traditions (bouillabaisse, pointus, Fête de la Saint-Pierre). Il se souvient de choses que les archives ont oubliées."
+    },
+    {
+      "name": "Dr Yasmina Benali",
+      "description": "41, océanographe à l'Institut Pythéas (campus de Luminy). Rigoureuse, un peu froide au début, passionnée par les herbiers de posidonie et la restauration des fonds marins."
+    },
+    {
+      "name": "Théo Santoni",
+      "description": "19, apprenti plongeur-technicien et guide dans le Parc national des Calanques. Sportif, blagueur, il connaît chaque crique entre Marseille et Cassis."
+    },
+    {
+      "name": "M. Gaspard Lemoine",
+      "description": "55, directeur de la société Aquapolis qui exploite le réseau de récupération d'énergie des marées. Poli, pressé, il cache une décision risquée."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Le bateau-bus du matin",
+      "period": "Monday morning, Vieux-Port, Marseille, 2150",
+      "summary": "Inès pilote sa navette entre le quai du Port et la Pointe-Rouge et salue les habitués. Ce matin-là, les passagers entendent un grondement musical sous la coque : la mer « chante ». Inès enregistre le son et son grand-père Marius, en l'écoutant, devient très pâle.",
+      "key_facts": [
+        {
+          "claim": "Le Vieux-Port de Marseille est le port historique de la ville, fondé il y a environ 2 600 ans par des marins grecs de Phocée, vers 600 avant J.-C."
+        },
+        {
+          "claim": "Le Vieux-Port abrite le marché aux poissons du quai des Belges, tous les matins, où des pêcheurs vendent directement leur pêche."
+        },
+        {
+          "claim": "Un petit bac traverse déjà le Vieux-Port entre l'Hôtel de Ville et la place aux Huiles ; c'est le « Ferry-Boat », en service depuis le XIXe siècle."
+        },
+        {
+          "claim": "L'Ombrière de Norman Foster, un grand toit-miroir en inox, a été inaugurée en 2013 sur le quai de la Fraternité."
+        },
+        {
+          "claim": "Au-dessus du Vieux-Port, la basilique Notre-Dame-de-la-Garde, surnommée « la Bonne Mère », domine la ville depuis une colline de 149 mètres."
+        },
+        {
+          "claim": "Le Vieux-Port est bordé de deux forts : le fort Saint-Jean et le fort Saint-Nicolas, qui en gardent l'entrée."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Chez Marius, au Panier",
+      "period": "Monday evening, Le Panier, Marseille",
+      "summary": "Dans la petite cuisine de Marius, sous les ruelles colorées du Panier, Inès lui fait écouter l'enregistrement. Il lui parle d'une vieille légende de pêcheurs : quand la mer chante, les rascasses disparaissent, et une tempête ou un grand changement arrive. Il lui donne l'adresse d'une chercheuse de Luminy, qui travaille sur le même phénomène.",
+      "key_facts": [
+        {
+          "claim": "Le Panier est le plus vieux quartier de Marseille, fait de ruelles étroites, d'escaliers et de façades colorées, sur une colline au nord du Vieux-Port."
+        },
+        {
+          "claim": "La Vieille Charité, ancien hospice du XVIIe siècle au Panier, est un grand bâtiment en pierre rose avec une chapelle à dôme ovale."
+        },
+        {
+          "claim": "La bouillabaisse traditionnelle se prépare avec plusieurs poissons de roche, dont la rascasse, et se sert avec des croûtons et de la rouille."
+        },
+        {
+          "claim": "La Charte de la bouillabaisse marseillaise a été rédigée en 1980 pour défendre la recette authentique."
+        },
+        {
+          "claim": "Le savon de Marseille traditionnel contient au moins 72 % d'huile végétale, d'où la mention « 72 % » gravée sur le cube."
+        },
+        {
+          "claim": "On dit que l'ancien « pastis » de Marseille, boisson à l'anis, a été créé en 1932 par Paul Ricard à Marseille."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Le campus de Luminy",
+      "period": "Tuesday, Luminy and the 9th arrondissement",
+      "summary": "Inès prend le métro puis le bus jusqu'à Luminy, entre les falaises, pour rencontrer la Dr Benali. La chercheuse a mesuré le même son sur tout le littoral : il vient du réseau d'énergie des marées d'Aquapolis et s'intensifie chaque nuit. Elle propose de plonger dans la calanque de Sormiou pour vérifier, mais le directeur d'Aquapolis refuse l'accès.",
+      "key_facts": [
+        {
+          "claim": "Le campus de Luminy se trouve dans le 9e arrondissement de Marseille, au pied du massif des Calanques, et accueille des universités et des laboratoires de recherche."
+        },
+        {
+          "claim": "Marseille a un métro depuis 1977, avec deux lignes principales (M1 et M2) ; le tramway est arrivé en 2007."
+        },
+        {
+          "claim": "L'Institut Pythéas, à Marseille, est un observatoire des sciences de l'Univers et de l'environnement ; il porte le nom de Pythéas, navigateur grec de Massalia au IVe siècle avant J.-C."
+        },
+        {
+          "claim": "La posidonie est une plante marine à fleurs de Méditerranée qui forme des herbiers protégés ; elle fabrique de l'oxygène et protège les côtes de l'érosion."
+        },
+        {
+          "claim": "Le massif des Calanques est constitué de calcaire blanc, et son point culminant, le mont Puget, mesure 565 mètres."
+        },
+        {
+          "claim": "Le Parc national des Calanques a été créé en 2012."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Le marché de la Plaine",
+      "period": "Wednesday morning, Marseille",
+      "summary": "Pour réfléchir, Inès retrouve Marius au marché, où il cherche des ingrédients pour une bouillabaisse « de crise ». Il lui raconte les anciennes pêches et reconnaît la voix du jeune Théo, qui vend des oursins pour sa famille. Théo propose de les emmener en bateau dans les calanques, discrètement, de nuit.",
+      "key_facts": [
+        {
+          "claim": "La place Jean-Jaurès, surnommée « la Plaine », accueille un grand marché de fruits, légumes et vêtements plusieurs matins par semaine."
+        },
+        {
+          "claim": "La saison des oursins violets en Méditerranée est l'hiver, et leur pêche est réglementée avec des périodes d'ouverture précises."
+        },
+        {
+          "claim": "Les navettes dites « pointus » sont les petites barques de pêche traditionnelles de Marseille, à fond plat et à deux pointes."
+        },
+        {
+          "claim": "Les « navettes » de Marseille sont aussi des petits biscuits en forme de barque parfumés à la fleur d'oranger, vendus au Four des Navettes depuis 1781."
+        },
+        {
+          "claim": "Le cours Julien est un quartier populaire de Marseille connu pour son street art, ses cafés et son marché."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Nuit sur les calanques",
+      "period": "Thursday night, Calanque de Sormiou and Morgiou",
+      "summary": "Dans un pointu moderne à moteur silencieux, Théo conduit le groupe le long des falaises blanches jusqu'à Sormiou. Dans l'eau noire, ils découvrent des herbiers de posidonie éclairés par une lueur étrange et des poissons qui nagent en cercle, désorientés. Un projecteur les surprend : un bateau d'Aquapolis les suit.",
+      "key_facts": [
+        {
+          "claim": "Sormiou et Morgiou sont deux calanques voisines du 9e arrondissement de Marseille, entourées de falaises de calcaire."
+        },
+        {
+          "claim": "La grotte Cosquer, près de Marseille, a une entrée sous-marine à environ 37 mètres de profondeur ; elle contient des peintures et gravures préhistoriques vieilles de plus de 19 000 ans."
+        },
+        {
+          "claim": "Les calanques sont des vallées creusées dans le calcaire et envahies par la mer, formant des criques étroites."
+        },
+        {
+          "claim": "Le sentier de randonnée GR 98-51 relie Marseille à Cassis par la crête et le bord de mer ; en été, l'accès aux calanques est parfois limité à cause du risque d'incendie."
+        },
+        {
+          "claim": "La plongée de nuit nécessite une lampe et un équipement spécial, et les plongeurs de loisir restent le plus souvent à moins de 40 mètres."
+        },
+        {
+          "claim": "Le mistral est un vent froid et sec qui souffle du nord-ouest sur la Provence, souvent plusieurs jours de suite."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Cassis et le cap Canaille",
+      "period": "Friday, Cassis",
+      "summary": "Pour échapper au bateau d'Aquapolis, Théo conduit le groupe au petit port de Cassis, où l'oncle de Marius tenait une vieille cabane de pêcheur. Dans les archives de cette cabane, ils trouvent un carnet de 1950 qui décrit le même chant marin, lié à un phénomène naturel de la baie. Ils comprennent que la machine d'Aquapolis réveille quelque chose d'ancien.",
+      "key_facts": [
+        {
+          "claim": "Cassis est un petit port de pêche à l'est de Marseille, célèbre pour son vin blanc AOC et ses calanques."
+        },
+        {
+          "claim": "Le cap Canaille, entre Cassis et La Ciotat, est l'une des plus hautes falaises maritimes d'Europe, avec environ 394 mètres."
+        },
+        {
+          "claim": "La calanque d'En-Vau, près de Cassis, est connue pour ses falaises verticales et son eau turquoise."
+        },
+        {
+          "claim": "Le Cassis blanc est un vin AOC depuis 1936, un des premiers de France, produit autour de Cassis."
+        },
+        {
+          "claim": "On accède aux calanques de Port-Miou, Port-Pin et En-Vau depuis Cassis à pied ou en bateau."
+        },
+        {
+          "claim": "Les « poutargues », œufs de muge salés et séchés, sont une spécialité provençale, notamment de Martigues."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Le dossier d'Aquapolis",
+      "period": "Saturday, Marseille, Euroméditerranée",
+      "summary": "Inès, Théo et la Dr Benali se rendent au siège d'Aquapolis, dans le quartier d'Euroméditerranée, pour affronter M. Lemoine. Il avoue avoir augmenté la puissance du réseau pour fournir de l'énergie à la ville pendant une canicule, sans mesurer l'effet sur les herbiers. Il refuse pourtant d'arrêter les turbines avant la grande fête de samedi prochain.",
+      "key_facts": [
+        {
+          "claim": "Euroméditerranée est un grand quartier d'affaires et de rénovation urbaine, près du port de la Joliette, à Marseille."
+        },
+        {
+          "claim": "Le MuCEM (Musée des civilisations de l'Europe et de la Méditerranée) a ouvert en 2013 à l'entrée du Vieux-Port ; il est relié au fort Saint-Jean par une passerelle."
+        },
+        {
+          "claim": "Les Docks de la Joliette sont d'anciens entrepôts du XIXe siècle transformés en bureaux et commerces."
+        },
+        {
+          "claim": "La Tour CMA CGM, inaugurée en 2011, est un gratte-ciel de 147 mètres dessiné par Zaha Hadid."
+        },
+        {
+          "claim": "Marseille est le premier port de France pour le trafic de marchandises."
+        },
+        {
+          "claim": "Marseille est la deuxième ville de France par sa population, après Paris."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "La veille de la Saint-Pierre",
+      "period": "The following Friday evening, Vieux-Port",
+      "summary": "La mer est de plus en plus agitée et des poissons échouent sur les quais. Marius convainc les anciens pêcheurs de s'allier à la jeune équipe ; ils organisent une procession de pointus pour attirer l'attention de la foule le soir de la fête. Pendant ce temps, Théo et la Dr Benali repèrent un défaut dans les turbines.",
+      "key_facts": [
+        {
+          "claim": "Saint Pierre est le saint patron des pêcheurs, et en Méditerranée des bateaux sont bénits en son honneur à la fin juin."
+        },
+        {
+          "claim": "À Marseille, la Fête de la Saint-Pierre existe à Martigues et dans les ports voisins, avec une procession de bateaux et une bénédiction de la mer."
+        },
+        {
+          "claim": "La tradition des santons de Provence est née à Marseille à la fin du XVIIIe siècle ; une grande foire aux santons se tient chaque décembre."
+        },
+        {
+          "claim": "La soupe de poissons se sert avec des croûtons frottés à l'ail, de la rouille et du fromage râpé."
+        },
+        {
+          "claim": "Le fort Saint-Jean et le fort Saint-Nicolas ont été construits au XVIIe siècle sous Louis XIV."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Le chant sous la Bonne Mère",
+      "period": "Saturday night, Vieux-Port and the open sea",
+      "summary": "Pendant la fête, le chant devient assourdissant et une onde menace le quai. Inès pilote sa navette au milieu des pointus jusqu'à la bouée centrale pour couper manuellement le réseau, guidée par la voix de Marius. Théo plonge pour libérer un câble : le chant s'arrête brusquement, et le silence tombe sur tout le port.",
+      "key_facts": [
+        {
+          "claim": "Notre-Dame-de-la-Garde est ornée d'une statue dorée de la Vierge à l'Enfant, haute d'environ 11 mètres, au sommet du clocher."
+        },
+        {
+          "claim": "Les ex-voto, des maquettes de bateaux et des plaques de remerciement, sont accrochés dans la basilique de Notre-Dame-de-la-Garde par des marins sauvés d'un danger."
+        },
+        {
+          "claim": "La Corniche Kennedy est une route qui longe la mer sur environ 5 kilomètres au sud du Vieux-Port, avec des vues sur le château d'If."
+        },
+        {
+          "claim": "Le château d'If est une forteresse du XVIe siècle, sur une île de la rade, rendue célèbre par le roman « Le Comte de Monte-Cristo » d'Alexandre Dumas."
+        },
+        {
+          "claim": "L'archipel du Frioul se compose de quatre îles à quelques kilomètres du Vieux-Port, reliées par des navettes maritimes."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Une bouillabaisse pour tout le monde",
+      "period": "Sunday, Vieux-Port, a few weeks later",
+      "summary": "Aquapolis accepte une nouvelle charte : turbines plus lentes, herbiers replantés, et un comité de pêcheurs au conseil. La Dr Benali, Théo et Lemoine plantent de la posidonie à Sormiou, puis tout le monde partage une grande bouillabaisse sur le quai. Inès comprend qu'elle veut rester pilote de navette, et le grand-père lui offre sa vieille casquette.",
+      "key_facts": [
+        {
+          "claim": "La bouillabaisse se sert en deux temps : d'abord le bouillon avec croûtons et rouille, puis les poissons, souvent avec des pommes de terre."
+        },
+        {
+          "claim": "Les poissons traditionnels de la bouillabaisse comprennent la rascasse, le grondin, la vive et le congre."
+        },
+        {
+          "claim": "La rouille est une sauce à base d'ail, de safran, de piment et d'huile d'olive, souvent épaissie avec de la mie de pain ou de la pomme de terre."
+        },
+        {
+          "claim": "Marseille a été Capitale européenne de la culture en 2013."
+        },
+        {
+          "claim": "Le « Petit train » touristique et la ligne de bus 60 relient la Bonne Mère au centre-ville."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
+  }
+}

@@ -40,10 +40,34 @@
       "status": "draft",
       "levels": [
         "A1",
-        "B1"
+        "A2",
+        "B1",
+        "B2",
+        "C1"
       ],
       "chapter_count": 10,
       "path": "fr/le-dernier-tablier/book.json",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "les-marees-de-marseille",
+      "title": "Les Marées de Marseille",
+      "genre": "scifi",
+      "topic": {
+        "type": "place",
+        "name": "Marseille, le Vieux-Port et les calanques en 2150",
+        "region": "Provence"
+      },
+      "summary": "En 2150, Marseille est une cité de passerelles et de jardins marins, mais la mer se met à chanter d'une étrange façon. Une jeune pilote de bateau-bus et un vieux pêcheur remontent le fil d'un mystère qui va des quais du Vieux-Port jusqu'au fond des calanques.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "A1",
+        "B1",
+        "C1"
+      ],
+      "chapter_count": 10,
+      "path": "fr/les-marees-de-marseille/book.json",
       "updated": "2026-10-15"
     }
   ]
