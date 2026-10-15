@@ -69,6 +69,30 @@
       "chapter_count": 10,
       "path": "fr/les-marees-de-marseille/book.json",
       "updated": "2026-10-15"
+    },
+    {
+      "id": "saint-louis",
+      "title": "Saint Louis, le roi croisé",
+      "genre": "history",
+      "topic": {
+        "type": "person",
+        "name": "Saint Louis (Louis IX)",
+        "period": "1214-1270",
+        "region": "Île-de-France, Terre sainte, Tunis"
+      },
+      "summary": "Découvrez la vie de Louis IX, roi de France de 1226 à 1270, de son enfance sous la régence de Blanche de Castille à sa mort devant Tunis. Un roi pieux, bâtisseur et justicier, devenu saint, qui a marqué le XIIIe siècle.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "chapter_count": 10,
+      "path": "fr/saint-louis/book.json",
+      "updated": "2026-10-15"
     }
   ]
 }

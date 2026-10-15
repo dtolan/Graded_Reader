@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "id": "saint-louis",
+  "language": "fr",
+  "genre": "history",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Saint Louis, le roi croisé",
+  "topic": {
+    "type": "person",
+    "name": "Saint Louis (Louis IX)",
+    "period": "1214-1270",
+    "region": "Île-de-France, Terre sainte, Tunis"
+  },
+  "summary": "Découvrez la vie de Louis IX, roi de France de 1226 à 1270, de son enfance sous la régence de Blanche de Castille à sa mort devant Tunis. Un roi pieux, bâtisseur et justicier, devenu saint, qui a marqué le XIIIe siècle.",
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "characters": [
+    {
+      "name": "Louis IX (Saint Louis)",
+      "description": "Roi de France (1226-1270), né à Poissy en 1214, croisé, canonisé en 1297."
+    },
+    {
+      "name": "Blanche de Castille",
+      "description": "Mère de Louis IX, régente du royaume pendant sa minorité, puis à nouveau pendant sa première croisade; morte en 1252."
+    },
+    {
+      "name": "Marguerite de Provence",
+      "description": "Épouse de Louis IX depuis 1234, reine de France; l'accompagne en Égypte."
+    },
+    {
+      "name": "Jean de Joinville",
+      "description": "Sénéchal de Champagne, compagnon de Louis IX en croisade et auteur de la Vie de saint Louis."
+    },
+    {
+      "name": "Henri III d'Angleterre",
+      "description": "Roi d'Angleterre, avec qui Louis IX conclut le traité de Paris en 1259."
+    },
+    {
+      "name": "Charles d'Anjou",
+      "description": "Frère de Louis IX, comte d'Anjou et de Provence, devenu roi de Sicile."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Un enfant roi",
+      "period": "1214-1226",
+      "summary": "Louis naît à Poissy en 1214, dans la famille des Capétiens. À la mort soudaine de son père Louis VIII en 1226, il devient roi à environ douze ans et est sacré à Reims.",
+      "key_facts": [
+        {
+          "year": "1214",
+          "claim": "Louis IX is born on 25 April 1214 at Poissy, near Paris, the son of the future Louis VIII and Blanche of Castile."
+        },
+        {
+          "year": "1214",
+          "claim": "His grandfather Philip II Augustus was king of France at the time of his birth; the same year the French won the battle of Bouvines (27 July 1214)."
+        },
+        {
+          "year": "1223",
+          "claim": "Philip Augustus dies in 1223 and Louis's father becomes king as Louis VIII."
+        },
+        {
+          "year": "1226",
+          "claim": "Louis VIII dies on 8 November 1226, returning from the campaign against the Albigensians (the Albigensian Crusade) in southern France."
+        },
+        {
+          "year": "1226",
+          "claim": "Louis IX is crowned at Reims cathedral on 29 November 1226, when he is about twelve years old."
+        },
+        {
+          "year": "1226",
+          "claim": "Because he is a minor, his mother Blanche of Castile takes charge of the kingdom as regent."
+        },
+        {
+          "claim": "Blanche of Castile, born in Spain, was a granddaughter of Henry II of England and Eleanor of Aquitaine; she gave her children a strict religious education."
+        },
+        {
+          "claim": "Joinville reports that Blanche told her son she would rather see him dead than guilty of a mortal sin; this is a traditional anecdote reported by later authors."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "La régence de Blanche de Castille",
+      "period": "1226-1234",
+      "summary": "Pendant la minorité du roi, Blanche doit faire face à la révolte de grands barons. Elle réussit à préserver l'autorité capétienne, tandis que la guerre contre les Albigeois prend fin avec le traité de Meaux-Paris.",
+      "key_facts": [
+        {
+          "year": "1226",
+          "claim": "Several great barons, including Pierre Mauclerc of Brittany and Hugh of Lusignan, rebel against the regency of a woman and a child king."
+        },
+        {
+          "year": "1229",
+          "claim": "The treaty of Meaux-Paris (April 1229) ends the Albigensian Crusade: Count Raymond VII of Toulouse submits and his daughter Jeanne is to marry a brother of the king."
+        },
+        {
+          "year": "1229",
+          "claim": "Through this treaty the French crown gains large territories in Languedoc, notably the sénéchaussées of Beaucaire and Carcassonne."
+        },
+        {
+          "year": "1229-1231",
+          "claim": "A student strike at the University of Paris (1229-1231) follows a violent clash with the royal watch; it ends with a papal bull in 1231 that protects university privileges."
+        },
+        {
+          "year": "1234",
+          "claim": "Louis comes of age (around twenty) in 1234 and begins to rule personally, though his mother keeps great influence."
+        },
+        {
+          "year": "1234",
+          "claim": "On 27 May 1234 Louis marries Marguerite of Provence, eldest daughter of Count Raymond Berenger V, at Sens."
+        },
+        {
+          "claim": "Marguerite and Louis had eleven children according to most sources."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "La Sainte-Chapelle et la couronne d'épines",
+      "period": "1239-1248",
+      "summary": "Louis acquiert à grand prix des reliques de la Passion du Christ et fait construire la Sainte-Chapelle, joyau de l'art gothique rayonnant. Ce chapitre montre sa piété et son goût pour les grands chantiers.",
+      "key_facts": [
+        {
+          "year": "1239",
+          "claim": "Louis buys the Crown of Thorns from Baldwin II, the Latin emperor of Constantinople, who needed money; it had been pledged to Venetian creditors."
+        },
+        {
+          "year": "1239",
+          "claim": "The relic arrives in France in August 1239; Louis goes to meet it near Sens and, according to tradition, carries it barefoot into Paris with his brother."
+        },
+        {
+          "year": "1241",
+          "claim": "Louis acquires further relics from Baldwin II, including pieces of the True Cross."
+        },
+        {
+          "claim": "The price paid for the relics was far higher than the cost of building the chapel that houses them, according to the usual estimates."
+        },
+        {
+          "year": "1243-1248",
+          "claim": "The Sainte-Chapelle is built in the royal palace on the Île de la Cité in Paris, and is consecrated on 26 April 1248."
+        },
+        {
+          "claim": "The chapel has two levels: a lower chapel for the palace staff and an upper chapel for the king and his family, famous for its large stained-glass windows."
+        },
+        {
+          "claim": "The upper chapel's fifteen windows depict more than a thousand scenes from the Bible; the architect is traditionally (but uncertainly) said to be Pierre de Montreuil."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Une promesse de croisade",
+      "period": "1241-1248",
+      "summary": "Louis consolide son royaume en battant Henri III et ses vassaux à Taillebourg et Saintes, puis tombe gravement malade en 1244. Il fait vœu de partir en croisade et se prépare pendant quatre ans.",
+      "key_facts": [
+        {
+          "year": "1242",
+          "claim": "In July 1242 Louis defeats Hugh of Lusignan and Henry III of England at the battles of Taillebourg and Saintes, in Poitou."
+        },
+        {
+          "year": "1244",
+          "claim": "Jerusalem is taken by Khwarazmian Turks in 1244, a loss for Christians; later that year the Franks suffer a heavy defeat at La Forbie."
+        },
+        {
+          "year": "1244",
+          "claim": "Around December 1244 Louis falls so gravely ill with dysentery that he is believed dying, and when he recovers he takes the cross, vowing to go on crusade."
+        },
+        {
+          "year": "1245",
+          "claim": "The Council of Lyon (1245), led by Pope Innocent IV, deposes Emperor Frederick II; Louis meets the pope at Cluny that year."
+        },
+        {
+          "year": "1248",
+          "claim": "Louis spends four years preparing the expedition: he creates a new port, Aigues-Mortes, as a royal outlet on the Mediterranean and sends out inquiries (enquêteurs) to right wrongs."
+        },
+        {
+          "year": "1248",
+          "claim": "Louis leaves Paris in June 1248 after taking the pilgrim's staff and scrip at Saint-Denis, and entrusts the regency again to his mother Blanche."
+        },
+        {
+          "year": "1248",
+          "claim": "He sails from Aigues-Mortes on 25 August 1248 with his wife Marguerite and his brothers Robert d'Artois, Charles d'Anjou and Alphonse de Poitiers."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "L'Égypte: Damiette et la Mansourah",
+      "period": "1248-1250",
+      "summary": "La septième croisade vise l'Égypte, cœur de la puissance ayyoubide. Damiette est prise facilement, mais l'armée s'enlise devant la Mansourah, où le frère du roi trouve la mort.",
+      "key_facts": [
+        {
+          "year": "1248",
+          "claim": "The crusaders spend the winter of 1248-1249 on Cyprus, where Joinville joins the king."
+        },
+        {
+          "year": "1249",
+          "claim": "On 6 June 1249 the French land near Damietta in Egypt, and the city is taken almost without a fight after its defenders flee."
+        },
+        {
+          "year": "1249",
+          "claim": "The Ayyubid sultan al-Salih Ayyub dies in November 1249; his widow Shajar al-Durr keeps his death secret for a time."
+        },
+        {
+          "year": "1250",
+          "claim": "On 8 February 1250 Robert d'Artois, the king's brother, disobeys orders and charges into Mansurah, where he and many Templars are killed."
+        },
+        {
+          "year": "1250",
+          "claim": "Joinville gives a vivid eyewitness account of the fighting at Mansurah, where he was himself wounded."
+        },
+        {
+          "year": "1250",
+          "claim": "During the retreat, the army is hit by disease (scurvy and dysentery) and cut off; Louis himself is ill."
+        },
+        {
+          "year": "1250",
+          "claim": "The crusaders are defeated at Fariskur in early April 1250 and Louis is taken prisoner by the Egyptians."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Prisonnier, puis quatre ans en Terre sainte",
+      "period": "1250-1254",
+      "summary": "Louis négocie sa libération et celle de son armée contre une rançon et la restitution de Damiette. Au lieu de rentrer, il reste en Palestine pour fortifier les villes chrétiennes, jusqu'à la mort de sa mère.",
+      "key_facts": [
+        {
+          "year": "1250",
+          "claim": "Louis is captured in April 1250; the sultan's Egyptian guard then overthrows the new sultan Turan Shah (early May 1250), which complicates the talks."
+        },
+        {
+          "year": "1250",
+          "claim": "The king is freed in May 1250 after agreeing to give up Damietta and to pay a very large ransom, traditionally given as 800,000 besants, half before his release."
+        },
+        {
+          "year": "1250",
+          "claim": "Joinville tells that Louis kept his dignity in captivity and refused to break an oath he had given, even when pressed by his captors."
+        },
+        {
+          "year": "1250-1254",
+          "claim": "Instead of returning to France, Louis sails to Acre and stays four years in the Holy Land, against the advice of some of his barons."
+        },
+        {
+          "year": "1251",
+          "claim": "Bands of poor people known as the Pastoureaux, who had gathered in France in 1251 in a movement of popular crusade, are dispersed by Blanche of Castile's government."
+        },
+        {
+          "year": "1250-1254",
+          "claim": "In Palestine he has the defences of Acre, Caesarea, Jaffa and Sidon strengthened using his own funds."
+        },
+        {
+          "year": "1252",
+          "claim": "Blanche of Castile dies on 27 November 1252 in Paris, and the news reaches Louis in the Holy Land in early 1253."
+        },
+        {
+          "year": "1254",
+          "claim": "Louis finally leaves Acre in April 1254 and lands in Provence in July 1254, returning to Paris in September."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Le roi justicier",
+      "period": "1254-1260",
+      "summary": "De retour en France, Louis se transforme: il veut réformer son royaume. Il envoie des enquêteurs, interdit le duel judiciaire, rend la justice, et fait battre une monnaie d'or et d'argent stable.",
+      "key_facts": [
+        {
+          "year": "1254",
+          "claim": "The Great Ordinance of December 1254 for the reform of the kingdom regulates the conduct of royal officials (baillis and sénéchaux), forbidding abuses such as bribes."
+        },
+        {
+          "year": "1247",
+          "claim": "Even before leaving on crusade, Louis had sent out enquêteurs (inquirers) in 1247 to hear complaints against royal officers."
+        },
+        {
+          "year": "1260",
+          "claim": "The Parlement (a royal court of justice) is gradually becoming more structured under his reign, and appeals to the king's court become more frequent."
+        },
+        {
+          "year": "1258",
+          "claim": "An ordinance of 1258 prohibits judicial duels (trial by combat) in the royal domain."
+        },
+        {
+          "claim": "Joinville describes the king sitting under an oak at Vincennes to hear people's complaints; this is a traditional image of his justice."
+        },
+        {
+          "year": "1266",
+          "claim": "Louis introduces a gold coin, the écu d'or, in 1266, and the silver gros tournois had been introduced around 1266 as well; historians debate the exact dates."
+        },
+        {
+          "claim": "The king also banned private warfare among nobles in the royal domain, in principle, during his reign (the 'quarantaine-le-roi' truce is traditionally attributed to him)."
+        },
+        {
+          "year": "1269",
+          "claim": "An ordinance of 1269 also prohibits blasphemy with severe punishments; Louis was strict about oaths and blasphemy."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "La paix avec l'Angleterre et la fondation de la Sorbonne",
+      "period": "1258-1264",
+      "summary": "Louis cherche la paix avec ses voisins. Le traité de Paris met fin à des décennies de conflit avec les Plantagenêts, et le roi devient arbitre en Europe. Sa générosité se voit aussi dans les fondations pieuses.",
+      "key_facts": [
+        {
+          "year": "1258",
+          "claim": "The treaty of Corbeil (1258) with James I of Aragon settles the border in the south: Louis gives up claims on Catalonia and Aragon gives up claims on Languedoc."
+        },
+        {
+          "year": "1259",
+          "claim": "The treaty of Paris (28 May 1259, ratified in December) is signed with Henry III of England: Henry renounces Normandy, Anjou, Maine and Poitou."
+        },
+        {
+          "year": "1259",
+          "claim": "In exchange, Henry keeps Guyenne (Aquitaine) as a fief and does homage to Louis as his vassal; many of Louis's barons criticised the generosity of these terms."
+        },
+        {
+          "claim": "Joinville reports that Louis justified the treaty by saying it would create love between their children, since the two kings' wives were sisters."
+        },
+        {
+          "year": "1264",
+          "claim": "In the Mise of Amiens (January 1264), Louis acts as arbiter between Henry III and his rebellious barons, and rules in favour of the English king."
+        },
+        {
+          "year": "1257",
+          "claim": "The Sorbonne is founded around 1257 as a college for poor students of theology by Robert de Sorbon, a chaplain and confessor of the king, with Louis's support."
+        },
+        {
+          "claim": "Louis also founded or supported the Quinze-Vingts hospital in Paris (traditionally said to be for 300 blind men; sources are debated on the date), and gave generously to hospitals and abbeys."
+        },
+        {
+          "year": "1248-1270",
+          "claim": "The mendicant orders, Franciscans and Dominicans, were close to the king, who was influenced by their spirituality."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "L'homme derrière le roi",
+      "period": "1254-1270",
+      "summary": "Ce chapitre dresse le portrait de Louis tel que le montrent ses contemporains, surtout Joinville: sa piété, son humour, sa simplicité, ses jeûnes et ses charités. Il évoque aussi les aspects plus sombres de son règne, comme le sort réservé aux Juifs.",
+      "key_facts": [
+        {
+          "claim": "Joinville wrote the Vie de saint Louis in his old age, finishing it in 1309; it is the main source for Louis's personality and mixes memories with royal anecdotes."
+        },
+        {
+          "claim": "Joinville tells of the king's habit of washing the feet of the poor on Holy Thursday and serving meals to them."
+        },
+        {
+          "claim": "The king wore simple clothes after his return from Egypt, and regularly fasted and heard several services a day, according to Joinville and Geoffroy de Beaulieu, his confessor."
+        },
+        {
+          "claim": "Joinville recounts that the king liked to discuss with his friends; he said that a layman should not debate with Jews but run his sword into them as far as it will go, an anecdote from Joinville that shows his hostility."
+        },
+        {
+          "year": "1240",
+          "claim": "In 1240, the Disputation of Paris leads to the condemnation of the Talmud, and in 1242 copies of the Talmud were burned in Paris with royal support."
+        },
+        {
+          "year": "1269",
+          "claim": "In 1269 an ordinance orders Jews to wear a distinctive badge (a rouelle) on their clothing."
+        },
+        {
+          "claim": "Louis was a tall, slender, fair-haired man according to descriptions of contemporaries; no authentic portrait survives."
+        },
+        {
+          "claim": "His wife Marguerite of Provence and he had a loving but sometimes strained family life, with Blanche of Castile reportedly causing friction."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Tunis: la mort du roi et la naissance d'un saint",
+      "period": "1267-1297",
+      "summary": "Louis prend la croix une seconde fois en 1267 et part pour Tunis en 1270. La maladie frappe l'armée, et le roi meurt le 25 août 1270. Son corps est ramené en France, et il est canonisé en 1297.",
+      "key_facts": [
+        {
+          "year": "1267",
+          "claim": "Louis takes the cross for a second time on 25 March 1267 at the Sainte-Chapelle, to the surprise of many including Joinville, who refuses to go."
+        },
+        {
+          "year": "1270",
+          "claim": "The eighth crusade sails from Aigues-Mortes on 1 July 1270 and lands near Tunis, on the site of ancient Carthage, around 17-18 July 1270."
+        },
+        {
+          "year": "1270",
+          "claim": "The reasons why Tunis was chosen are debated by historians; one theory involves his brother Charles d'Anjou's interests in Sicily, another a hope of converting the emir."
+        },
+        {
+          "year": "1270",
+          "claim": "An epidemic (dysentery or typhus, according to historians) strikes the army camped in the summer heat; Louis's son Jean Tristan dies on 3 August 1270."
+        },
+        {
+          "year": "1270",
+          "claim": "Louis dies in his camp near Tunis on 25 August 1270, aged 56."
+        },
+        {
+          "year": "1270",
+          "claim": "Charles d'Anjou arrives that same day or soon after and negotiates a treaty with the emir; the crusade ends soon after."
+        },
+        {
+          "year": "1270",
+          "claim": "His body is boiled, as was customary, and the bones are taken back to France and buried at the abbey of Saint-Denis, in 1271; his heart and some entrails are kept in Sicily, according to tradition."
+        },
+        {
+          "year": "1270",
+          "claim": "His son Philip III becomes king after him."
+        },
+        {
+          "year": "1297",
+          "claim": "Pope Boniface VIII canonises Louis IX on 11 August 1297; his feast day is 25 August."
+        },
+        {
+          "claim": "Louis is the only French king to have been canonised; many cities in the world, such as Saint Louis in Missouri, bear his name."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
+  }
+}
