@@ -93,6 +93,26 @@
       "chapter_count": 10,
       "path": "fr/saint-louis/book.json",
       "updated": "2026-10-15"
+    },
+    {
+      "id": "hugues-capet",
+      "title": "Hugues Capet, le premier des Capétiens",
+      "genre": "history",
+      "topic": {
+        "type": "person",
+        "name": "Hugues Capet",
+        "period": "941-996"
+      },
+      "summary": "Découvrez comment Hugues Capet, fils du puissant duc des Francs, est devenu roi en 987 et a fondé une dynastie qui allait régner sur la France pendant plus de huit siècles. Une histoire de pouvoir, d'alliances et de patience au Xe siècle.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "B1",
+        "C1"
+      ],
+      "chapter_count": 10,
+      "path": "fr/hugues-capet/book.json",
+      "updated": "2026-10-16"
     }
   ]
 }

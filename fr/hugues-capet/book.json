@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "id": "hugues-capet",
+  "language": "fr",
+  "genre": "history",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Hugues Capet, le premier des Capétiens",
+  "topic": {
+    "type": "person",
+    "name": "Hugues Capet",
+    "period": "941-996"
+  },
+  "summary": "Découvrez comment Hugues Capet, fils du puissant duc des Francs, est devenu roi en 987 et a fondé une dynastie qui allait régner sur la France pendant plus de huit siècles. Une histoire de pouvoir, d'alliances et de patience au Xe siècle.",
+  "levels": [
+    "B1",
+    "C1"
+  ],
+  "characters": [
+    {
+      "name": "Hugues Capet",
+      "description": "Duke of the Franks, then king of the Franks from 987 to 996; founder of the Capetian dynasty."
+    },
+    {
+      "name": "Hugues le Grand",
+      "description": "His father, duke of the Franks, the most powerful lord of the West Frankish kingdom; died in 956."
+    },
+    {
+      "name": "Adalbéron de Reims",
+      "description": "Archbishop of Reims who supported Hugues and crowned him in 987."
+    },
+    {
+      "name": "Gerbert d'Aurillac",
+      "description": "Learned scholar, secretary of Adalbéron, tutor of Robert, later Pope Sylvester II."
+    },
+    {
+      "name": "Charles de Lorraine",
+      "description": "Carolingian claimant to the throne, uncle of Louis V, defeated and imprisoned in 991."
+    },
+    {
+      "name": "Robert le Pieux",
+      "description": "Son of Hugues, crowned co-king in 987/988 and king alone from 996 to 1031."
+    },
+    {
+      "name": "Adélaïde d'Aquitaine",
+      "description": "Wife of Hugues and queen of the Franks."
+    },
+    {
+      "name": "Lothaire",
+      "description": "Carolingian king of the West Franks from 954 to 986, Hugues's cousin and rival."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Un enfant des Robertiens",
+      "period": "c. 939-956",
+      "summary": "Hugues is born into the Robertian family, one of the most powerful aristocratic families of the West Frankish kingdom. His father, Hugues le Grand, is duke of the Franks, and his mother belongs to the Saxon royal family. The chapter sets the political world of the 10th century.",
+      "key_facts": [
+        {
+          "year": "c. 939-941",
+          "claim": "Hugues, later called Capet, was born around 939-941; the exact year is uncertain, and 941 is the date commonly given."
+        },
+        {
+          "claim": "His father was Hugues le Grand (Hugh the Great), duke of the Franks, the most powerful nobleman in the West Frankish kingdom."
+        },
+        {
+          "claim": "His mother, Hedwige (Hadwig), was a daughter of the Saxon king Henry I the Fowler and a sister of Otto I, the future emperor."
+        },
+        {
+          "claim": "His grandfather Robert I had been king of the West Franks (922-923), and his great-uncle Eudes (Odo) had also been king, so the Robertian family already had royal ancestors."
+        },
+        {
+          "claim": "In the 10th century the West Frankish kingdom was ruled by the Carolingian dynasty, descended from Charlemagne, but royal power was weak and the great lords held much of the real power."
+        },
+        {
+          "year": "936",
+          "claim": "Hugues le Grand helped bring the Carolingian Louis IV d'Outremer back from England to be king, but he remained a rival of the crown in practice."
+        },
+        {
+          "claim": "The Robertians held large territories between the Seine and the Loire, including the region of Paris and Orléans, and were lay abbots of important abbeys such as Saint-Martin de Tours and Saint-Denis."
+        },
+        {
+          "claim": "Hugues's brothers were Otto and Eudes-Henri, who both became dukes of Burgundy in turn."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Orphelin et duc en devenir",
+      "period": "956-960",
+      "summary": "The death of Hugues le Grand in 956 leaves his young son as heir to a vast inheritance. The family's power is protected by relatives and by the king's need for balance. The chapter shows how a child was prepared for leadership in a world of rival nobles.",
+      "key_facts": [
+        {
+          "year": "956",
+          "claim": "Hugues le Grand died in 956, leaving his son Hugues, still a child, as heir to his lands and titles."
+        },
+        {
+          "claim": "Because he was a minor, the young Hugues was placed under the protection of his uncle Bruno, archbishop of Cologne and brother of Otto I, according to historians; his mother Hedwige also had an important role."
+        },
+        {
+          "year": "954",
+          "claim": "Louis IV d'Outremer had died in 954 and been succeeded by his young son Lothaire, who was crowned at Reims."
+        },
+        {
+          "year": "960",
+          "claim": "In 960, Lothaire recognised Hugues as duke of the Franks and gave Burgundy to his brother Otto; Hugues's brother Eudes-Henri followed later."
+        },
+        {
+          "claim": "Hugues's education is thought to have included some schooling in letters; he was later described by sources as able to understand Latin, though details of his childhood are poorly documented."
+        },
+        {
+          "claim": "Hugues's younger relative Richard I, duke of Normandy, became an important ally later; the families were linked through marriage ties."
+        },
+        {
+          "year": "965",
+          "claim": "Hedwige died in 965, according to the usual dating; her death left Hugues without his mother's direct influence."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Duc des Francs face au roi Lothaire",
+      "period": "960-978",
+      "summary": "As duke of the Franks, Hugues governs his lands and deals with the Carolingian king Lothaire, sometimes as an ally and sometimes as a rival. He marries Adélaïde d'Aquitaine, strengthening his position. The chapter explains how the balance of power slowly shifted.",
+      "key_facts": [
+        {
+          "year": "960",
+          "claim": "Hugues became duke of the Franks, the same title his father had held, with authority over lands between the Seine and the Loire."
+        },
+        {
+          "year": "c. 970",
+          "claim": "Hugues married Adélaïde (Adelaide), who is traditionally identified as a daughter of William III Towhead, duke of Aquitaine; the exact year is uncertain, and it is usually placed around 970."
+        },
+        {
+          "claim": "Hugues and Adélaïde had several children, among them Robert, later called Robert le Pieux, and Hedwige and Gisèle."
+        },
+        {
+          "year": "978",
+          "claim": "In 978 Lothaire attacked Aachen, residence of the German emperor Otto II, in a surprise raid, and Otto II responded by marching into the West Frankish kingdom up to Paris."
+        },
+        {
+          "year": "978",
+          "claim": "Hugues defended Paris and the emperor's army withdrew after being unable to take the city; this strengthened Hugues's reputation as defender of the kingdom."
+        },
+        {
+          "year": "980",
+          "claim": "In 980, Lothaire and Otto II made peace at Margut-sur-Chiers, in which Lothaire renounced claims to Lotharingia."
+        },
+        {
+          "claim": "Hugues is said to have kept his own court and vassals, and he supported the Church by protecting monasteries and bishops."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Alliés de l'Église : Adalbéron et Gerbert",
+      "period": "970s-986",
+      "summary": "Hugues builds links with powerful churchmen, in particular Adalbéron, archbishop of Reims, and the scholar Gerbert d'Aurillac. These alliances will prove essential for his later rise. The chapter shows the role of bishops and learning in 10th-century politics.",
+      "key_facts": [
+        {
+          "claim": "Adalbéron, archbishop of Reims, was a powerful churchman and a supporter of the Robertians; Reims was the city where kings were traditionally crowned."
+        },
+        {
+          "claim": "Gerbert d'Aurillac, a learned scholar who taught at the cathedral school of Reims, served as Adalbéron's secretary and later wrote letters that are a major source for this period."
+        },
+        {
+          "year": "999",
+          "claim": "Gerbert later became Pope Sylvester II in 999, after the death of Hugues."
+        },
+        {
+          "claim": "Adalbéron and Gerbert were at times in conflict with Lothaire, who also had interests in the region of Reims and Lotharingia."
+        },
+        {
+          "year": "985",
+          "claim": "In 985 Lothaire captured Verdun, and Adalbéron of Reims was accused of treason for opposing him; his case was set to be judged."
+        },
+        {
+          "claim": "The monk Richer of Reims wrote a history of this period, and Gerbert's letters give a view from within the political circle around Hugues."
+        },
+        {
+          "claim": "The Church, which anointed kings, was a key supporter for any new ruler, because coronation by a bishop gave a king religious authority."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "La mort de Lothaire et le court règne de Louis V",
+      "period": "986-987",
+      "summary": "Lothaire dies in 986 and his son Louis V reigns for barely a year before dying in a hunting accident. The Carolingian line is left without a direct heir apart from Charles of Lorraine. The chapter sets up the crisis of 987.",
+      "key_facts": [
+        {
+          "year": "986",
+          "claim": "King Lothaire died in March 986, and his son Louis V, already crowned in 979, became sole king."
+        },
+        {
+          "year": "986",
+          "claim": "Louis V was the last Carolingian king of the West Franks to rule in practice and is sometimes called 'Louis le Fainéant' ('the Do-Nothing'), a nickname given by later writers."
+        },
+        {
+          "year": "987",
+          "claim": "Louis V died on 21 or 22 May 987, probably after a hunting accident, and left no children; he was buried in Compiègne."
+        },
+        {
+          "claim": "Adalbéron of Reims had been called to judge a case against him in 987 to be heard at Compiègne, but Louis V's death ended the proceedings."
+        },
+        {
+          "claim": "The only remaining male Carolingian was Charles, duke of Lower Lorraine, uncle of Louis V, who was a vassal of the German emperor."
+        },
+        {
+          "claim": "Some chroniclers suggested that Louis V's death might not have been entirely natural, but historians have no proof of this and generally consider it an accident."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Noyon, 3 juillet 987 : l'élection",
+      "period": "May-July 987",
+      "summary": "After Louis V's death, the great lords and bishops gather to choose a king. Adalbéron of Reims argues against Charles of Lorraine and for Hugues, and the assembly elects him. The chapter focuses on how the election took place and what sources tell us.",
+      "key_facts": [
+        {
+          "year": "987",
+          "claim": "After Louis V's death, an assembly of the great men of the kingdom met at Senlis, according to the sources, to decide who would be king."
+        },
+        {
+          "claim": "Adalbéron of Reims, according to Richer of Reims, spoke in favour of Hugues and argued that the kingdom should go to the one who was most capable rather than to the one with hereditary claim; the exact wording of the speech is the historian's reconstruction."
+        },
+        {
+          "claim": "Adalbéron is said to have argued that Charles of Lorraine was not fit to be king, in part because he served a foreign ruler, the German emperor."
+        },
+        {
+          "year": "987",
+          "claim": "Hugues was chosen as king by the lords at Senlis, and the assembly acted without a hereditary Carolingian."
+        },
+        {
+          "year": "3 July 987",
+          "claim": "Hugues was crowned at Noyon on 3 July 987, according to the traditional date; some sources place the coronation at Noyon and others at Reims, and historians have debated the details."
+        },
+        {
+          "claim": "Hugues was anointed by Adalbéron, archbishop of Reims, who played the leading ecclesiastical role in the process."
+        },
+        {
+          "claim": "The word 'Capet' was not used by Hugues as a name; it appears as a nickname later, probably referring to the 'cappa' (cape) he held as lay abbot, though its origin is uncertain."
+        },
+        {
+          "claim": "Hugues was around 46 years old at the time of his election."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Un roi parmi des princes",
+      "period": "987-988",
+      "summary": "Hugues is king, but his real power is limited to his own lands around Paris and Orléans. Great lords in Aquitaine, Normandy, Flanders and Burgundy remain largely independent. The chapter explains what being king meant in practice in 987.",
+      "key_facts": [
+        {
+          "claim": "Hugues's direct domain, sometimes called the 'domaine royal', was small and centred on the area between Paris and Orléans."
+        },
+        {
+          "claim": "Several large principalities, such as Normandy, Flanders, Aquitaine, Anjou and Burgundy, were governed by powerful lords who recognised the king only loosely."
+        },
+        {
+          "claim": "Hugues is said to have been supported by Richard I of Normandy and by several other lords, although the extent of each support is not always clearly documented."
+        },
+        {
+          "year": "987",
+          "claim": "Hugues made Paris and Orléans his main centres; the abbey of Saint-Denis and the church of Saint-Martin de Tours stayed under his influence."
+        },
+        {
+          "claim": "Some lords were slow to recognise him; for instance, the count of Vermandois and others sided with Charles at first, according to historians."
+        },
+        {
+          "claim": "A letter attributed to the count of Poitou or Aquitaine is said to have challenged Hugues's legitimacy, but the sources are limited."
+        },
+        {
+          "year": "988",
+          "claim": "A well-known tale attributes to Adalbert of Périgord the question 'Who made you count?' to which Hugues answered 'Who made you king?', but it is traditionally told and its authenticity is doubtful."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Robert associé au trône",
+      "period": "987-988",
+      "summary": "Soon after his coronation, Hugues has his son Robert crowned too, to make sure the new dynasty will last. The unusual decision reveals both his caution and his skill. The chapter shows how a new family secured its future.",
+      "key_facts": [
+        {
+          "year": "988",
+          "claim": "On 25 December 987 or at Christmas 987, Hugues had his son Robert crowned as co-king at Orléans, according to the traditional dating; some historians date this to 988."
+        },
+        {
+          "claim": "Hugues justified the coronation of Robert by pointing to the risk of a military expedition against the Moors in Spain, according to a letter, but historians generally consider that securing succession was the real aim."
+        },
+        {
+          "claim": "Associating the heir with the throne while the father was alive was a way of avoiding a new election after Hugues's death."
+        },
+        {
+          "claim": "This practice was repeated by the early Capetian kings for around two centuries, until the monarchy became strong enough that it was no longer necessary."
+        },
+        {
+          "claim": "Robert, later called Robert le Pieux, was educated by Gerbert d'Aurillac in Reims, according to tradition."
+        },
+        {
+          "year": "988",
+          "claim": "Hugues arranged for his son's marriage plans to be considered with a Byzantine princess, according to a letter written by Gerbert, though the project did not succeed."
+        },
+        {
+          "claim": "The dynasty founded by Hugues, the Capetians, would hold the throne continuously in direct male line until 1328 and in branches until 1848."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "La guerre contre Charles de Lorraine",
+      "period": "987-991",
+      "summary": "Charles of Lorraine, the Carolingian claimant, fights to win the crown. He takes Laon and Reims, but is finally betrayed and captured in 991 by Bishop Adalbéron of Laon. The chapter follows the military and political struggle that confirmed Hugues's reign.",
+      "key_facts": [
+        {
+          "year": "988",
+          "claim": "Charles of Lorraine took the city of Laon in 988, which was an important Carolingian stronghold."
+        },
+        {
+          "claim": "Hugues failed to retake Laon quickly; his siege of the town in 988 did not succeed."
+        },
+        {
+          "year": "989",
+          "claim": "Archbishop Arnoul of Reims, an illegitimate son of King Lothaire, who had succeeded Adalbéron in 989, was suspected of supporting Charles."
+        },
+        {
+          "year": "991",
+          "claim": "In 991, Charles of Lorraine and Arnoul were taken prisoner at Laon by Adalbéron (Ascelin), bishop of Laon, who had betrayed them; this is the traditional account."
+        },
+        {
+          "claim": "Charles was imprisoned in Orléans, where he died, probably in 992 or 993; the exact date is uncertain."
+        },
+        {
+          "year": "991",
+          "claim": "A council held at Saint-Basle de Verzy in 991 deposed Arnoul of Reims; Gerbert d'Aurillac was elected archbishop in his place."
+        },
+        {
+          "claim": "Pope John XV did not accept this deposition, and the conflict with Rome over Gerbert and Arnoul continued for several years."
+        },
+        {
+          "claim": "Charles's sons were still alive after his death, but they never regained the throne."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "La mort d'Hugues et l'héritage capétien",
+      "period": "991-996 and after",
+      "summary": "In his last years Hugues rules quietly, protects the Church and prepares his son's reign. He dies in October 996 and is buried at Saint-Denis. The chapter looks at his death and at how later historians have judged him.",
+      "key_facts": [
+        {
+          "year": "996",
+          "claim": "Hugues Capet died on 24 October 996, probably at Les Juifs near Chartres, in the Paris region; the usual place given is Paris area, and details are not certain."
+        },
+        {
+          "claim": "He was buried in the abbey of Saint-Denis, the traditional burial site of French kings."
+        },
+        {
+          "claim": "His son Robert II, already crowned, succeeded him without opposition and reigned until 1031."
+        },
+        {
+          "claim": "Hugues's wife Adélaïde survived him; according to historians, she died about 1004."
+        },
+        {
+          "claim": "Hugues's reign lasted nine years and few dramatic events are recorded; he is often seen as a cautious ruler rather than a great warrior."
+        },
+        {
+          "claim": "Historians such as Ferdinand Lot and Pierre Riché have studied the origins of the Capetians; some argue that 987 was not a clean break because the Robertians had long been powerful."
+        },
+        {
+          "claim": "In the 19th century, historians presented 987 as the beginning of France; modern historians consider this too simple, because the real growth of royal power came gradually under later Capetians such as Philippe Auguste and Louis IX."
+        },
+        {
+          "claim": "The Capetian dynasty and its branches, the Valois and Bourbons, governed France until 1848 with interruptions during the Revolution and the Napoleonic era."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-16"
+  }
+}
