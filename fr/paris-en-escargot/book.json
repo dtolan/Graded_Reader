@@ -1,0 +1,591 @@
+{
+  "schema_version": 1,
+  "id": "paris-en-escargot",
+  "language": "fr",
+  "genre": "fiction",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Paris en escargot",
+  "topic": {
+    "type": "theme",
+    "name": "Paris, arrondissement par arrondissement: a year-long walk across the city in the order the arrondissements really spiral, clockwise from the centre. Exactly 21 chapters: chapter 1 is an introduction (why Paris is divided into twenty arrondissements, the snail-shaped numbering from the Louvre, and the narrator setting off); chapters 2 to 21 are the 1er to the 20e, one chapter per arrondissement, in numerical order. One invented narrator walks the whole way (a person with a clear reason for the walk, and one or two recurring companions). Each arrondissement chapter happens in the season when that district is at its best, and says so, with real seasonal details of that district; for example the harvest festival (Fete des Vendanges de Montmartre, in October) belongs to the 18th, not the 19th. The 19th is a summer evening at the Canal de l'Ourcq, La Villette or the Buttes-Chaumont. Spread the seasons so the walk covers a full year. Only state real, verifiable facts about each arrondissement (landmarks, streets, markets, food, customs); no invented claims about the real city."
+  },
+  "summary": "Après la mort de sa grand-mère, Camille Lefebvre décide de parcourir Paris arrondissement par arrondissement, dans l'ordre de la spirale, pour accomplir un dernier vœu. De la cour du Louvre aux allées du Père-Lachaise, elle découvre vingt visages de la capitale et le secret d'une vieille boîte en fer.",
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "characters": [
+    {
+      "name": "Camille Lefebvre",
+      "description": "Narrator, 34, a bookbinder from Lille who has just inherited her grandmother's flat in Paris. Stubborn, observant, a little shy; she wants to fulfil her grandmother's last wish by walking through all twenty arrondissements."
+    },
+    {
+      "name": "Odette Lefebvre",
+      "description": "Camille's grandmother, 91 at her death, a former Parisian schoolteacher. Appears only through her letters and a tin box of twenty postcards, one for each arrondissement."
+    },
+    {
+      "name": "Monsieur Armand Bensaïd",
+      "description": "72, retired bus driver of the RATP, Odette's old neighbour. Knows every street by heart, loves to talk, walks with a cane and joins Camille on many stages."
+    },
+    {
+      "name": "Inès Moreau",
+      "description": "27, a photographer and Camille's new friend, born in the 20th arrondissement. Funny, energetic, she photographs each stage of the walk for an exhibition."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "La spirale",
+      "period": "Late September, Paris (Île de la Cité and the Louvre courtyard)",
+      "summary": "Camille arrives in Paris to empty her grandmother Odette's flat and finds a tin box with twenty postcards and a letter asking her to walk through all the arrondissements in order. Monsieur Bensaïd explains the snail shape, and Camille sets off from the Louvre. The hook: the first postcard is blank except for a Tuileries ticket stub.",
+      "key_facts": [
+        {
+          "claim": "Paris is divided into twenty arrondissements, each with its own mairie and mayor, a system that dates in its present form from 1860, when Paris annexed surrounding communes."
+        },
+        {
+          "claim": "The numbering starts at the 1er arrondissement, in the centre around the Louvre, and spirals clockwise outward like a snail shell, which is why Parisians call it 'l'escargot'."
+        },
+        {
+          "claim": "The 1er and the 20e are far apart on the map but the spiral ends on the north-east side, at the 20e, after the 19e."
+        },
+        {
+          "claim": "The Seine divides Paris into the Rive droite (north) and the Rive gauche (south); the arrondissements 5, 6, 7, 13, 14 and 15 are on the Rive gauche."
+        },
+        {
+          "claim": "Before 1860 Paris had twelve arrondissements; the 1860 reform created twenty by annexing communes such as Montmartre, Belleville and Passy."
+        },
+        {
+          "claim": "Paris intra-muros covers about 105 square kilometres, small enough to cross on foot in a few hours."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Le jardin et le palais",
+      "period": "Early October, 1er arrondissement (Tuileries, Palais-Royal)",
+      "summary": "In the golden light of early autumn, Camille and Monsieur Bensaïd cross the Jardin des Tuileries and the Palais-Royal gardens, where a clue sends them to a bookseller in the Galerie de Montpensier. The turn: the bookseller knew Odette and gives Camille a second letter.",
+      "key_facts": [
+        {
+          "claim": "The Jardin des Tuileries was laid out in the 17th century by André Le Nôtre and runs between the Louvre and the place de la Concorde."
+        },
+        {
+          "claim": "The Palais-Royal gardens are surrounded by arcades housing small shops, and the Colonnes de Buren in the main courtyard were installed in 1986."
+        },
+        {
+          "claim": "The glass Pyramide du Louvre, designed by I. M. Pei, was inaugurated in 1989."
+        },
+        {
+          "claim": "Green metal chairs in the Tuileries are free for anyone to move and sit on."
+        },
+        {
+          "claim": "The Palais-Royal gardens have long been known for antique and old-book dealers and small galleries under the galleries."
+        },
+        {
+          "claim": "The Louvre was a royal palace before becoming a museum open to the public in 1793."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Sous la verrière",
+      "period": "November, 2e arrondissement (Galerie Vivienne, rue Montorgueil)",
+      "summary": "On a rainy November day Camille shelters in the covered passages of the 2e, then follows the second postcard to rue Montorgueil. She tastes pastries at a historic pâtisserie and learns Odette once worked as a teacher nearby. The turn: Inès appears, photographing the same passage.",
+      "key_facts": [
+        {
+          "claim": "The 2e is the smallest arrondissement in Paris by area and is known for its covered passages from the early 19th century, such as Galerie Vivienne and Passage des Panoramas."
+        },
+        {
+          "claim": "Galerie Vivienne has a mosaic floor and a glass roof, and houses a wine shop and a bookshop."
+        },
+        {
+          "claim": "The Passage des Panoramas, opened in 1800, is considered one of the oldest covered passages in Paris."
+        },
+        {
+          "claim": "The rue Montorgueil is a partly pedestrian market street with cheesemongers, fishmongers and bakeries."
+        },
+        {
+          "claim": "The Stohrer pâtisserie on rue Montorgueil, founded in 1730, is said to be one of the oldest in Paris and is known for the baba au rhum and puits d'amour."
+        },
+        {
+          "claim": "The Palais Brongniart, the former Bourse, is in the 2e arrondissement."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Les Enfants-Rouges",
+      "period": "Early December, 3e arrondissement (Marais nord)",
+      "summary": "Camille, Inès and Monsieur Bensaïd walk the northern Marais in pre-Christmas cold, stopping at the Marché des Enfants Rouges. A stallholder recognises Odette's handwriting on the postcard. The turn: a name on the card, 'Jeanne', sends them toward the next stage.",
+      "key_facts": [
+        {
+          "claim": "The Marché des Enfants Rouges is the oldest covered food market in Paris still operating, dating from 1628."
+        },
+        {
+          "claim": "The market has stalls offering Moroccan, Japanese, Lebanese and Italian dishes alongside fresh produce."
+        },
+        {
+          "claim": "The Musée Picasso is housed in the Hôtel Salé on the rue de Thorigny in the 3e."
+        },
+        {
+          "claim": "The Carreau du Temple, a former covered market, is now a cultural and sports centre."
+        },
+        {
+          "claim": "The Musée Carnavalet, devoted to the history of Paris, is on rue de Sévigné in the Marais, and reopened in 2021 after renovation."
+        },
+        {
+          "claim": "Rue des Archives and rue de Bretagne mark the 3e arrondissement's streets and the Marais district straddles the 3e and 4e."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Au pied de la cathédrale",
+      "period": "January, 4e arrondissement (Île Saint-Louis, Notre-Dame, Hôtel de Ville)",
+      "summary": "On a clear cold January morning they cross the Île Saint-Louis, eating ice cream from a famous glacier, and see the rebuilt Notre-Dame. Camille meets Jeanne, an old friend of Odette. The turn: Jeanne reveals Odette once planned the same walk and never finished.",
+      "key_facts": [
+        {
+          "claim": "Notre-Dame de Paris stands on the Île de la Cité; a fire in April 2019 destroyed its roof and spire, and the cathedral reopened to the public in December 2024."
+        },
+        {
+          "claim": "The Île Saint-Louis is a residential island next to the Île de la Cité, and the Berthillon ice cream shop is on rue Saint-Louis-en-l'Île."
+        },
+        {
+          "claim": "The place des Vosges, the oldest planned square in Paris, completed in 1612, lies on the border of the 3e and 4e arrondissements."
+        },
+        {
+          "claim": "The Hôtel de Ville, Paris's city hall, has a skating rink in front of it in winter."
+        },
+        {
+          "claim": "The Centre Pompidou, opened in 1977, sits partly in the 4e arrondissement at Beaubourg and is closed for renovation from 2025."
+        },
+        {
+          "claim": "The Marché aux Fleurs on the Île de la Cité is on place Louis-Lépine, in the 4e."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La galette du Quartier latin",
+      "period": "Mid-January, 5e arrondissement (Panthéon, rue Mouffetard)",
+      "summary": "Camille climbs the Montagne Sainte-Geneviève and shares an Epiphany galette with the group in a bakery on rue Mouffetard. Camille finds the fève in her slice and is crowned queen. The turn: the fève is a tiny bookbinder's press, an apparent coincidence that unsettles her.",
+      "key_facts": [
+        {
+          "claim": "The 5e is the Quartier latin, named for the Latin spoken by students at the medieval University; the Sorbonne is there."
+        },
+        {
+          "claim": "The Panthéon, built in the 18th century, holds the tombs of figures such as Victor Hugo, Marie Curie and Alexandre Dumas."
+        },
+        {
+          "claim": "The Arènes de Lutèce are a Roman amphitheatre from the 1st century, where Parisians now play pétanque."
+        },
+        {
+          "claim": "Rue Mouffetard is an old market street descending from the Contrescarpe, with food shops, and a market on the street."
+        },
+        {
+          "claim": "The galette des Rois is eaten around the Epiphany, 6 January, with a fève hidden inside; whoever finds it is king or queen and wears the paper crown."
+        },
+        {
+          "claim": "The Jardin des Plantes and its Grande Galerie de l'Évolution are in the 5e."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Neige au Luxembourg",
+      "period": "February, 6e arrondissement (Jardin du Luxembourg, Saint-Germain-des-Prés)",
+      "summary": "A February snowfall whitens the Jardin du Luxembourg, and the group warm up with crêpes for La Chandeleur. At a café in Saint-Germain, Camille realises Odette wrote her letters on the same paper as a bookshop there. The turn: the bookshop owner has been waiting for her.",
+      "key_facts": [
+        {
+          "claim": "The Jardin du Luxembourg, created in 1612 for Marie de Médicis, surrounds the Palais du Luxembourg, which houses the French Senate."
+        },
+        {
+          "claim": "The Café de Flore and Les Deux Magots on boulevard Saint-Germain were gathering places for writers and intellectuals such as Jean-Paul Sartre and Simone de Beauvoir."
+        },
+        {
+          "claim": "La Chandeleur on 2 February is traditionally celebrated in France by eating crêpes."
+        },
+        {
+          "claim": "Saint-Germain-des-Prés abbey church dates from the 6th-11th centuries and is among the oldest churches in Paris."
+        },
+        {
+          "claim": "The Théâtre de l'Odéon and the Café Procope, opened in 1686, are in the 6e."
+        },
+        {
+          "claim": "The Jardin du Luxembourg has a large octagonal pond where children sail small wooden boats."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Sous la tour",
+      "period": "March, 7e arrondissement (Tour Eiffel, rue Cler, Musée d'Orsay)",
+      "summary": "A bright March wind blows across the Champ-de-Mars. Camille and Inès shop at rue Cler, then see the Musée d'Orsay's clock, where the postcard leads to a hidden message. The turn: the message names a place in the 8e.",
+      "key_facts": [
+        {
+          "claim": "The Tour Eiffel was built for the 1889 Exposition universelle by Gustave Eiffel's company and is about 330 metres tall with its antenna."
+        },
+        {
+          "claim": "The Musée d'Orsay is housed in a former railway station, the Gare d'Orsay, built for the 1900 Exposition universelle, and holds many Impressionist works."
+        },
+        {
+          "claim": "Rue Cler is a pedestrian market street in the 7e with greengrocers, cheese shops and bakers."
+        },
+        {
+          "claim": "The Hôtel des Invalides houses Napoleon's tomb and the Musée de l'Armée."
+        },
+        {
+          "claim": "The Assemblée nationale sits in the Palais Bourbon in the 7e."
+        },
+        {
+          "claim": "The Champ-de-Mars was originally a military parade ground, and the École militaire stands at its southern end."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Les marronniers en fleurs",
+      "period": "April, 8e arrondissement (Champs-Élysées, parc Monceau, Madeleine)",
+      "summary": "Spring arrives and the chestnut trees bloom along the avenue des Champs-Élysées. Camille follows the clue to parc Monceau, where she finds an old photograph of Odette as a young woman. The turn: Odette is standing next to a man who looks like Monsieur Bensaïd.",
+      "key_facts": [
+        {
+          "claim": "The avenue des Champs-Élysées runs about 1.9 kilometres from the place de la Concorde to the Arc de Triomphe."
+        },
+        {
+          "claim": "The Arc de Triomphe was commissioned by Napoleon in 1806 and completed in 1836; the Tomb of the Unknown Soldier lies beneath it."
+        },
+        {
+          "claim": "The Parc Monceau has a colonnade and a small pyramid, and dates from the 18th century."
+        },
+        {
+          "claim": "The Église de la Madeleine is built like a Greek temple and was completed in 1842."
+        },
+        {
+          "claim": "The Grand Palais was built for the Exposition universelle of 1900, with a large glass roof."
+        },
+        {
+          "claim": "The Palais de l'Élysée, the residence of the French president, is in the 8e on rue du Faubourg Saint-Honoré."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Un soir à l'Opéra",
+      "period": "May, 9e arrondissement (Opéra Garnier, rue des Martyrs)",
+      "summary": "In May, Camille and Monsieur Bensaïd walk from the Opéra Garnier to the food shops of rue des Martyrs. Monsieur Bensaïd finally admits he and Odette were once engaged. The turn: he gives Camille a key labelled 'Bastille'.",
+      "key_facts": [
+        {
+          "claim": "The Palais Garnier, inaugurated in 1875, was designed by Charles Garnier and is known for its grand staircase and the ceiling painted by Marc Chagall in 1964."
+        },
+        {
+          "claim": "The Galeries Lafayette on boulevard Haussmann has a famous stained-glass dome built in 1912."
+        },
+        {
+          "claim": "The rue des Martyrs is a sloping street lined with bakeries, cheese shops, chocolatiers and delis, running from the 9e up toward Montmartre."
+        },
+        {
+          "claim": "The Musée de la Vie romantique is in the 9e, at the foot of the hill, in the neighbourhood called Nouvelle Athènes."
+        },
+        {
+          "claim": "The Grands Magasins on boulevard Haussmann include Printemps and Galeries Lafayette, both founded in the 19th century."
+        },
+        {
+          "claim": "The Musée Grévin, a wax museum founded in 1882, is on boulevard Montmartre in the 9e."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Le long du canal",
+      "period": "Early June, 10e arrondissement (Canal Saint-Martin, Gare de l'Est)",
+      "summary": "On a warm June evening the friends stroll along the Canal Saint-Martin as the lock gates open for a barge. Camille discovers the postcard's hidden message in the iron footbridge. The turn: Inès drops her camera in the canal, and a passer-by returns it with unexpected knowledge of Odette.",
+      "key_facts": [
+        {
+          "claim": "The Canal Saint-Martin, opened in 1825, is about 4.5 kilometres long and has nine locks and iron footbridges."
+        },
+        {
+          "claim": "Parisians sit on the quais of the Canal Saint-Martin on warm evenings, bringing picnics."
+        },
+        {
+          "claim": "The Gare du Nord, one of the busiest railway stations in Europe, and the Gare de l'Est are in the 10e."
+        },
+        {
+          "claim": "The Passage Brady in the 10e is a covered passage known for its Indian and Pakistani restaurants."
+        },
+        {
+          "claim": "The Marché Saint-Quentin is a covered market from 1866 near the Gare de l'Est."
+        },
+        {
+          "claim": "The canal passes underground for about two kilometres below boulevard Richard-Lenoir toward the Bastille."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La nuit de la musique",
+      "period": "21 June, 11e arrondissement (Oberkampf, Bastille, Aligre)",
+      "summary": "On the Fête de la musique, 21 June, music pours out of every street around rue Oberkampf. Camille uses Monsieur Bensaïd's key in a small workshop near the Bastille. The turn: inside is Odette's unfinished bookbinding project.",
+      "key_facts": [
+        {
+          "claim": "The Fête de la musique takes place every year on 21 June, the summer solstice, and began in France in 1982."
+        },
+        {
+          "claim": "The rue Oberkampf is a lively street of bars and music venues in the 11e."
+        },
+        {
+          "claim": "The Marché d'Aligre, partly in the 12e and partly in the 11e, is one of the cheapest markets in Paris; the covered Beauvau market is next to it."
+        },
+        {
+          "claim": "The Bataclan concert hall is on boulevard Voltaire in the 11e."
+        },
+        {
+          "claim": "The Cirque d'Hiver is in the 11e, near the Cirque d'Hiver Bouglione on rue Amelot."
+        },
+        {
+          "claim": "The place de la République, in the 3e, 10e and 11e, is a major gathering point for demonstrations."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Le 14 juillet à Bercy",
+      "period": "14 July, 12e arrondissement (Bastille, Coulée verte, Bercy, Bois de Vincennes)",
+      "summary": "On Bastille Day, the group follows the Coulée verte, the old railway viaduct turned garden, to Bercy. They eat lunch in the old wine warehouses of Bercy Village and watch the fireworks from the Seine. The turn: Camille finds the second half of Odette's binding hidden among the old barrels.",
+      "key_facts": [
+        {
+          "claim": "The Promenade plantée, also called Coulée verte René-Dumont, opened in 1993 on a disused railway viaduct and was the first elevated park of its kind in the world."
+        },
+        {
+          "claim": "Bercy Village is a shopping district in former wine warehouses of Bercy, once the largest wine market in the world."
+        },
+        {
+          "claim": "The Opéra Bastille opened in 1989, on 13 July, the eve of the bicentenary of the Revolution."
+        },
+        {
+          "claim": "The Bois de Vincennes, in the east of the 12e, is the largest public green space in Paris, with a zoo and a château."
+        },
+        {
+          "claim": "The Bibliothèque nationale de France François-Mitterrand's towers face the Seine across the 13e, close to the 12e."
+        },
+        {
+          "claim": "The Palais omnisports de Paris-Bercy, now called Accor Arena, hosts concerts and sports events."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Les cerisiers de la Butte-aux-Cailles",
+      "period": "August, 13e arrondissement (Butte-aux-Cailles, Chinatown)",
+      "summary": "A hot August: the friends wander the village-like Butte-aux-Cailles and the avenue d'Ivry, eating pho and bò bún. At the Piscine de la Butte-aux-Cailles they swim in warm water. The turn: Odette's third letter, hidden in the swimming pool's locker, says the walk matters for someone else.",
+      "key_facts": [
+        {
+          "claim": "The Butte-aux-Cailles is a hill with low houses, cobbled streets and street art, and has a village atmosphere."
+        },
+        {
+          "claim": "The Piscine de la Butte-aux-Cailles dates from 1924 and is heated by water from an artesian well."
+        },
+        {
+          "claim": "The 13e has Paris's largest Asian district, around the avenue d'Ivry and the avenue de Choisy, with many Vietnamese, Chinese and Laotian restaurants."
+        },
+        {
+          "claim": "The 13e has many large murals painted by street artists, on the boulevard Vincent-Auriol and rue Nationale."
+        },
+        {
+          "claim": "The Manufacture des Gobelins, a historic tapestry workshop dating from the 17th century, is in the 13e."
+        },
+        {
+          "claim": "The Hôpital de la Pitié-Salpêtrière is in the 13e."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "La rentrée à Montparnasse",
+      "period": "September, 14e arrondissement (Montparnasse, Cité universitaire, Denfert-Rochereau)",
+      "summary": "As students return for the rentrée, Camille wanders the cafés of Montparnasse and the green campus of the Cité universitaire. At the Place Denfert-Rochereau she sees the entrance to the catacombs. The turn: Monsieur Bensaïd falls ill in the queue, and the walk must pause.",
+      "key_facts": [
+        {
+          "claim": "The Catacombes de Paris, in the 14e, are former quarries that hold the remains of about six million Parisians."
+        },
+        {
+          "claim": "The Cité internationale universitaire de Paris, opened in 1925, hosts students from many countries in houses of different national styles."
+        },
+        {
+          "claim": "La Closerie des Lilas and La Coupole are famous brasseries in Montparnasse that were frequented by artists in the 1920s."
+        },
+        {
+          "claim": "The Cimetière du Montparnasse is the resting place of Charles Baudelaire, Samuel Beckett and Serge Gainsbourg."
+        },
+        {
+          "claim": "The Lion de Belfort statue stands on place Denfert-Rochereau, in the middle of the square."
+        },
+        {
+          "claim": "The Tour Montparnasse, 210 metres high, was completed in 1973."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Pause à la rue du Commerce",
+      "period": "October, 15e arrondissement (parc André-Citroën, rue du Commerce)",
+      "summary": "While Monsieur Bensaïd recovers, Camille continues the walk with Inès. In the autumn they visit the parc André-Citroën and the Sunday market in the rue de Vaugirard. The turn: the key to the next clue is a recipe in Odette's hand.",
+      "key_facts": [
+        {
+          "claim": "The 15e is the most populous arrondissement in Paris."
+        },
+        {
+          "claim": "The Parc André-Citroën, opened in 1992 on the site of old Citroën factories, has a tethered balloon, the Ballon Air de Paris, which rises to about 150 metres."
+        },
+        {
+          "claim": "The rue de Vaugirard, in the 15e and 6e, is the longest street in Paris, at more than four kilometres."
+        },
+        {
+          "claim": "The Marché Saint-Charles and the marché de la place Cambronne are among the popular markets in the 15e."
+        },
+        {
+          "claim": "The Parc Georges-Brassens was built on the site of old slaughterhouses and holds a second-hand book market on weekends."
+        },
+        {
+          "claim": "The Gare Montparnasse, linking Paris to Brittany and the south-west, is partly in the 15e."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Brume sur le Trocadéro",
+      "period": "November, 16e arrondissement (Trocadéro, Passy, Bois de Boulogne)",
+      "summary": "In misty November Camille and Inès look across the Seine at the Eiffel Tower from the Trocadéro terrace, then walk through Passy to Maison de la Radio. The turn: they learn that the person Odette wanted Camille to meet lives in the 17th.",
+      "key_facts": [
+        {
+          "claim": "The Palais de Chaillot and the Trocadéro esplanade offer one of the best views of the Tour Eiffel."
+        },
+        {
+          "claim": "The Bois de Boulogne, in the west of the 16e, is one of Paris's two large woods, with a park called Bagatelle that has a famous rose garden."
+        },
+        {
+          "claim": "The Maison de la Radio, a circular building opened in 1963, houses Radio France."
+        },
+        {
+          "claim": "The Fondation Louis Vuitton, designed by Frank Gehry and opened in 2014, is in the Bois de Boulogne."
+        },
+        {
+          "claim": "The Musée Marmottan Monet in the 16e has many works by Claude Monet."
+        },
+        {
+          "claim": "The Roland-Garros stadium, host of the French Open tennis tournament, is in the 16e."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Les Batignolles",
+      "period": "January, 17e arrondissement (Batignolles, parc Martin-Luther-King)",
+      "summary": "On a cold Saturday in January, Camille walks the Batignolles village and the Parc Martin-Luther-King, and buys oysters at the Saturday organic market. She finds the person from the letter, a young bookbinding student named Léa. The turn: Léa is Odette's great-granddaughter, Camille's cousin she never knew.",
+      "key_facts": [
+        {
+          "claim": "The Batignolles district, annexed to Paris in 1860, has kept a village atmosphere around its place and its square."
+        },
+        {
+          "claim": "The Parc Martin-Luther-King was opened in 2007 and expanded as part of the Clichy-Batignolles district."
+        },
+        {
+          "claim": "The Marché biologique des Batignolles takes place every Saturday on boulevard des Batignolles."
+        },
+        {
+          "claim": "The Cité des Fleurs is a private street of houses with gardens in the 17e, dating from the 1840s."
+        },
+        {
+          "claim": "The Palais de justice de Paris, a new courthouse designed by Renzo Piano, opened in 2018 in the Clichy-Batignolles area."
+        },
+        {
+          "claim": "The Place de Clichy and the Marché de la Place des Ternes are in the 17e."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Les Vendanges de Montmartre",
+      "period": "October (the following year), 18e arrondissement (Montmartre)",
+      "summary": "A year later, in October, Camille and her cousin Léa climb Montmartre for the Fête des Vendanges de Montmartre. Together they finish Odette's binding in a studio by the Clos Montmartre vineyard. The turn: the last page reveals a clue pointing to the 19th arrondissement.",
+      "key_facts": [
+        {
+          "claim": "The Fête des Vendanges de Montmartre takes place every October to celebrate the grape harvest from the Clos Montmartre vineyard, rue des Saules."
+        },
+        {
+          "claim": "The Sacré-Cœur basilica, completed in 1914, stands on the Butte Montmartre, the highest natural point in Paris at about 130 metres."
+        },
+        {
+          "claim": "The Moulin Rouge cabaret, opened in 1889, is on boulevard de Clichy at the foot of the hill."
+        },
+        {
+          "claim": "The Place du Tertre is a square where painters work and sell paintings."
+        },
+        {
+          "claim": "The Lapin Agile cabaret, founded in the 19th century, is on rue des Saules."
+        },
+        {
+          "claim": "The Marché Dejean in the Goutte d'Or neighbourhood is known for African and Maghrebi products."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Un soir d'été à La Villette",
+      "period": "August, 19e arrondissement (Canal de l'Ourcq, Parc de la Villette, Buttes-Chaumont)",
+      "summary": "On a long summer evening the group picnics on the grassy Parc de la Villette, then walks along the Canal de l'Ourcq. At the Buttes-Chaumont, they cross the suspension bridge as the sun goes down. The turn: Odette's last postcard lies behind the Temple de la Sibylle.",
+      "key_facts": [
+        {
+          "claim": "The Parc de la Villette, designed by Bernard Tschumi in the 1980s, is Paris's largest cultural park and contains the Cité des sciences et de l'industrie and the Philharmonie de Paris."
+        },
+        {
+          "claim": "Every summer the Cinéma en plein air festival shows films on the lawn of the Parc de la Villette."
+        },
+        {
+          "claim": "The Canal de l'Ourcq, opened in the early 19th century, brought fresh water to Paris and now has summer events on its banks."
+        },
+        {
+          "claim": "The Parc des Buttes-Chaumont, opened in 1867, was built on a former quarry and has a lake, a waterfall and an island topped with the Temple de la Sibylle."
+        },
+        {
+          "claim": "The Parc des Buttes-Chaumont has a suspension bridge and a pedestrian bridge, called the Pont des Suicidés, built over the lake."
+        },
+        {
+          "claim": "The Géode, a mirrored sphere at La Villette, houses a cinema."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Le dernier arrondissement",
+      "period": "Late September, 20e arrondissement (Père-Lachaise, Belleville, Ménilmontant)",
+      "summary": "The final stage ends at the Père-Lachaise cemetery and the hills of Belleville and Ménilmontant, where Inès grew up. Camille places the finished book on Odette's grave. The resolution: she decides to stay in Paris and open a small bookbinding workshop.",
+      "key_facts": [
+        {
+          "claim": "The Père-Lachaise cemetery, opened in 1804, is the most visited cemetery in the world and holds the graves of Édith Piaf, Oscar Wilde, Jim Morrison and Frédéric Chopin."
+        },
+        {
+          "claim": "The Parc de Belleville, on a hill, offers one of the best panoramas of Paris."
+        },
+        {
+          "claim": "The Place Gambetta and the Mairie du 20e are on the hill of Ménilmontant."
+        },
+        {
+          "claim": "The rue Dénoyez in Belleville is known for its street art, which changes often."
+        },
+        {
+          "claim": "The Chapelle Notre-Dame-de-la-Croix, a church of the 19th century, stands at Ménilmontant."
+        },
+        {
+          "claim": "The 20e arrondissement has the highest altitude in eastern Paris, along with Belleville, at about 128 metres."
+        }
+      ]
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-16"
+  }
+}

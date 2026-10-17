@@ -33,7 +33,7 @@
           "visibility": { "type": "string", "enum": ["public", "private"] },
           "status": { "type": "string", "enum": ["draft", "reviewed"] },
           "levels": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1"] } },
-          "chapter_count": { "type": "integer", "minimum": 10, "maximum": 15 },
+          "chapter_count": { "type": "integer", "minimum": 10, "maximum": 25 },
           "path": { "type": "string", "description": "Path to book.json relative to stories/, e.g. fr/jeanne-darc/book.json" },
           "updated": { "type": "string" }
         }

@@ -127,7 +127,7 @@
       "type": "array",
       "description": "The backbone: ordered chapter plan, identical across levels",
       "minItems": 10,
-      "maxItems": 15,
+      "maxItems": 25,
       "items": {
         "type": "object",
         "required": [
@@ -141,7 +141,7 @@
           "number": {
             "type": "integer",
             "minimum": 1,
-            "maximum": 15
+            "maximum": 25
           },
           "title": {
             "type": "string",

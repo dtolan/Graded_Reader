@@ -116,6 +116,28 @@
       "chapter_count": 10,
       "path": "fr/hugues-capet/book.json",
       "updated": "2026-10-16"
+    },
+    {
+      "id": "paris-en-escargot",
+      "title": "Paris en escargot",
+      "genre": "fiction",
+      "topic": {
+        "type": "theme",
+        "name": "Paris, arrondissement par arrondissement: a year-long walk across the city in the order the arrondissements really spiral, clockwise from the centre. Exactly 21 chapters: chapter 1 is an introduction (why Paris is divided into twenty arrondissements, the snail-shaped numbering from the Louvre, and the narrator setting off); chapters 2 to 21 are the 1er to the 20e, one chapter per arrondissement, in numerical order. One invented narrator walks the whole way (a person with a clear reason for the walk, and one or two recurring companions). Each arrondissement chapter happens in the season when that district is at its best, and says so, with real seasonal details of that district; for example the harvest festival (Fete des Vendanges de Montmartre, in October) belongs to the 18th, not the 19th. The 19th is a summer evening at the Canal de l'Ourcq, La Villette or the Buttes-Chaumont. Spread the seasons so the walk covers a full year. Only state real, verifiable facts about each arrondissement (landmarks, streets, markets, food, customs); no invented claims about the real city."
+      },
+      "summary": "Après la mort de sa grand-mère, Camille Lefebvre décide de parcourir Paris arrondissement par arrondissement, dans l'ordre de la spirale, pour accomplir un dernier vœu. De la cour du Louvre aux allées du Père-Lachaise, elle découvre vingt visages de la capitale et le secret d'une vieille boîte en fer.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "chapter_count": 21,
+      "path": "fr/paris-en-escargot/book.json",
+      "updated": "2026-10-16"
     }
   ]
 }
