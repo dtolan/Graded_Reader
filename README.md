@@ -1,6 +1,6 @@
 # Graded_Reader
 
-Story library for the StoryTime app: French graded readers (CEFR A1–C1) about real people, events and places in France. Each book has 10–25 chapters at each level. Text only; the app reads it aloud with the phone's own text-to-speech.
+Story library for the StoryTime app: French graded readers (CEFR A1–C1) about real people, events and places in France. Each book has 5–25 chapters at each level (history and fiction 10–25; short "everyday words" books 5–8). Text only; the app reads it aloud with the phone's own text-to-speech.
 
 - `index.json` is the catalog. `fr/<book-id>/book.json` holds the chapter plan and key facts; `fr/<book-id>/<level>/chapter-NN.json` holds each chapter.
 - `*.schema.json` define the formats.

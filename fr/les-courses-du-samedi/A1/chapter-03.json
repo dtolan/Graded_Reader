@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "book_id": "les-courses-du-samedi",
+  "level": "A1",
+  "number": 3,
+  "title": "La viande, le pain et le gâteau",
+  "recap": "C'est samedi matin au supermarché. Gaston Pichon fait ses courses avec son chariot qui grince. Sa voisine, Madame Roux, marche avec lui. Il a déjà trop d'achats, et il n'a plus de temps.",
+  "overview_en": "Gaston queues at the meat counter, where Kévin announces that almost everything is out of stock. He buys a chicken and the last trout, then a warm baguette, some ham and a cheese he did not plan to buy. In a jostle at the cakes he apologises to a stranger, and his trolley fills up with more things.",
+  "paragraphs": [
+    "Il est dix heures quarante-cinq. Gaston regarde sa montre, puis sa liste. Il a déjà trop de retard. Son chariot grince à chaque mètre. Madame Roux marche à côté de lui. Elle a un petit sac à roulettes. Elle dit : « Vous avez l'air d'un homme qui court après un train, Gaston. »",
+    "Devant la viande, il y a une machine rouge. Elle donne des tickets avec un numéro. Gaston prend un ticket : le numéro quarante-sept. Sur l'écran, il voit le numéro quarante et un. « Six personnes devant nous ! » dit-il. Madame Roux sourit. « Respirez un peu, Gaston. Vous n'avez pas respiré ce matin. »",
+    "Derrière le comptoir, Kévin arrive avec des caisses vides. Il est jeune, avec les cheveux en désordre. Il siffle une chanson et il ne se presse pas. Il sourit à tout le monde. « Bonjour, ça va ? Un peu de patience, c'est samedi ! » Gaston regarde encore sa montre.",
+    "Enfin, c'est le tour de Gaston. Il prépare sa phrase depuis hier soir. « Bonjour. Je voudrais un poulet, s'il vous plaît. Un beau poulet de ferme, pour quatre personnes. » Kévin met la main sur sa nuque. « Ah non, plus de poulet de ferme. Mais il y a du poulet normal. » Gaston soupire. « D'accord. »",
+    "« Ensuite, je voudrais du poisson, dit Gaston. Deux morceaux de cabillaud. » Kévin regarde longtemps dans le comptoir. Puis il sourit. « Plus de cabillaud. Une dame prend tout le poisson pour un mariage. » Madame Roux rit dans son écharpe. « Du saumon ? — Plus de saumon ! — Des crevettes ? — Plus de crevettes ! »",
+    "Gaston ferme les yeux. « Alors, qu'est-ce qu'il vous reste ? » Kévin réfléchit. Puis il montre une petite boîte seule, au fond. « Il me reste une truite. Un poisson, voilà. Elle est belle. » Madame Roux regarde le papier et dit : « Elle est bonne jusqu'à demain. On la mange ce soir. C'est votre dîner, Gaston ! »",
+    "Gaston dit oui, très fier, comme si le plan était là depuis le début. Kévin met la viande et le poisson dans un sac. « Bon dîner, monsieur ! » Le chariot grince très fort. Mais il y a déjà des petits pois, de la moutarde et des pâtes de trois couleurs. « Je n'ai pas prévu ça ! » dit Gaston. « Vous n'avez rien prévu », répond Madame Roux.",
+    "Ensuite, Gaston va chercher le pain. Une bonne odeur de pain chaud flotte dans l'allée. Les baguettes sont dorées. Gaston oublie sa liste. « Une baguette de tradition, s'il vous plaît », dit-il à la jeune femme. « Elle sort du four, monsieur. Elle est encore chaude. Un euro dix. » Il la prend dans ses mains.",
+    "Il met la baguette dans un sac en papier. Madame Roux dit : « Une baguette de tradition, c'est du pain sans produit en plus. C'est la loi ! » Gaston est ému. Il prend une deuxième baguette, puis une troisième. « Au cas où », dit-il. Madame Roux lève les yeux. « Vous avez les yeux plus gros que le ventre ! »",
+    "Après, ils vont au comptoir du jambon et du pâté. Quatre clients pensent longtemps. « Le jambon blanc ou le jambon de pays ? — Combien de tranches pour six personnes ? » Gaston regarde sa montre : onze heures cinq. Il prend le ticket soixante-douze. Kévin est là aussi. « Plus de céleri ! Plus de taboulé ! Mais il y a du jambon ! »",
+    "Gaston prend quatre tranches de jambon. Kévin lui donne un petit morceau de fromage. Gaston dit oui, il ne sait pas dire non. Il prend le fromage. « Il coûte dix-huit euros le kilo, dit Madame Roux. C'est très cher ! — Il est très bon, dit Gaston. — Bien sûr. Un petit morceau, c'est pour vendre ! »",
+    "Gaston veut un gâteau, un seul. Mais devant les gâteaux, il y a beaucoup de monde. Un grand monsieur recule et lui écrase le pied. Gaston pousse une dame avec son coude. Elle crie un peu. « Oh, excusez-moi ! Excusez-moi, madame ! » dit Gaston, tout rouge. Elle rit : « Tout le monde veut un millefeuille ! » Dans le chariot, il y a de l'eau, des gâteaux secs et des conserves. Madame Roux dit : « Il reste le lait, les œufs et le vin. Puis la caisse. » Gaston devient pâle.",
+    "Il y a toujours beaucoup de monde à la caisse."
+  ],
+  "word_count": 675,
+  "vocabulary": [
+    {
+      "term": "le sac",
+      "pos": "nom",
+      "gloss_en": "bag"
+    },
+    {
+      "term": "le pain",
+      "pos": "nom",
+      "gloss_en": "bread"
+    },
+    {
+      "term": "le lait",
+      "pos": "nom",
+      "gloss_en": "milk"
+    },
+    {
+      "term": "le fromage",
+      "pos": "nom",
+      "gloss_en": "cheese"
+    },
+    {
+      "term": "la viande",
+      "pos": "nom",
+      "gloss_en": "meat"
+    },
+    {
+      "term": "le poisson",
+      "pos": "nom",
+      "gloss_en": "fish"
+    },
+    {
+      "term": "un poulet",
+      "pos": "nom",
+      "gloss_en": "a chicken"
+    },
+    {
+      "term": "l'eau",
+      "pos": "nom",
+      "gloss_en": "water"
+    },
+    {
+      "term": "un gâteau",
+      "pos": "nom",
+      "gloss_en": "a cake"
+    },
+    {
+      "term": "prend",
+      "pos": "verbe",
+      "gloss_en": "takes"
+    },
+    {
+      "term": "Je voudrais",
+      "pos": "expression",
+      "gloss_en": "I would like"
+    },
+    {
+      "term": "s'il vous plaît",
+      "pos": "expression",
+      "gloss_en": "please"
+    },
+    {
+      "term": "Excusez-moi",
+      "pos": "expression",
+      "gloss_en": "excuse me"
+    },
+    {
+      "term": "un ticket",
+      "pos": "nom",
+      "gloss_en": "ticket"
+    },
+    {
+      "term": "la baguette",
+      "pos": "nom",
+      "gloss_en": "baguette"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Que veut Gaston à la viande ?",
+      "answer": "Il veut un poulet de ferme."
+    },
+    {
+      "question": "Quel poisson reste-t-il ?",
+      "answer": "Il reste une truite."
+    },
+    {
+      "question": "Combien coûte la baguette de tradition ?",
+      "answer": "Elle coûte un euro dix."
+    },
+    {
+      "question": "Pourquoi Gaston prend-il du fromage ?",
+      "answer": "Kévin lui donne un petit morceau et Gaston ne sait pas dire non."
+    },
+    {
+      "question": "Que dit Gaston à la dame près des gâteaux ?",
+      "answer": "Il dit : « Excusez-moi, madame ! »"
+    },
+    {
+      "question": "Que reste-t-il à acheter ?",
+      "answer": "Il reste le lait, les œufs et le vin."
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18"
+  }
+}

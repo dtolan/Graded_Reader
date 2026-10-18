@@ -1,0 +1,1451 @@
+{
+  "schema_version": 1,
+  "id": "les-courses-du-samedi",
+  "language": "fr",
+  "genre": "everyday",
+  "visibility": "public",
+  "status": "draft",
+  "title": "Le chariot qui grince",
+  "topic": {
+    "type": "theme",
+    "name": "Faire les courses au supermarché"
+  },
+  "summary": "Gaston part faire des courses simples un samedi matin : douze articles, vingt minutes, pas une de plus. Mais son chariot a une roue capricieuse, et tout le supermarché semble avoir décidé de se mettre en travers de sa liste.",
+  "characters": [
+    {
+      "name": "Gaston Pichon",
+      "description": "Protagonist, 52, a fussy, proud bachelor accountant from Tours who lives by lists and schedules. Wants to do his weekly shop in twenty minutes flat to host a dinner for his new neighbour. Flaw: stubborn pride and bad at saying no to tempting offers (impulse buyer)."
+    },
+    {
+      "name": "Madame Odette Roux",
+      "description": "78, his neighbour from the flat below, sharp-tongued and kind, a shopping expert who knows every promotion, coupon and trick. Ends up joining his shopping trip and the dinner."
+    },
+    {
+      "name": "Josiane",
+      "description": "Cashier in her fifties at the supermarket, calm, dry humour, has seen everything. Always says 'Merci, bonne journée !' no matter what happens."
+    },
+    {
+      "name": "Monsieur Lemoine",
+      "description": "The store manager, young, anxious, over-polite, always saying 'Veuillez patienter, un instant', chased around by small disasters."
+    },
+    {
+      "name": "Kévin",
+      "description": "Early-twenties shop assistant who restocks shelves and works the deli and bakery counters, laid-back and helpful, often cheerfully out of stock of everything."
+    }
+  ],
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Vingt minutes, pas une de plus",
+      "period": "Saturday morning, the car park and entrance of a big supermarket outside Tours",
+      "summary": "Gaston arrives with a precise shopping list for a dinner he is hosting, convinced he'll be out in twenty minutes. He fights for a trolley in the car park, ends up with one that has a squeaking, rebellious wheel, and meets his neighbour Madame Roux at the entrance, who eyes his list with pity. The wheel pulls left, and so does his plan.",
+      "key_facts": [
+        {
+          "claim": "In French supermarkets, trolleys are usually unlocked with a one-euro coin or a token that you get back when you return the trolley."
+        },
+        {
+          "claim": "Large French supermarkets (hypermarchés, grandes surfaces) are usually on the outskirts of towns, with a big car park and an entrance and exit on separate sides."
+        },
+        {
+          "claim": "Many French shops require customers to bring their own bags: single-use plastic checkout bags have been banned in France since 2016, so people use reusable bags."
+        },
+        {
+          "claim": "Supermarkets in France are often closed on Sunday afternoon and sometimes all day Sunday, which is why Saturday morning is a busy shopping time."
+        },
+        {
+          "claim": "Many supermarkets also offer a drive (click-and-collect), where you order online and collect the shopping from your car."
+        }
+      ],
+      "focus": [
+        {
+          "term": "le supermarché",
+          "level": "A1",
+          "lemma": "supermarché",
+          "pos": "noun",
+          "gloss_en": "supermarket"
+        },
+        {
+          "term": "les courses",
+          "level": "A1",
+          "lemma": "course",
+          "pos": "noun",
+          "gloss_en": "shopping, groceries"
+        },
+        {
+          "term": "le magasin",
+          "level": "A1",
+          "lemma": "magasin",
+          "pos": "noun",
+          "gloss_en": "shop"
+        },
+        {
+          "term": "le chariot",
+          "level": "A1",
+          "lemma": "chariot",
+          "pos": "noun",
+          "gloss_en": "trolley, cart"
+        },
+        {
+          "term": "la liste",
+          "level": "A1",
+          "lemma": "liste",
+          "pos": "noun",
+          "gloss_en": "list"
+        },
+        {
+          "term": "chercher",
+          "level": "A1",
+          "lemma": "chercher",
+          "pos": "verb",
+          "gloss_en": "to look for"
+        },
+        {
+          "term": "grand",
+          "level": "A1",
+          "lemma": "grand",
+          "pos": "adjective",
+          "gloss_en": "big, large"
+        },
+        {
+          "term": "Bonjour, madame.",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "Hello, madam."
+        },
+        {
+          "term": "Où est… ?",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "Where is…?"
+        },
+        {
+          "term": "le panier",
+          "level": "A2",
+          "lemma": "panier",
+          "pos": "noun",
+          "gloss_en": "basket"
+        },
+        {
+          "term": "l'entrée",
+          "level": "A2",
+          "lemma": "entrée",
+          "pos": "noun",
+          "gloss_en": "entrance"
+        },
+        {
+          "term": "le parking",
+          "level": "A2",
+          "lemma": "parking",
+          "pos": "noun",
+          "gloss_en": "car park"
+        },
+        {
+          "term": "la roue",
+          "level": "A2",
+          "lemma": "roue",
+          "pos": "noun",
+          "gloss_en": "wheel"
+        },
+        {
+          "term": "oublier",
+          "level": "A2",
+          "lemma": "oublier",
+          "pos": "verb",
+          "gloss_en": "to forget"
+        },
+        {
+          "term": "pousser",
+          "level": "A2",
+          "lemma": "pousser",
+          "pos": "verb",
+          "gloss_en": "to push"
+        },
+        {
+          "term": "ouvert",
+          "level": "A2",
+          "lemma": "ouvert",
+          "pos": "adjective",
+          "gloss_en": "open"
+        },
+        {
+          "term": "le sac réutilisable",
+          "level": "B1",
+          "lemma": "sac réutilisable",
+          "pos": "noun",
+          "gloss_en": "reusable bag"
+        },
+        {
+          "term": "le voisin",
+          "level": "B1",
+          "lemma": "voisin",
+          "pos": "noun",
+          "gloss_en": "neighbour (the one in the queue)"
+        },
+        {
+          "term": "grincer",
+          "level": "B1",
+          "lemma": "grincer",
+          "pos": "verb",
+          "gloss_en": "to squeak, creak"
+        },
+        {
+          "term": "tourner",
+          "level": "B1",
+          "lemma": "tourner",
+          "pos": "verb",
+          "gloss_en": "to turn"
+        },
+        {
+          "term": "la grande surface",
+          "level": "B2",
+          "lemma": "grande surface",
+          "pos": "noun",
+          "gloss_en": "hypermarket, big retail store"
+        },
+        {
+          "term": "le drive",
+          "level": "B2",
+          "lemma": "drive",
+          "pos": "noun",
+          "gloss_en": "click-and-collect pick-up"
+        },
+        {
+          "term": "capricieux",
+          "level": "B2",
+          "lemma": "capricieux",
+          "pos": "adjective",
+          "gloss_en": "temperamental, fickle"
+        },
+        {
+          "term": "C'est la croix et la bannière.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "It's a real ordeal."
+        },
+        {
+          "term": "faire le plein",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to stock up, fill the trolley"
+        },
+        {
+          "term": "Les carottes sont cuites.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "The game is up, it's all over."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Le rayon des tentations",
+      "period": "Saturday, 10 a.m., fruit and vegetable aisles, end-of-aisle displays and the freezer section",
+      "summary": "Gaston tries to follow his list through the fruit and vegetable aisles, but tempting displays and a flurry of promotions derail him. Madame Roux teaches him to compare unit prices and use her coupons while he weighs fruit on the scales and is lured into a bulk lot of things he doesn't need. The trolley wheel squeaks louder with every impulse buy.",
+      "key_facts": [
+        {
+          "claim": "In French supermarkets, loose fruit and vegetables are often weighed by the customer on a self-service scale that prints a price label with a barcode."
+        },
+        {
+          "claim": "Shelf labels in France must show the price per kilo or per litre (prix au kilo), which lets shoppers compare products of different sizes."
+        },
+        {
+          "claim": "Own-brand products (marques de distributeur, like Marque Repère or Carrefour's own range) are usually cheaper than national brands."
+        },
+        {
+          "claim": "Supermarkets place special offers and loss leaders on the end-of-aisle displays (têtes de gondole) to encourage impulse buying."
+        },
+        {
+          "claim": "Loyalty cards (cartes de fidélité) give French shoppers points, discount vouchers (bons de réduction) or personalised offers."
+        },
+        {
+          "claim": "The frozen food section is called les surgelés, and products must keep a use-by date (date limite de consommation) for fresh food, or a best-before date (date de durabilité minimale) for dry goods."
+        }
+      ],
+      "focus": [
+        {
+          "term": "le prix",
+          "level": "A1",
+          "lemma": "prix",
+          "pos": "noun",
+          "gloss_en": "price"
+        },
+        {
+          "term": "le fruit",
+          "level": "A1",
+          "lemma": "fruit",
+          "pos": "noun",
+          "gloss_en": "fruit"
+        },
+        {
+          "term": "le légume",
+          "level": "A1",
+          "lemma": "légume",
+          "pos": "noun",
+          "gloss_en": "vegetable"
+        },
+        {
+          "term": "la pomme",
+          "level": "A1",
+          "lemma": "pomme",
+          "pos": "noun",
+          "gloss_en": "apple"
+        },
+        {
+          "term": "la banane",
+          "level": "A1",
+          "lemma": "banane",
+          "pos": "noun",
+          "gloss_en": "banana"
+        },
+        {
+          "term": "la tomate",
+          "level": "A1",
+          "lemma": "tomate",
+          "pos": "noun",
+          "gloss_en": "tomato"
+        },
+        {
+          "term": "le jus",
+          "level": "A1",
+          "lemma": "jus",
+          "pos": "noun",
+          "gloss_en": "juice"
+        },
+        {
+          "term": "acheter",
+          "level": "A1",
+          "lemma": "acheter",
+          "pos": "verb",
+          "gloss_en": "to buy"
+        },
+        {
+          "term": "trouver",
+          "level": "A1",
+          "lemma": "trouver",
+          "pos": "verb",
+          "gloss_en": "to find"
+        },
+        {
+          "term": "coûter",
+          "level": "A1",
+          "lemma": "coûter",
+          "pos": "verb",
+          "gloss_en": "to cost"
+        },
+        {
+          "term": "cher",
+          "level": "A1",
+          "lemma": "cher",
+          "pos": "adjective",
+          "gloss_en": "expensive, dear"
+        },
+        {
+          "term": "Combien ça coûte ?",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "How much is it?"
+        },
+        {
+          "term": "le rayon",
+          "level": "A2",
+          "lemma": "rayon",
+          "pos": "noun",
+          "gloss_en": "aisle, department, shelf section"
+        },
+        {
+          "term": "un kilo de",
+          "level": "A2",
+          "lemma": "kilo",
+          "pos": "expression",
+          "gloss_en": "a kilo of"
+        },
+        {
+          "term": "le yaourt",
+          "level": "A2",
+          "lemma": "yaourt",
+          "pos": "noun",
+          "gloss_en": "yoghurt"
+        },
+        {
+          "term": "les biscuits",
+          "level": "A2",
+          "lemma": "biscuit",
+          "pos": "noun",
+          "gloss_en": "biscuits, cookies"
+        },
+        {
+          "term": "choisir",
+          "level": "A2",
+          "lemma": "choisir",
+          "pos": "verb",
+          "gloss_en": "to choose"
+        },
+        {
+          "term": "peser",
+          "level": "A2",
+          "lemma": "peser",
+          "pos": "verb",
+          "gloss_en": "to weigh"
+        },
+        {
+          "term": "Où est le rayon des fruits ?",
+          "level": "A2",
+          "pos": "expression",
+          "gloss_en": "Where is the fruit section?"
+        },
+        {
+          "term": "les surgelés",
+          "level": "B1",
+          "lemma": "surgelé",
+          "pos": "noun",
+          "gloss_en": "frozen food"
+        },
+        {
+          "term": "la promotion",
+          "level": "B1",
+          "lemma": "promotion",
+          "pos": "noun",
+          "gloss_en": "special offer, promotion"
+        },
+        {
+          "term": "les soldes",
+          "level": "B1",
+          "lemma": "solde",
+          "pos": "noun",
+          "gloss_en": "sales"
+        },
+        {
+          "term": "le bon de réduction",
+          "level": "B1",
+          "lemma": "bon de réduction",
+          "pos": "noun",
+          "gloss_en": "discount voucher, coupon"
+        },
+        {
+          "term": "l'étiquette",
+          "level": "B1",
+          "lemma": "étiquette",
+          "pos": "noun",
+          "gloss_en": "label, price tag"
+        },
+        {
+          "term": "la balance",
+          "level": "B1",
+          "lemma": "balance",
+          "pos": "noun",
+          "gloss_en": "scales"
+        },
+        {
+          "term": "le sachet",
+          "level": "B1",
+          "lemma": "sachet",
+          "pos": "noun",
+          "gloss_en": "small bag, sachet"
+        },
+        {
+          "term": "le rayon frais",
+          "level": "B1",
+          "lemma": "rayon frais",
+          "pos": "noun",
+          "gloss_en": "chilled section"
+        },
+        {
+          "term": "comparer",
+          "level": "B1",
+          "lemma": "comparer",
+          "pos": "verb",
+          "gloss_en": "to compare"
+        },
+        {
+          "term": "la tête de gondole",
+          "level": "B2",
+          "lemma": "tête de gondole",
+          "pos": "noun",
+          "gloss_en": "end-of-aisle display"
+        },
+        {
+          "term": "la marque de distributeur",
+          "level": "B2",
+          "lemma": "marque de distributeur",
+          "pos": "noun",
+          "gloss_en": "own-brand product"
+        },
+        {
+          "term": "le lot",
+          "level": "B2",
+          "lemma": "lot",
+          "pos": "noun",
+          "gloss_en": "multipack, bundle"
+        },
+        {
+          "term": "le prix au kilo",
+          "level": "B2",
+          "lemma": "prix au kilo",
+          "pos": "noun",
+          "gloss_en": "price per kilo"
+        },
+        {
+          "term": "l'achat compulsif",
+          "level": "B2",
+          "lemma": "achat compulsif",
+          "pos": "noun",
+          "gloss_en": "impulse buy"
+        },
+        {
+          "term": "le produit d'appel",
+          "level": "B2",
+          "lemma": "produit d'appel",
+          "pos": "noun",
+          "gloss_en": "loss leader"
+        },
+        {
+          "term": "mûr",
+          "level": "B2",
+          "lemma": "mûr",
+          "pos": "adjective",
+          "gloss_en": "ripe"
+        },
+        {
+          "term": "alléchant",
+          "level": "B2",
+          "lemma": "alléchant",
+          "pos": "adjective",
+          "gloss_en": "mouth-watering, tempting"
+        },
+        {
+          "term": "casser la tirelire",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to break the piggy bank, splurge"
+        },
+        {
+          "term": "Ça fait un trou dans le budget.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "That puts a hole in the budget."
+        },
+        {
+          "term": "C'est donné !",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "It's a steal! It's dirt cheap!"
+        },
+        {
+          "term": "Ça ne mange pas de pain.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "It costs nothing, it does no harm."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Boucherie, boulangerie et compagnie",
+      "period": "Saturday, 10:45 a.m., the butcher's counter, bakery and deli counter inside the supermarket",
+      "summary": "Gaston queues at the butcher's counter for a chicken and fish while Kévin restocks and announces that everything is out of stock, one item after another. A baguette is still warm at the bakery, but the deli counter has a queue of hesitating customers, and a jostle at the tray of cakes leaves Gaston apologising to a stranger. Tins, jars, bottles and packets pile up in the trolley.",
+      "key_facts": [
+        {
+          "claim": "Many French supermarkets have a staffed butcher's counter (boucherie), a bakery (boulangerie) and a deli (rayon traiteur) where you take a ticket from a machine and wait your turn."
+        },
+        {
+          "claim": "A traditional baguette is typically sold for around one euro in France, and by law a baguette de tradition has no additives."
+        },
+        {
+          "claim": "A dozen eggs is called une douzaine d'œufs, and in France eggs are usually sold unrefrigerated on shelves, with a number code on each egg."
+        },
+        {
+          "claim": "All packaged food in France shows a date limite de consommation (DLC, 'à consommer jusqu'au') for perishable products or a date de durabilité minimale (DDM, 'à consommer de préférence avant') for others."
+        },
+        {
+          "claim": "Typical staples in a French shopping trolley include bread, butter, cheese, yoghurt, ham, pasta, rice, flour, sugar, biscuits and wine."
+        },
+        {
+          "claim": "Fruit juice, wine and water are often sold in multipacks (lots) such as packs of six bottles of water."
+        }
+      ],
+      "focus": [
+        {
+          "term": "le sac",
+          "level": "A1",
+          "lemma": "sac",
+          "pos": "noun",
+          "gloss_en": "bag"
+        },
+        {
+          "term": "le pain",
+          "level": "A1",
+          "lemma": "pain",
+          "pos": "noun",
+          "gloss_en": "bread"
+        },
+        {
+          "term": "le lait",
+          "level": "A1",
+          "lemma": "lait",
+          "pos": "noun",
+          "gloss_en": "milk"
+        },
+        {
+          "term": "le fromage",
+          "level": "A1",
+          "lemma": "fromage",
+          "pos": "noun",
+          "gloss_en": "cheese"
+        },
+        {
+          "term": "la viande",
+          "level": "A1",
+          "lemma": "viande",
+          "pos": "noun",
+          "gloss_en": "meat"
+        },
+        {
+          "term": "le poisson",
+          "level": "A1",
+          "lemma": "poisson",
+          "pos": "noun",
+          "gloss_en": "fish"
+        },
+        {
+          "term": "le poulet",
+          "level": "A1",
+          "lemma": "poulet",
+          "pos": "noun",
+          "gloss_en": "chicken"
+        },
+        {
+          "term": "l'eau",
+          "level": "A1",
+          "lemma": "eau",
+          "pos": "noun",
+          "gloss_en": "water"
+        },
+        {
+          "term": "le gâteau",
+          "level": "A1",
+          "lemma": "gâteau",
+          "pos": "noun",
+          "gloss_en": "cake"
+        },
+        {
+          "term": "prendre",
+          "level": "A1",
+          "lemma": "prendre",
+          "pos": "verb",
+          "gloss_en": "to take"
+        },
+        {
+          "term": "Je voudrais...",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "I would like..."
+        },
+        {
+          "term": "s'il vous plaît",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "please"
+        },
+        {
+          "term": "Excusez-moi",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "Excuse me"
+        },
+        {
+          "term": "l'étagère",
+          "level": "A2",
+          "lemma": "étagère",
+          "pos": "noun",
+          "gloss_en": "shelf"
+        },
+        {
+          "term": "la bouteille",
+          "level": "A2",
+          "lemma": "bouteille",
+          "pos": "noun",
+          "gloss_en": "bottle"
+        },
+        {
+          "term": "la boîte",
+          "level": "A2",
+          "lemma": "boîte",
+          "pos": "noun",
+          "gloss_en": "box, tin"
+        },
+        {
+          "term": "le paquet",
+          "level": "A2",
+          "lemma": "paquet",
+          "pos": "noun",
+          "gloss_en": "packet"
+        },
+        {
+          "term": "le pot",
+          "level": "A2",
+          "lemma": "pot",
+          "pos": "noun",
+          "gloss_en": "jar, pot"
+        },
+        {
+          "term": "le jambon",
+          "level": "A2",
+          "lemma": "jambon",
+          "pos": "noun",
+          "gloss_en": "ham"
+        },
+        {
+          "term": "le vendeur",
+          "level": "A2",
+          "lemma": "vendeur",
+          "pos": "noun",
+          "gloss_en": "shop assistant, seller"
+        },
+        {
+          "term": "frais",
+          "level": "A2",
+          "lemma": "frais",
+          "pos": "adjective",
+          "gloss_en": "fresh, cool"
+        },
+        {
+          "term": "Il n'y en a plus.",
+          "level": "A2",
+          "pos": "expression",
+          "gloss_en": "There's none left."
+        },
+        {
+          "term": "la barquette",
+          "level": "B1",
+          "lemma": "barquette",
+          "pos": "noun",
+          "gloss_en": "tray (of food)"
+        },
+        {
+          "term": "la boucherie",
+          "level": "A2",
+          "lemma": "boucherie",
+          "pos": "noun",
+          "gloss_en": "butcher's counter"
+        },
+        {
+          "term": "la boulangerie",
+          "level": "A2",
+          "lemma": "boulangerie",
+          "pos": "noun",
+          "gloss_en": "bakery"
+        },
+        {
+          "term": "la date de péremption",
+          "level": "B1",
+          "lemma": "date de péremption",
+          "pos": "noun",
+          "gloss_en": "use-by date"
+        },
+        {
+          "term": "hésiter",
+          "level": "B1",
+          "lemma": "hésiter",
+          "pos": "verb",
+          "gloss_en": "to hesitate"
+        },
+        {
+          "term": "en rupture de stock",
+          "level": "B1",
+          "pos": "expression",
+          "gloss_en": "out of stock"
+        },
+        {
+          "term": "Excusez-moi, je vous ai fait mal ?",
+          "level": "B1",
+          "pos": "expression",
+          "gloss_en": "Excuse me, did I hurt you?"
+        },
+        {
+          "term": "le rayon traiteur",
+          "level": "B2",
+          "lemma": "rayon traiteur",
+          "pos": "noun",
+          "gloss_en": "deli counter"
+        },
+        {
+          "term": "la denrée périssable",
+          "level": "B2",
+          "lemma": "denrée périssable",
+          "pos": "noun",
+          "gloss_en": "perishable food"
+        },
+        {
+          "term": "se bousculer",
+          "level": "B2",
+          "lemma": "se bousculer",
+          "pos": "verb",
+          "gloss_en": "to jostle"
+        },
+        {
+          "term": "dévaliser",
+          "level": "B2",
+          "lemma": "dévaliser",
+          "pos": "verb",
+          "gloss_en": "to clear out, raid"
+        },
+        {
+          "term": "s'entasser",
+          "level": "B2",
+          "lemma": "s'entasser",
+          "pos": "verb",
+          "gloss_en": "to pile up, cram"
+        },
+        {
+          "term": "réapprovisionner",
+          "level": "B2",
+          "lemma": "réapprovisionner",
+          "pos": "verb",
+          "gloss_en": "to restock"
+        },
+        {
+          "term": "périmé",
+          "level": "B2",
+          "lemma": "périmé",
+          "pos": "adjective",
+          "gloss_en": "expired, out of date"
+        },
+        {
+          "term": "coûter les yeux de la tête",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to cost an arm and a leg"
+        },
+        {
+          "term": "avoir les yeux plus gros que le ventre",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to bite off more than one can chew"
+        },
+        {
+          "term": "Ça casse pas trois pattes à un canard.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "It's nothing special."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "La queue interminable",
+      "period": "Saturday, 11:30 a.m., the checkout area of the crowded supermarket",
+      "summary": "With a full trolley, Gaston faces an endless queue. He tries the self-checkout, which keeps declaring an 'unexpected item in the bagging area', then switches to a regular checkout where a woman in a hurry slips in front of him. Josiane stays calm while an item goes missing from the bag and the queue jostles around.",
+      "key_facts": [
+        {
+          "claim": "French supermarkets have staffed checkouts, self-checkouts (caisses automatiques) and often a priority checkout (caisse prioritaire) for pregnant women, people with disabilities and elderly people."
+        },
+        {
+          "claim": "On French supermarket conveyor belts, customers use a small plastic divider bar to separate their shopping from the next person's."
+        },
+        {
+          "claim": "Self-checkouts in France say 'Veuillez patienter, un instant' and 'Il y a une anomalie dans le sac' when the weight of the bag is different from what is expected."
+        },
+        {
+          "claim": "Cashiers in France say 'Bonjour' to every customer and 'Merci, bonne journée' at the end, and customers are expected to greet them back."
+        },
+        {
+          "claim": "Security guards (agents de sécurité) may be posted near the exit of large French supermarkets and can ask to see receipts or bags."
+        }
+      ],
+      "focus": [
+        {
+          "term": "la caisse",
+          "level": "A1",
+          "lemma": "caisse",
+          "pos": "noun",
+          "gloss_en": "checkout, till"
+        },
+        {
+          "term": "le client",
+          "level": "A1",
+          "lemma": "client",
+          "pos": "noun",
+          "gloss_en": "customer"
+        },
+        {
+          "term": "la caissière",
+          "level": "A1",
+          "lemma": "caissier",
+          "pos": "noun",
+          "gloss_en": "female cashier"
+        },
+        {
+          "term": "la queue",
+          "level": "A2",
+          "lemma": "queue",
+          "pos": "noun",
+          "gloss_en": "queue"
+        },
+        {
+          "term": "attendre",
+          "level": "A2",
+          "lemma": "attendre",
+          "pos": "verb",
+          "gloss_en": "to wait"
+        },
+        {
+          "term": "fermé",
+          "level": "A2",
+          "lemma": "fermé",
+          "pos": "adjective",
+          "gloss_en": "closed"
+        },
+        {
+          "term": "la carte de fidélité",
+          "level": "B1",
+          "lemma": "carte de fidélité",
+          "pos": "noun",
+          "gloss_en": "loyalty card"
+        },
+        {
+          "term": "le code-barres",
+          "level": "B1",
+          "lemma": "code-barres",
+          "pos": "noun",
+          "gloss_en": "barcode"
+        },
+        {
+          "term": "le tapis roulant",
+          "level": "B1",
+          "lemma": "tapis roulant",
+          "pos": "noun",
+          "gloss_en": "conveyor belt"
+        },
+        {
+          "term": "le caissier",
+          "level": "B1",
+          "lemma": "caissier",
+          "pos": "noun",
+          "gloss_en": "cashier"
+        },
+        {
+          "term": "emballer",
+          "level": "B1",
+          "lemma": "emballer",
+          "pos": "verb",
+          "gloss_en": "to wrap, pack"
+        },
+        {
+          "term": "pressé",
+          "level": "B1",
+          "lemma": "pressé",
+          "pos": "adjective",
+          "gloss_en": "in a hurry"
+        },
+        {
+          "term": "bondé",
+          "level": "B1",
+          "lemma": "bondé",
+          "pos": "adjective",
+          "gloss_en": "packed, crowded"
+        },
+        {
+          "term": "faire la queue",
+          "level": "B1",
+          "pos": "expression",
+          "gloss_en": "to queue"
+        },
+        {
+          "term": "la caisse automatique",
+          "level": "B2",
+          "lemma": "caisse automatique",
+          "pos": "noun",
+          "gloss_en": "self-checkout"
+        },
+        {
+          "term": "la caisse prioritaire",
+          "level": "B2",
+          "lemma": "caisse prioritaire",
+          "pos": "noun",
+          "gloss_en": "priority checkout"
+        },
+        {
+          "term": "scanner",
+          "level": "B2",
+          "lemma": "scanner",
+          "pos": "verb",
+          "gloss_en": "to scan"
+        },
+        {
+          "term": "faire sauter",
+          "level": "B2",
+          "lemma": "faire sauter",
+          "pos": "verb",
+          "gloss_en": "to skip, cut (the queue); to blow"
+        },
+        {
+          "term": "se faufiler",
+          "level": "B2",
+          "lemma": "se faufiler",
+          "pos": "verb",
+          "gloss_en": "to squeeze through, slip in"
+        },
+        {
+          "term": "interminable",
+          "level": "B2",
+          "lemma": "interminable",
+          "pos": "adjective",
+          "gloss_en": "endless"
+        },
+        {
+          "term": "Veuillez patienter, un instant.",
+          "level": "B2",
+          "pos": "expression",
+          "gloss_en": "Please wait a moment."
+        },
+        {
+          "term": "Caisse fermée, veuillez vous diriger vers une autre caisse.",
+          "level": "B2",
+          "pos": "expression",
+          "gloss_en": "Checkout closed, please go to another one."
+        },
+        {
+          "term": "Il manque un article.",
+          "level": "B2",
+          "pos": "expression",
+          "gloss_en": "An item is missing."
+        },
+        {
+          "term": "Il y a une anomalie dans le sac.",
+          "level": "B2",
+          "pos": "expression",
+          "gloss_en": "Unexpected item in the bagging area."
+        },
+        {
+          "term": "C'est la galère.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "What a nightmare, what a slog."
+        },
+        {
+          "term": "La goutte d'eau qui fait déborder le vase.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "The straw that broke the camel's back."
+        },
+        {
+          "term": "pédaler dans la semoule",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to flounder, get nowhere"
+        },
+        {
+          "term": "ramener sa fraise",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to show up uninvited, butt in"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Le coup de bambou",
+      "period": "Saturday, noon, at the checkout till and the exit",
+      "summary": "At the checkout, Gaston discovers the total is far higher than his budget, and his bank card is declined because he mistypes the PIN, then the contactless payment limit blocks him. In panic he tries to pay in cash but doesn't have enough euros, and the wheel finally jams the trolley and sends it skidding into a display of tins, which topple in the comic climax. Josiane, the manager and a security guard arrive.",
+      "key_facts": [
+        {
+          "claim": "In France, contactless card payments (paiement sans contact) are limited to a single transaction of 50 euros, above which you have to enter your PIN (code confidentiel)."
+        },
+        {
+          "claim": "French bank cards (carte bancaire) use a four-digit PIN and most card readers (terminaux de paiement) ask you to enter it after a few contactless payments in a row."
+        },
+        {
+          "claim": "Tipping is not expected at French supermarkets, and a service charge is already included in prices in cafés and restaurants (service compris)."
+        },
+        {
+          "claim": "Shoppers keep their receipt (ticket de caisse) as proof of purchase to get refunds or exchanges (remboursement or échange)."
+        },
+        {
+          "claim": "Cash (espèces) is still accepted at French supermarket checkouts, although cashiers may ask if you have the exact change (l'appoint)."
+        },
+        {
+          "claim": "The euro is divided into 100 cents, and banknotes come in denominations of 5, 10, 20, 50, 100, 200 and 500 euros."
+        }
+      ],
+      "focus": [
+        {
+          "term": "l'argent",
+          "level": "A1",
+          "lemma": "argent",
+          "pos": "noun",
+          "gloss_en": "money"
+        },
+        {
+          "term": "la carte",
+          "level": "A1",
+          "lemma": "carte",
+          "pos": "noun",
+          "gloss_en": "card (bank card)"
+        },
+        {
+          "term": "l'euro",
+          "level": "A1",
+          "lemma": "euro",
+          "pos": "noun",
+          "gloss_en": "euro"
+        },
+        {
+          "term": "payer",
+          "level": "A1",
+          "lemma": "payer",
+          "pos": "verb",
+          "gloss_en": "to pay"
+        },
+        {
+          "term": "la sortie",
+          "level": "A2",
+          "lemma": "sortie",
+          "pos": "noun",
+          "gloss_en": "exit"
+        },
+        {
+          "term": "le ticket",
+          "level": "A2",
+          "lemma": "ticket",
+          "pos": "noun",
+          "gloss_en": "receipt, ticket"
+        },
+        {
+          "term": "la monnaie",
+          "level": "A2",
+          "lemma": "monnaie",
+          "pos": "noun",
+          "gloss_en": "change (coins)"
+        },
+        {
+          "term": "les espèces",
+          "level": "A2",
+          "lemma": "espèce",
+          "pos": "noun",
+          "gloss_en": "cash"
+        },
+        {
+          "term": "le billet",
+          "level": "A2",
+          "lemma": "billet",
+          "pos": "noun",
+          "gloss_en": "banknote"
+        },
+        {
+          "term": "Vous avez de la monnaie ?",
+          "level": "A2",
+          "pos": "expression",
+          "gloss_en": "Do you have any change?"
+        },
+        {
+          "term": "la conserve",
+          "level": "B1",
+          "lemma": "conserve",
+          "pos": "noun",
+          "gloss_en": "tinned food"
+        },
+        {
+          "term": "bloquer",
+          "level": "B1",
+          "lemma": "bloquer",
+          "pos": "verb",
+          "gloss_en": "to block, jam"
+        },
+        {
+          "term": "cassé",
+          "level": "B1",
+          "lemma": "cassé",
+          "pos": "adjective",
+          "gloss_en": "broken"
+        },
+        {
+          "term": "Ce n'est pas ma faute.",
+          "level": "B1",
+          "pos": "expression",
+          "gloss_en": "It's not my fault."
+        },
+        {
+          "term": "l'agent de sécurité",
+          "level": "B2",
+          "lemma": "agent de sécurité",
+          "pos": "noun",
+          "gloss_en": "security guard"
+        },
+        {
+          "term": "le paiement sans contact",
+          "level": "B2",
+          "lemma": "paiement sans contact",
+          "pos": "noun",
+          "gloss_en": "contactless payment"
+        },
+        {
+          "term": "le code confidentiel",
+          "level": "B2",
+          "lemma": "code confidentiel",
+          "pos": "noun",
+          "gloss_en": "PIN"
+        },
+        {
+          "term": "le terminal de paiement",
+          "level": "B2",
+          "lemma": "terminal de paiement",
+          "pos": "noun",
+          "gloss_en": "card reader"
+        },
+        {
+          "term": "l'addition",
+          "level": "B2",
+          "lemma": "addition",
+          "pos": "noun",
+          "gloss_en": "total, bill"
+        },
+        {
+          "term": "composer",
+          "level": "B2",
+          "lemma": "composer",
+          "pos": "verb",
+          "gloss_en": "to dial, enter (a code)"
+        },
+        {
+          "term": "percuter",
+          "level": "B2",
+          "lemma": "percuter",
+          "pos": "verb",
+          "gloss_en": "to crash into"
+        },
+        {
+          "term": "déraper",
+          "level": "B2",
+          "lemma": "déraper",
+          "pos": "verb",
+          "gloss_en": "to skid"
+        },
+        {
+          "term": "Quelqu'un peut m'aider ?",
+          "level": "B2",
+          "pos": "expression",
+          "gloss_en": "Can someone help me?"
+        },
+        {
+          "term": "être fauché comme les blés",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to be flat broke"
+        },
+        {
+          "term": "C'est le coup de bambou.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "The bill is a shock."
+        },
+        {
+          "term": "C'est la fin des haricots.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "That's the last straw, all is lost."
+        },
+        {
+          "term": "ne pas être sorti de l'auberge",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to not be out of the woods yet"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Le dîner de la dernière chance",
+      "period": "Saturday evening, Gaston's flat and kitchen in Tours",
+      "summary": "The manager forgives the tinned avalanche and gives Gaston a refund and a discount voucher, and Madame Roux helps him carry the heavy bags home. In the kitchen, they cook a rescue dinner from the improbable shopping, with the squeaking trolley wheel as a funny souvenir. Everything ends warmly, with the neighbour at the table and a promise to shop together next Saturday.",
+      "key_facts": [
+        {
+          "claim": "French dinners traditionally include several courses: an entrée (starter), a plat (main course), cheese, and a dessert."
+        },
+        {
+          "claim": "In France, the cheese course comes before dessert and is often served with bread rather than with crackers."
+        },
+        {
+          "claim": "Typical French supermarkets sell fresh produce, packaged food, drinks, household items and often have in-store loyalty programmes."
+        },
+        {
+          "claim": "The French often say 'bon appétit' before eating and 'à votre santé' or 'santé !' when raising a glass."
+        },
+        {
+          "claim": "Supermarkets are required to reduce food waste: since 2016 French law forbids large supermarkets from destroying unsold edible food, and they must donate it to charities."
+        }
+      ],
+      "focus": [
+        {
+          "term": "les œufs",
+          "level": "A1",
+          "lemma": "œuf",
+          "pos": "noun",
+          "gloss_en": "eggs"
+        },
+        {
+          "term": "la pomme de terre",
+          "level": "A1",
+          "lemma": "pomme de terre",
+          "pos": "noun",
+          "gloss_en": "potato"
+        },
+        {
+          "term": "le vin",
+          "level": "A1",
+          "lemma": "vin",
+          "pos": "noun",
+          "gloss_en": "wine"
+        },
+        {
+          "term": "le chocolat",
+          "level": "A1",
+          "lemma": "chocolat",
+          "pos": "noun",
+          "gloss_en": "chocolate"
+        },
+        {
+          "term": "Merci, bonne journée !",
+          "level": "A1",
+          "pos": "expression",
+          "gloss_en": "Thank you, have a nice day!"
+        },
+        {
+          "term": "une douzaine de",
+          "level": "A2",
+          "lemma": "douzaine",
+          "pos": "expression",
+          "gloss_en": "a dozen"
+        },
+        {
+          "term": "le beurre",
+          "level": "A1",
+          "lemma": "beurre",
+          "pos": "noun",
+          "gloss_en": "butter"
+        },
+        {
+          "term": "les pâtes",
+          "level": "A1",
+          "lemma": "pâte",
+          "pos": "noun",
+          "gloss_en": "pasta"
+        },
+        {
+          "term": "le riz",
+          "level": "A1",
+          "lemma": "riz",
+          "pos": "noun",
+          "gloss_en": "rice"
+        },
+        {
+          "term": "la farine",
+          "level": "A1",
+          "lemma": "farine",
+          "pos": "noun",
+          "gloss_en": "flour"
+        },
+        {
+          "term": "le sucre",
+          "level": "A1",
+          "lemma": "sucre",
+          "pos": "noun",
+          "gloss_en": "sugar"
+        },
+        {
+          "term": "lourd",
+          "level": "A2",
+          "lemma": "lourd",
+          "pos": "adjective",
+          "gloss_en": "heavy"
+        },
+        {
+          "term": "la réduction",
+          "level": "B1",
+          "lemma": "réduction",
+          "pos": "noun",
+          "gloss_en": "discount"
+        },
+        {
+          "term": "l'emballage",
+          "level": "B1",
+          "lemma": "emballage",
+          "pos": "noun",
+          "gloss_en": "packaging"
+        },
+        {
+          "term": "le gérant",
+          "level": "B1",
+          "lemma": "gérant",
+          "pos": "noun",
+          "gloss_en": "manager"
+        },
+        {
+          "term": "ranger",
+          "level": "B1",
+          "lemma": "ranger",
+          "pos": "verb",
+          "gloss_en": "to put away, tidy"
+        },
+        {
+          "term": "rembourser",
+          "level": "B1",
+          "lemma": "rembourser",
+          "pos": "verb",
+          "gloss_en": "to refund"
+        },
+        {
+          "term": "le pourboire",
+          "level": "B2",
+          "lemma": "pourboire",
+          "pos": "noun",
+          "gloss_en": "tip"
+        },
+        {
+          "term": "la facture",
+          "level": "B2",
+          "lemma": "facture",
+          "pos": "noun",
+          "gloss_en": "invoice, bill"
+        },
+        {
+          "term": "le gaspillage",
+          "level": "B2",
+          "lemma": "gaspillage",
+          "pos": "noun",
+          "gloss_en": "waste"
+        },
+        {
+          "term": "payer rubis sur l'ongle",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to pay promptly and in full"
+        },
+        {
+          "term": "remplir le frigo à ras bord",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to fill the fridge to the brim"
+        },
+        {
+          "term": "mettre de l'eau dans son vin",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "to tone it down, compromise"
+        },
+        {
+          "term": "Ce n'est pas la mer à boire.",
+          "level": "C1",
+          "pos": "expression",
+          "gloss_en": "It's not that hard."
+        }
+      ]
+    }
+  ]
+}

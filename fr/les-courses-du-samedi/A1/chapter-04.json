@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "book_id": "les-courses-du-samedi",
+  "level": "A1",
+  "number": 4,
+  "title": "La file sans fin",
+  "recap": "Gaston fait ses courses un samedi matin avec un chariot plein. Il veut aller vite, mais tout va mal. Il arrive enfin devant les caisses du supermarché.",
+  "overview_en": "Gaston reaches the checkouts with a full trolley and finds a huge line. The self-service machine keeps complaining about the bag, so he moves to a normal checkout, where a woman in a hurry jumps in front of him. Then a cheese goes missing, and Madame Roux appears behind him.",
+  "paragraphs": [
+    "Il est onze heures et demie, un samedi. Gaston Pichon arrive devant les caisses. Son chariot est plein. Sur sa liste, il y a douze choses. Dans le chariot, il y a soixante choses ! Gaston regarde sa montre. Son plan est de vingt minutes. Mais maintenant, il est là depuis une heure et demie. Le chariot fait toujours du bruit.",
+    "Devant les caisses, la file est très longue. Gaston compte les clients : douze, treize, quatorze. Chaque client a un chariot plein. Tous ont l'air fatigué. « C'est trop long », dit Gaston tout bas. Il pense qu'il est le seul avec un plan. Mais non : tout le monde est en retard, et personne n'avance.",
+    "Alors Gaston voit des machines, plus loin. Une caisse sans caissière ! Pas de bavardage, pas de file. Gaston sourit pour la première fois depuis longtemps. « C'est moderne, c'est rapide, c'est parfait », pense-t-il. Il tourne son chariot avec fierté. Mais la petite roue part de travers. Le chariot touche le pied d'un client.",
+    "« Excusez-moi, monsieur ! » dit Gaston. Mais le grand client a de la musique dans les oreilles. Il n'entend rien. Gaston arrive devant la machine. Il pose un premier produit. La machine a un grand écran et une voix de femme. Mais elle n'est pas patiente. Gaston va vite le voir.",
+    "Gaston passe une boîte devant la lumière rouge. Bip ! Il pose la boîte dans le sac. Tout va bien. Une deuxième boîte. Bip ! Une troisième, une quatrième. Gaston se croit très fort. « C'est comme mon travail, dit-il : il faut faire attention. » Puis il prend la baguette, encore chaude, et il la met dans le sac.",
+    "Tout à coup, la machine parle d'une voix douce : « Il y a une anomalie dans le sac. Veuillez patienter, un instant. » Gaston regarde le sac. Il regarde la baguette. Il n'a rien fait de mal ! « Quelle anomalie ? » demande-t-il à la machine. Il enlève la baguette, il la remet. La machine répète la même phrase.",
+    "Derrière Gaston, une dame soupire très fort. Un jeune homme regarde son téléphone. Gaston est rouge jusqu'aux oreilles. Il appelle la dame du magasin. Elle arrive, elle tape un code, et la machine se tait. « Votre baguette est trop légère », dit-elle. Une minute plus tard, la machine dit : « Il manque un article. » Gaston compte encore : quarante-deux. Rien à faire !",
+    "Puis la machine dit : « Caisse fermée. Allez à une autre caisse. » L'écran devient noir. Gaston reste là, les bras en bas. Il respire fort et il compte jusqu'à dix, comme son médecin dit. Puis il prend ses sacs et retourne vers les caisses avec la caissière. Le chariot fait encore plus de bruit.",
+    "Un panneau montre : caisse fermée, caisse fermée, et une caisse pour les gens qui ont un problème pour marcher. Une dame avec un bébé dans le ventre est là, et aussi un vieux monsieur. Gaston choisit donc la file la plus courte. C'est la caisse de Josiane. Elle a les cheveux gris et le regard calme.",
+    "« Bonjour, monsieur », dit Josiane, sans lever les yeux. « Bonjour, madame », répond Gaston. Il est content. Il met la petite barre en plastique sur le tapis, pour séparer ses courses. Mais une femme avec un téléphone à l'oreille passe devant lui. « Je suis très pressée, j'ai trois produits seulement ! » Elle pose un pot sur le tapis, et Josiane dit : « Bonjour, madame. »",
+    "Gaston est fâché. Il a mille phrases dans la tête, mais il est trop poli. « Je vous en prie, madame », dit-il d'une petite voix. Josiane sourit un peu. « Elle passe vite, monsieur. » Puis Gaston met ses produits dans ses sacs. Derrière lui, un homme avec une moustache pousse son chariot dans ses jambes. « Avancez ! » dit-il. La file bouge comme la mer.",
+    "« Vous avez la carte du magasin ? » demande Josiane. Gaston cherche dans ses poches. Elle est là, au fond. Mais dans les sacs, le beau camembert n'est plus là ! « Il manque un produit ! » crie-t-il. Josiane ne bouge pas. Soudain, une voix connue dit : « Alors, mon petit Gaston, on perd son fromage ? » C'est Madame Roux ! Josiane dit : « Merci, bonne journée ! »"
+  ],
+  "word_count": 673,
+  "vocabulary": [
+    {
+      "term": "caisses",
+      "pos": "nom f. pl.",
+      "gloss_en": "checkouts, tills"
+    },
+    {
+      "term": "clients",
+      "pos": "nom m. pl.",
+      "gloss_en": "customers"
+    },
+    {
+      "term": "caissière",
+      "pos": "nom f.",
+      "gloss_en": "female cashier"
+    },
+    {
+      "term": "la file",
+      "pos": "nom f.",
+      "gloss_en": "line of people"
+    },
+    {
+      "term": "le chariot",
+      "pos": "nom m.",
+      "gloss_en": "shopping trolley"
+    },
+    {
+      "term": "la machine",
+      "pos": "nom f.",
+      "gloss_en": "the machine"
+    },
+    {
+      "term": "anomalie",
+      "pos": "nom f.",
+      "gloss_en": "problem, something wrong"
+    },
+    {
+      "term": "Veuillez patienter",
+      "pos": "expression",
+      "gloss_en": "please wait"
+    },
+    {
+      "term": "il manque",
+      "pos": "verbe",
+      "gloss_en": "is missing"
+    },
+    {
+      "term": "la baguette",
+      "pos": "nom f.",
+      "gloss_en": "long loaf of bread"
+    },
+    {
+      "term": "le tapis",
+      "pos": "nom m.",
+      "gloss_en": "conveyor belt"
+    },
+    {
+      "term": "le fromage",
+      "pos": "nom m.",
+      "gloss_en": "cheese"
+    },
+    {
+      "term": "poli",
+      "pos": "adjectif",
+      "gloss_en": "polite"
+    },
+    {
+      "term": "Merci, bonne journée",
+      "pos": "expression",
+      "gloss_en": "thank you, have a nice day"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Combien de choses Gaston a-t-il sur sa liste ?",
+      "answer": "Il y a douze choses sur sa liste."
+    },
+    {
+      "question": "Que dit la machine quand Gaston met la baguette dans le sac ?",
+      "answer": "Elle dit : « Il y a une anomalie dans le sac. »"
+    },
+    {
+      "question": "Pourquoi Gaston change-t-il de caisse ?",
+      "answer": "La machine est fermée, alors il va à une caisse avec une caissière."
+    },
+    {
+      "question": "Qui passe devant Gaston à la caisse de Josiane ?",
+      "answer": "Une femme avec un téléphone passe devant lui."
+    },
+    {
+      "question": "Quel produit manque dans les sacs de Gaston ?",
+      "answer": "Le camembert manque."
+    },
+    {
+      "question": "Qui arrive à la fin du chapitre ?",
+      "answer": "Madame Roux arrive derrière Gaston."
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18"
+  }
+}

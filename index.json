@@ -144,6 +144,29 @@
       "path": "fr/paris-en-escargot/book.json",
       "updated": "2026-10-16",
       "revision": "0a4a56d12ba1"
+    },
+    {
+      "id": "les-courses-du-samedi",
+      "title": "Le chariot qui grince",
+      "genre": "everyday",
+      "topic": {
+        "type": "theme",
+        "name": "Faire les courses au supermarché"
+      },
+      "summary": "Gaston part faire des courses simples un samedi matin : douze articles, vingt minutes, pas une de plus. Mais son chariot a une roue capricieuse, et tout le supermarché semble avoir décidé de se mettre en travers de sa liste.",
+      "visibility": "public",
+      "status": "draft",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "chapter_count": 6,
+      "path": "fr/les-courses-du-samedi/book.json",
+      "updated": "2026-10-18",
+      "revision": "16785c6451e7"
     }
   ]
 }

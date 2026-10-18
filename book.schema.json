@@ -36,9 +36,10 @@
       "enum": [
         "history",
         "fiction",
-        "scifi"
+        "scifi",
+        "everyday"
       ],
-      "description": "history is true and checked against key_facts. fiction and scifi are invented stories set in real France; their key_facts are true real-world details (places, food, customs, activities), not plot."
+      "description": "history is true and checked against key_facts. fiction and scifi are invented stories set in real France; their key_facts are true real-world details (places, food, customs, activities), not plot. everyday is a short humorous invented story that teaches the vocabulary of one topic, a different set of words at each level (the words are listed per chapter in focus)."
     },
     "visibility": {
       "type": "string",
@@ -126,7 +127,7 @@
     "chapters": {
       "type": "array",
       "description": "The backbone: ordered chapter plan, identical across levels",
-      "minItems": 10,
+      "minItems": 5,
       "maxItems": 25,
       "items": {
         "type": "object",
@@ -172,6 +173,43 @@
                 "claim": {
                   "type": "string",
                   "minLength": 1
+                }
+              }
+            }
+          },
+          "focus": {
+            "type": "array",
+            "description": "everyday books only: the topic words this chapter teaches, each with the level at which it is a target word (levels are our own judgment calibrated by usage frequency, not an official list)",
+            "items": {
+              "type": "object",
+              "required": [
+                "term",
+                "level"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "term": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "level": {
+                  "$ref": "#/$defs/level"
+                },
+                "lemma": {
+                  "type": "string"
+                },
+                "pos": {
+                  "type": "string",
+                  "enum": [
+                    "noun",
+                    "verb",
+                    "adjective",
+                    "adverb",
+                    "expression"
+                  ]
+                },
+                "gloss_en": {
+                  "type": "string"
                 }
               }
             }

@@ -17,7 +17,7 @@
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
           "title": { "type": "string" },
-          "genre": { "type": "string", "enum": ["history", "fiction", "scifi"] },
+          "genre": { "type": "string", "enum": ["history", "fiction", "scifi", "everyday"] },
           "topic": {
             "type": "object",
             "required": ["type", "name"],
@@ -33,7 +33,7 @@
           "visibility": { "type": "string", "enum": ["public", "private"] },
           "status": { "type": "string", "enum": ["draft", "reviewed"] },
           "levels": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1"] } },
-          "chapter_count": { "type": "integer", "minimum": 10, "maximum": 25 },
+          "chapter_count": { "type": "integer", "minimum": 5, "maximum": 25 },
           "path": { "type": "string", "description": "Path to book.json relative to stories/, e.g. fr/jeanne-darc/book.json" },
           "updated": { "type": "string" },
           "revision": { "type": "string", "description": "Hash of the book's files (tools/stamp_revisions.py). The app drops its cached chapters of a book when this changes." }

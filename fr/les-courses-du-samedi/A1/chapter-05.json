@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "book_id": "les-courses-du-samedi",
+  "level": "A1",
+  "number": 5,
+  "title": "Le coup de bambou",
+  "recap": "Gaston Pichon fait ses courses un samedi matin avec un chariot qui fait du bruit. Il a attendu longtemps. Maintenant, c'est à lui, à la caisse. Madame Roux, sa voisine, est derrière lui.",
+  "overview_en": "At the checkout, Gaston finds the bill is three times his budget. His card is refused twice, contactless doesn't work, and he only has thirty-two euros in cash. Then the broken wheel sends the trolley crashing into a pyramid of tins. Josiane, Kévin, the manager and a security guard arrive.",
+  "paragraphs": [
+    "C'est samedi, il est midi. Gaston Pichon est devant la caisse numéro sept. Il a cinquante-deux ans. Son chariot est très plein. La roue avant fait un long bruit, comme une vieille porte. Gaston regarde la roue avec colère. Puis il se tient droit. Il pense: « Moi, je n'ai rien fait de mal. »",
+    "La caissière s'appelle Josiane. Elle sourit, mais elle a l'air fatiguée. Elle travaille ici depuis trente ans. Elle passe les produits un par un. Chaque bip fait mal à Gaston. Il voit le melon, le fromage de chèvre, et une boîte de truffes. Une boîte de truffes? Il ne sait pas pourquoi elle est là. Il tousse.",
+    "Derrière lui, il y a Madame Odette Roux. Elle a soixante-dix-huit ans. Elle a un sac plié sur le bras et des petits papiers dans la main. Elle dit: « Je suis là par hasard. » Mais elle regarde l'écran très bien. Elle murmure: « Vous prenez la grosse boîte de truffes, monsieur Pichon? Elle n'est pas moins chère! » Gaston fait semblant de ne rien entendre.",
+    "Le dernier produit passe. Josiane tourne l'écran vers Gaston. Elle dit: « Cela fait cent soixante-dix-huit euros quarante, monsieur. » Gaston ouvre grand les yeux. Son plan est de payer soixante euros. Il l'a écrit dans son petit carnet. Il relit le chiffre. Il dit: « C'est une erreur! C'est trois fois trop! »",
+    "Madame Roux se penche et siffle doucement. Elle dit: « Eh bien, mon pauvre, c'est le coup de bambou! Vous êtes comptable, et vous comptez mal! » Gaston se raidit. Il sort sa carte de son portefeuille, comme un chevalier sort son épée. Il pense: « Je vais payer avec calme. Personne ne va voir que j'ai chaud. »",
+    "Il met la carte dans la machine. L'écran dit: « Tapez votre code. » Un code est quatre chiffres secrets. Gaston tape les quatre chiffres. Il les connaît depuis vingt ans. Mais la machine fait un bip long et laid. Elle dit: « Code faux. » Gaston devient tout blanc. Il ne comprend pas. Il n'oublie jamais un chiffre!",
+    "Josiane reste calme. Elle dit: « Pas de panique. Vous pouvez essayer encore deux fois. » Gaston recommence, très lentement. Il tape comme un mauvais pianiste. La machine réfléchit, puis elle dit: « Refusé. » Derrière lui, quelqu'un soupire fort. Gaston dit: « Ce n'est pas ma faute! Votre machine ne marche pas! » Josiane lève un sourcil. Elle ne dit rien.",
+    "Alors Gaston a une idée. Il pense: « Je vais payer sans taper le code! » Il met sa carte près de la machine. La machine fait un petit bip sec. Elle dit: « Trop cher. » Madame Roux lève un doigt: « Cinquante euros, pas plus, sans le code! Après, il faut le code. Tout le monde sait ça! » Gaston veut disparaître.",
+    "Gaston cherche dans ses poches. Il pense: « J'ai de l'argent dans mon portefeuille! » Il l'ouvre. Il y a un billet de vingt euros, un billet de dix euros, et une pièce de deux euros. La pièce roule sur la caisse. Cela fait trente-deux euros. Il n'a presque plus d'argent. Et tout le monde attend.",
+    "Il dit à voix basse: « Madame Roux, vous avez de l'argent pour moi? » La vieille dame dit non, avec un petit plaisir. Elle dit: « Moi, je paie toujours avec mon argent, et je le compte! Je ne donne rien à un homme qui achète des truffes! » Josiane dit: « Je prends la monnaie exacte, monsieur. » Mais Gaston n'a plus rien.",
+    "Alors Gaston attrape le chariot. Il veut partir vite. Il le pousse d'un coup. Mais la roue fait un bruit sec, comme un os qui casse. Elle ne tourne plus! Le chariot part de travers, très vite, vers la sortie. Quelqu'un crie: « Attention! » Gaston tient la poignée. Ses pieds quittent presque le sol.",
+    "Le chariot glisse sur le sol mouillé, comme une luge. Il tape fort dans une grande pile de boîtes en métal, près de la sortie. La pile tient une seconde. Puis elle tombe avec un bruit énorme! Les boîtes roulent partout: haricots, petits pois, thon. Madame Roux crie: « C'est la fin des haricots! » Josiane se lève et dit: « Au moins, vous n'avez plus à chercher les boîtes. » Kévin arrive en courant, avec un grand sourire. Puis le directeur arrive, et un grand homme de la sécurité. Josiane donne le ticket à Gaston: « Merci, bonne journée! »"
+  ],
+  "word_count": 708,
+  "vocabulary": [
+    {
+      "term": "l'argent",
+      "pos": "nom",
+      "gloss_en": "money"
+    },
+    {
+      "term": "carte",
+      "pos": "nom",
+      "gloss_en": "card (bank card)"
+    },
+    {
+      "term": "euros",
+      "pos": "nom",
+      "gloss_en": "euros"
+    },
+    {
+      "term": "payer",
+      "pos": "verbe",
+      "gloss_en": "to pay"
+    },
+    {
+      "term": "la caisse",
+      "pos": "nom",
+      "gloss_en": "checkout"
+    },
+    {
+      "term": "le code",
+      "pos": "nom",
+      "gloss_en": "PIN code"
+    },
+    {
+      "term": "la machine",
+      "pos": "nom",
+      "gloss_en": "machine (card reader)"
+    },
+    {
+      "term": "un billet",
+      "pos": "nom",
+      "gloss_en": "banknote"
+    },
+    {
+      "term": "une pièce",
+      "pos": "nom",
+      "gloss_en": "coin"
+    },
+    {
+      "term": "le chariot",
+      "pos": "nom",
+      "gloss_en": "trolley"
+    },
+    {
+      "term": "le ticket",
+      "pos": "nom",
+      "gloss_en": "receipt"
+    },
+    {
+      "term": "le directeur",
+      "pos": "nom",
+      "gloss_en": "manager"
+    },
+    {
+      "term": "la monnaie",
+      "pos": "nom",
+      "gloss_en": "change"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Combien d'euros fait le total?",
+      "answer": "Cent soixante-dix-huit euros quarante."
+    },
+    {
+      "question": "Quel est le plan de Gaston pour payer?",
+      "answer": "Il veut payer soixante euros."
+    },
+    {
+      "question": "Pourquoi la carte ne marche pas la première fois?",
+      "answer": "Gaston tape un code faux."
+    },
+    {
+      "question": "Combien d'argent a Gaston dans son portefeuille?",
+      "answer": "Il a trente-deux euros."
+    },
+    {
+      "question": "Que fait le chariot à la fin?",
+      "answer": "Il tape dans une pile de boîtes, et elles tombent."
+    },
+    {
+      "question": "Que dit Josiane à la fin?",
+      "answer": "Elle dit: « Merci, bonne journée! »"
+    }
+  ],
+  "generated": {
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18"
+  }
+}
