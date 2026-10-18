@@ -49,7 +49,7 @@
       "chapter_count": 10,
       "path": "fr/le-dernier-tablier/book.json",
       "updated": "2026-10-15",
-      "revision": "3499fd7e59e0"
+      "revision": "16766d853467"
     },
     {
       "id": "les-marees-de-marseille",
@@ -71,7 +71,7 @@
       "chapter_count": 10,
       "path": "fr/les-marees-de-marseille/book.json",
       "updated": "2026-10-15",
-      "revision": "ab39a2ee3afb"
+      "revision": "ca5474b45487"
     },
     {
       "id": "saint-louis",
@@ -166,7 +166,7 @@
       "chapter_count": 6,
       "path": "fr/les-courses-du-samedi/book.json",
       "updated": "2026-10-18",
-      "revision": "16785c6451e7"
+      "revision": "5712d3182272"
     }
   ]
 }
