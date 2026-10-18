@@ -24,7 +24,8 @@
       ],
       "chapter_count": 12,
       "path": "fr/jeanne-d-arc-1412-1431/book.json",
-      "updated": "2026-10-15"
+      "updated": "2026-10-15",
+      "revision": "aa4d9118d87d"
     },
     {
       "id": "le-dernier-tablier",
@@ -47,7 +48,8 @@
       ],
       "chapter_count": 10,
       "path": "fr/le-dernier-tablier/book.json",
-      "updated": "2026-10-15"
+      "updated": "2026-10-15",
+      "revision": "3499fd7e59e0"
     },
     {
       "id": "les-marees-de-marseille",
@@ -68,7 +70,8 @@
       ],
       "chapter_count": 10,
       "path": "fr/les-marees-de-marseille/book.json",
-      "updated": "2026-10-15"
+      "updated": "2026-10-15",
+      "revision": "ab39a2ee3afb"
     },
     {
       "id": "saint-louis",
@@ -92,7 +95,8 @@
       ],
       "chapter_count": 10,
       "path": "fr/saint-louis/book.json",
-      "updated": "2026-10-15"
+      "updated": "2026-10-15",
+      "revision": "a0f089ff1c75"
     },
     {
       "id": "hugues-capet",
@@ -115,7 +119,8 @@
       ],
       "chapter_count": 10,
       "path": "fr/hugues-capet/book.json",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "revision": "bb8730edca46"
     },
     {
       "id": "paris-en-escargot",
@@ -137,7 +142,8 @@
       ],
       "chapter_count": 21,
       "path": "fr/paris-en-escargot/book.json",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "revision": "0a4a56d12ba1"
     }
   ]
 }
